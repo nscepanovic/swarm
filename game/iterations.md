@@ -11,6 +11,8 @@ Najnovije na vrhu. Svaki unos: sta je promenjeno, zasto, sta je otvoreno.
 - Vise paša: bagrem, lipa, livada, suncokret (i repica). Suncokret je glavno
   mesto za edukaciju o prskanju.
 - Kasnije u igri: usluga oprasivanja, pocinje sa bademom.
+- Selidba sa pase na pasu je napredno pcelarenje i radi se sa pcelinjakom
+  u kontejneru. Dolazi kasnije u igri (lekcija 11).
 - Predlozeno od agenta (nije trazeno, Nemanja potvrdjuje): pregled kosnice
   kao glavna edukativna interakcija; takmicenje meri kvalitet, ne kolicinu;
   varoa koja se prenosi izmedju suseda kao razlog za saradnju; posetilac

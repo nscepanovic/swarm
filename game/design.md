@@ -53,8 +53,12 @@ ukusom i cenom: bagrem, lipa, livada, suncokret (i repica). Igrac koji zna
 kad sta cveta i gde, moze da ima vise vrsta meda u jednoj godini. To je
 najveci razlog da se uci kalendar cvetanja.
 
-**Selidba na pasu.** Kasnije u igri igrac moze da preveze kosnice (prikolica)
-blizu bagrema ili suncokreta dok cvetaju. Tako rade pravi pcelari.
+**Selidba sa pase na pasu (napredno pcelarenje).** Kasnije u igri igrac
+seli kosnice sa jedne pase na drugu kako cvetaju: bagrem, pa lipa, pa
+suncokret. Tako rade pravi pcelari i tako dobijaju vise vrsta meda. Radi se
+sa **pcelinjakom u kontejneru**, koji se prevozi ceo. Ovo je napredni deo
+igre: trazi znanje, iskustvo i reputaciju, i otkljucava se tek kad igrac
+savlada pcelarenje na jednom mestu.
 
 ## 4. Kalendar i vreme
 
@@ -132,7 +136,7 @@ jedna vrsta, ostale se otkljucavaju.
 | Vrcaljka (rucna, pa elektricna) | vadjenje meda | prvo vrcanje |
 | Topionica voska | vosak od starih ramova i poklopaca | lekcija o vosku |
 | Hvataci polena, propolisa | novi proizvodi | lekcije o tim proizvodima |
-| Prikolica | selidba na pasu | reputacija + lekcija o selidbi |
+| Kontejner pcelinjak | selidba sa pase na pasu | napredno: znanje + iskustvo + reputacija, lekcija o selidbi |
 
 ## 7. Proizvodi
 
@@ -246,6 +250,7 @@ iskustvo. Selidba trazi znanje i reputaciju.
 8. Pesticidi i zagadjenje → zadaci sa poljoprivrednikom i fabrikom
 9. Opasnosti i prva pomoc → zadaci sa posetiocima
 10. Vosak, propolis, polen → novi proizvodi
+11. Selidba i kontejner (napredno) → selidba sa pase na pasu, usluga oprasivanja
 
 ## 11. NPC-jevi
 
