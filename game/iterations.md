@@ -2,6 +2,23 @@
 
 Najnovije na vrhu. Svaki unos: sta je promenjeno, zasto, sta je otvoreno.
 
+## v0.3 · 2026-09-19 · igra mora da bude igra
+
+- Nemanja: "sve je lepo, ali ovo je igra, mora da bude gamifikovano,
+  imaginarno ali i poucno". v0.2 je bio previse simulacija.
+- Novo: sekcija 3 "Igra: zabava i carolija": svet koji cveta i Siva magla,
+  pcela pratilac, Pcelopedija (karte), 8 mini igara, petlja nagrada, farbanje
+  kosnica, veliki dogadjaji za server (zima, strsljeni, Siva fabrika).
+- Novi princip 7: mastovito u formi, tacno u sustini; magija nikad ne
+  resava pravi pcelarski problem.
+- Nemanja: vise tipova kosnica, svaki sa svojim prednostima. Dodata tabela
+  sa bonusima i manama (sekcija 7); konacan spisak i dalje bira developer.
+- Heroji dobili imena na engleskom (Queen Whisperer, Honey Merchant, Hive
+  Alchemist, Meadow Warden, Hivesmith, Venom Healer, Wandering Keeper).
+- Sekcije pomerene za jedan broj (3 je nova).
+- Sadrzaj sekcije 3 i tabelu kosnica predlozio agent. Otvoreno: sta od
+  toga ide u prvu igrivu verziju, naziv sveta, `[proveriti]` cinjenice.
+
 ## v0.2 · 2026-09-19 · odgovori na pitanja i heroji
 
 - Odluke (Nemanja): publika i deca i odrasli; igra na engleskom; apitoksin

@@ -1,8 +1,8 @@
 # Pcelinjak — dizajn igre
 
-**Verzija:** v0.2 · 2026-09-19
+**Verzija:** v0.3 · 2026-09-19
 **Za:** developera igre (engine i vizuelni stil vec postoje) i Nemanju
-**Status:** drugi nacrt. Otvorena pitanja su na dnu.
+**Status:** treci nacrt. Otvorena pitanja su na dnu.
 
 ---
 
@@ -10,9 +10,11 @@
 
 - **Publika: i deca i odrasli.** Ista igra, dva nivoa (vidi princip 6).
 - **Jezik igre: engleski.** Ovaj dokument ostaje na srpskom jer je za tim.
-- **Apitoksin i apiterapija su u igri**, kroz heroja Apiterapeut (sekcija 11).
-- **Tipove kosnica bira developer.**
-- **Vise heroja** za igrace sa razlicitim vestinama i sklonostima (sekcija 11).
+- **Apitoksin i apiterapija su u igri**, kroz heroja Apiterapeut (sekcija 12).
+- **Vise tipova kosnica, svaki sa svojim prednostima** (sekcija 7).
+  Konacan spisak bira developer.
+- **Vise heroja** za igrace sa razlicitim vestinama i sklonostima (sekcija 12).
+- **Igra je igra.** Gamifikovana i mastovita, ali poucna (sekcija 3).
 
 ## 1. U jednoj recenici
 
@@ -41,8 +43,89 @@ zive, zasto su vazne, i sta ih ugrozava.
    - *Pravi pcelar* (za odrasle): puna simulacija, posledice sa
      zakasnjenjem, mentor pomaze samo kad ga igrac pozove.
    Nivo se moze promeniti kasnije.
+7. **Mastovito u formi, tacno u sustini.** Svet je bajkovit, pcele pricaju,
+   zagadjenje je siva magla koja guta boje. Ali sve sto igra uci o pcelama je
+   istina, i **magija nikad ne resava pravi problem**: nema napitka koji
+   leci varou. Varoa se resava kao u stvarnosti, samo je to u igri zabavno.
 
-## 3. Svet i mapa
+## 3. Igra: zabava i carolija
+
+Sve ostalo u ovom dokumentu je *sta* igra uci. Ova sekcija je *zasto se
+igra*. Svaki sistem posle ovoga ima i red "Kako je zabavno".
+
+### Svet koji cveta
+
+Regija se zove **Bloomvale** `[radni naziv]`. Na pocetku igre svet je bled,
+pola mape je sivo. **Sto vise pcela i cveca, to vise boje.** Oko svakog
+zdravog pcelinjaka mapa oziva: cvece nikne, drvece dobije plodove, dodju
+ptice. Igrac bukvalno vidi da pcele oprasuju svet.
+*Sta nauci:* bez oprasivanja nema ploda; velik deo hrane zavisi od
+oprasivaca `[proveriti formulaciju i broj pre nego sto ide u igru]`.
+
+Suprotno: **Siva magla** (Grey Mist) izlazi iz fabrike i sa njiva gde se
+prska u cvetu. Gde padne, boja nestaje i pcele slabe. Magla se ne pobedjuje
+macem, nego onim sto radi i u stvarnosti: ubedi poljoprivrednika, skupi
+dokaze, posadi medonosno bilje. Svako resenje vrati deo boje.
+
+### Pcela pratilac
+
+Svaki igrac ima **pcelu pratioca** koja leti za njim i prica. Ona je glas
+mentora: daje savete, komentarise, sali se. Ime joj daje igrac. Raste sa
+igracem (novi izgled kako igrac napreduje). U nivou *Vodjeni* prica vise, u
+nivou *Pravi pcelar* samo kad je pozoves.
+*Sta nauci:* pcela prica o sebi iz prvog lica ("In summer I only live a few
+weeks, so I work fast!" `[proveriti]`). Deca pamte price, ne tabele.
+
+### Pcelopedija (Beedex)
+
+Kolekcija karata. Svaka nova stvar koju igrac otkrije postaje karta: cvet,
+vrsta meda, tip kosnice, bolest, stetocina, posao pcele (cistacica,
+hraniteljica, strazar, skupljacica...). Svaka karta ima jednu pravu,
+zanimljivu cinjenicu i retkost (obicna, retka, legendarna). Skupi sve karte
+jedne grupe, dobij nagradu.
+*Sta nauci:* ovo je enciklopedija koju igrac sam sastavlja.
+
+### Mini igre
+
+Glavne radnje su kratke mini igre, isto kao zadaci iz matematike u
+postojecoj igri:
+
+| Mini igra | Kako se igra | Sta nauci |
+|---|---|---|
+| **Queen Hunt** | nadji maticu na ramu medju stotinama pcela, na vreme | kako izgleda matica, trut, radilica |
+| **Frame Reader** | pogledaj ram i reci sta vidis: jaja, leglo, med, polen, maticnjaci | citanje rama, pregled kosnice |
+| **Mite Spotter** | pronadji varou na pcelama i u leglu | varoa, kako se meri zaraza |
+| **Swarm Chase** | roj je izleteo! prati ga po mapi i uhvati ga pre nego sto ode | zasto se roji, kako se hvata roj |
+| **Honey Harvest** | ritam igra: otklapanje, vrcanje, cedjenje | koraci vrcanja, zrelost meda |
+| **Waggle Dance** | procitaj ples pcele: pravac i daljina do cveca | pcelinji ples, kako pcele komuniciraju |
+| **Hive Defense** | ose i strsljeni napadaju kraj leta; suzi leto, postavi zamke | grabez, zastita slabe zajednice |
+| **Blind Tasting** | pogodi vrstu meda po boji, ukusu, kristalizaciji | vrste meda, kvalitet |
+
+### Petlja nagrada
+
+- **Iskustvo i nivoi** za svaku radnju, sa jasnim "ding!" trenutkom.
+- **Dnevni zadaci** na tabli u gradu (Bounty Board): "Uhvati roj",
+  "Isporuci 3 tegle lipovog", "Nauci farmera da prska uvece".
+- **Dostignuca i znacke:** "Prvi med", "Preziveo zimu sa svim
+  zajednicama", "Spasio 10 njiva od magle".
+- **Farbanje kosnica i ukrasi:** kosnice u bojama i sa sarama, ukrasi za
+  pcelinjak. Igrac se izrazava.
+  *Sta nauci:* pcelari farbaju kosnice u razlicite boje da bi pcele lakse
+  nasle svoju kucu `[proveriti]`.
+- **Retki dogadjaji:** zlatni roj, retki cvet koji cveta jednom godisnje,
+  legendarna matica.
+
+### Veliki dogadjaji (za ceo server)
+
+- **Zima kao izazov prezivljavanja.** Pred zimu igraci pripremaju
+  zajednice. U prolece se broji ko je sacuvao sve. Nagrada i slava.
+- **Najezda strsljena** (boss dogadjaj): igraci brane pcelinjake zajedno.
+- **Siva fabrika** (boss za ceo server): igraci zajedno skupljaju dokaze,
+  ubedjuju grad i sade cvece dok se fabrika ne promeni. Kad padne, ceo deo
+  mape se oboji.
+- **Sajam meda i Festival cveca:** sezonske zabave sa takmicenjima.
+
+## 4. Svet i mapa
 
 Isti izometrijski stil kao postojeca igra. Jedna regija za pocetak, sa:
 
@@ -51,7 +134,7 @@ Isti izometrijski stil kao postojeca igra. Jedna regija za pocetak, sa:
 | Zemljiste igraca | prazna parcela na kojoj pravi pcelinjak | pocetak igre |
 | Bagremova suma | cveta u maju | glavna prolecna pasa |
 | Lipe (drvored, suma) | cvetaju u junu | letnja pasa |
-| Njive suncokreta | cvetaju u julu | velika letnja pasa; ovde se najcesce prska (vidi 9) |
+| Njive suncokreta | cvetaju u julu | velika letnja pasa; ovde se najcesce prska (vidi 10) |
 | Njive uljane repice | cvetaju u aprilu | rana pasa, takodje se prska |
 | Livade, vocnjaci | rano prolece | razvoj zajednice posle zime |
 | Reka, potok | voda | pcelama treba voda; mesto za pcelinjak blizu vode je bolje |
@@ -75,7 +158,7 @@ sa **pcelinjakom u kontejneru**, koji se prevozi ceo. Ovo je napredni deo
 igre: trazi znanje, iskustvo i reputaciju, i otkljucava se tek kad igrac
 savlada pcelarenje na jednom mestu.
 
-## 4. Kalendar i vreme
+## 5. Kalendar i vreme
 
 Igra ide kroz godisnja doba. Svaka sezona ima svoj posao:
 
@@ -92,7 +175,7 @@ Koliko traje godina u igri je otvoreno pitanje (vidi dno). Predlog je da se
 jedna sezona odigra za nekoliko sati igre, tako da igrac vidi posledice svojih
 odluka iz jedne sezone u sledecoj.
 
-## 5. Zajednica (srce igre)
+## 6. Zajednica (srce igre)
 
 Svaka kosnica je zajednica sa stanjem koje igrac ne vidi direktno. Vidi ga
 samo kad otvori kosnicu i pogleda ramove. To je namerno: **pregled je vestina.**
@@ -103,7 +186,7 @@ samo kad otvori kosnicu i pogleda ramove. To je namerno: **pregled je vestina.**
 - leglo: jaja, larve, poklopljeno leglo, raspored (lep ili rupicast)
 - hrana: med i polen u ramovima
 - varoa: nivo zaraze
-- bolest: nema / neka od bolesti iz sekcije 9
+- bolest: nema / neka od bolesti iz sekcije 10
 - pritisak rojenja: raste kad je gusto i puno hrane
 - narav: mirne ili agresivne pcele
 - prostor: broj nastavaka i ramova
@@ -129,14 +212,29 @@ matica 16 dana, radilica 21 dan, trut 24 dana od jajeta do izlaska
 **Pravilo pregleda:** kosnica se ne otvara po kisi, hladnom vremenu ni zimi.
 Ako igrac to uradi, zajednica trpi. Tako se uci kad se sme raditi.
 
-## 6. Pcelinjak i oprema
+## 7. Pcelinjak i oprema
 
 **Postavljanje pcelinjaka.** Igrac bira mesto na svom zemljistu i dobija
 ocenu mesta: sunce, zaklon od vetra, voda blizu, sta cveta u radijusu, koliko
 je daleko od puta i od kuca. Kosnice ne stoje prema stazi kojom ljudi hodaju.
 
-**Tipovi kosnica** bira developer. Pocetak je jedna vrsta, ostale se
-otkljucavaju.
+**Tipovi kosnica.** Ima ih vise i svaki donosi nesto drugo, kao oprema
+u RPG igri: igrac bira kosnicu prema tome kako igra. Konacan spisak i
+izgled bira developer. Prednosti ispod su prave razlike izmedju ovih
+kosnica u pcelarstvu, pretvorene u bonuse:
+
+| Kosnica | Bonus u igri | Mana u igri | Prava razlika |
+|---|---|---|---|
+| **LR** | nastavci se lako dodaju i menjaju, najlaksa za selidbu i trgovinu delovima | zahteva vise dizanja pri pregledu | modularna, najrasirenija, delovi su standardni |
+| **Dadant-Blatt** | jace i mirnije zajednice, bolje prezimljavanje | teska, sporija za selidbu | veliko pleodiste |
+| **AZ** | pregled bez dizanja nastavaka, idealna za pcelinjak u kontejneru ili paviljonu | sporiji pregled, ne stoji na otvorenom | radi se sa zadnje strane, kao ormar `[proveriti]` |
+| **Nakladnjaca bez ramova (top-bar)** | jeftina, prirodno sace, laka za decu i pocetnike | manje meda | sace bez zicanih ramova |
+| **Kosnica sa staklom (opservaciona)** | zajednica se vidi uzivo; bonus za Pcelopediju i cas sa decom | nema meda | za edukaciju i izlozbe |
+| **Pletara (legendarna)** | kolekcionarski predmet u muzeju grada | ne moze da se pregleda | stara kosnica bez ramova; pcelar nije mogao da pregleda zajednicu `[proveriti]` |
+
+*Kako je zabavno:* izbor ima posledice, kao izbor oruzja. Selidbasu treba
+LR ili AZ, Queen Whispereru Dadant-Blatt, detetu top-bar.
+*Sta nauci:* zasto postoje razlicite kosnice i sta je ram.
 
 **Oprema, sa sta otkljucava:**
 
@@ -152,7 +250,7 @@ otkljucavaju.
 | Hvataci polena, propolisa | novi proizvodi | lekcije o tim proizvodima |
 | Kontejner pcelinjak | selidba sa pase na pasu | napredno: znanje + iskustvo + reputacija, lekcija o selidbi |
 
-## 7. Proizvodi
+## 8. Proizvodi
 
 | Proizvod | Kako nastaje u igri | Sta utice na kvalitet |
 |---|---|---|
@@ -162,7 +260,7 @@ otkljucavaju.
 | Polen | hvatac polena na letu | ne sme da se preteruje, zajednici treba |
 | Roj i matice | prodaja drugim igracima | napredno |
 | Maticni mlec | napredno, zahteva posebnu edukaciju | kasnije |
-| Apitoksin (pcelinji otrov) | poseban uredjaj na letu kosnice, pcele ostave otrov a ne uginu `[proveriti opis]` | samo Apiterapeut, vidi sekciju 11 |
+| Apitoksin (pcelinji otrov) | poseban uredjaj na letu kosnice, pcele ostave otrov a ne uginu `[proveriti opis]` | samo Apiterapeut, vidi sekciju 12 |
 
 **Zrelost meda.** Nezreo med (nepoklopljen) ima previse vode i moze da
 fermentise. Igrac koji vrca prerano dobije losiji med, i laboratorija u gradu
@@ -180,7 +278,7 @@ zajednica mora da bude jaka vec na kraju zime: igrac koji je dobro pripremio
 zimu moze da uzme posao, ostali ne mogu. Uci da je oprasivanje vrednije od
 meda: bez pcela nema ni ploda. `[proveriti: kad badem cveta u nasem kraju]`
 
-## 8. Grad, trgovina i narudzbine
+## 9. Grad, trgovina i narudzbine
 
 - **Pijaca:** igrac prodaje sta ima. Cena zavisi od vrste i kvaliteta.
 - **Narudzbine:** NPC trazi "5 tegli bagremovog do kraja proleca" ili
@@ -191,9 +289,12 @@ meda: bez pcela nema ni ploda. `[proveriti: kad badem cveta u nasem kraju]`
 - **Udruzenje pcelara:** lekcije, takmicenja, i drugi igraci.
 - **Veterinar:** dijagnoza bolesti, obavezna prijava nekih bolesti.
 
-## 9. Problemi i opasnosti
+## 10. Problemi i opasnosti
 
 ### Za pcele
+
+U igri ovi problemi dolaze kao **dogadjaji** sa jasnim znakom na mapi
+(ikonica iznad kosnice, pcela pratilac se uznemiri), ne kao skriveni broj.
 
 | Problem | Kako se pojavi | Sta igrac radi | Sta nauci |
 |---|---|---|---|
@@ -240,7 +341,7 @@ promenu (dugo resenje, zajednicki cilj servera). Uci da su pcele
 
 Ovo ide kroz NPC situacije, ne kroz tekst upozorenja.
 
-## 10. Napredak: znanje, iskustvo, reputacija
+## 11. Napredak: znanje, iskustvo, reputacija
 
 Tri odvojene stvari:
 - **Znanje** = zavrsene lekcije. Lekciju daje NPC (stari pcelar, veterinar,
@@ -268,25 +369,29 @@ iskustvo. Selidba trazi znanje i reputaciju.
 11. Selidba i kontejner (napredno) → selidba sa pase na pasu, usluga oprasivanja
 12. Apiterapija (za heroja Apiterapeut) → apitoksin, rad sa pacijentima
 
-## 11. Heroji
+## 12. Heroji
 
 Svi igraci imaju pcelinjak i uce osnove. Heroj je **specijalnost**: sta
 igrac najvise voli da radi. Daje svoje zadatke, svoju opremu i svoj nacin
 zarade, i uci jedan deo pcelarstva dublje. Postojeca igra vec ima klase
 (npr. "Monk"), pa je ovo isti sistem.
 
+Svaki heroj ima svoje stablo vestina, svoj izgled i svoju posebnu mini
+igru. Imena su na engleskom jer je igra na engleskom; u zagradi je sta heroj
+radi.
+
 Heroji zavise jedni od drugih. To je glavni razlog za vise igraca: niko ne
 moze sve sam.
 
 | Heroj | Za igraca koji voli | Posebno radi | Sta nauci dublje | Treba mu od drugih |
 |---|---|---|---|---|
-| Uzgajivac matica | detalje, biologiju | gaji matice, bira mirne i zdrave linije, prodaje matice | razvoj matice, sta je dobra zajednica | Istrazivaca za zdravlje |
-| Trgovac medom | trgovinu, ljude | narudzbine iz vise gradova, pakovanje, etikete, bolja cena | vrste meda, kvalitet, kristalizacija, kako se prepozna patvoren med | med od drugih igraca |
-| Istrazivac | analize, zagonetke | mikroskop, laboratorija, dijagnoza bolesti, merenje varoe | bolesti, varoa, zasto zajednice umiru | uzorke od drugih pcelara |
-| Zastitnik prirode | price, ubedjivanje | zadaci sa poljoprivrednicima i fabrikom, sadi medonosno bilje | pesticidi, bioindikator, zasto su pcele vazne za hranu | dokaze (analize) od Istrazivaca |
-| Majstor | pravljenje | pravi kosnice, ramove, opremu, kasnije kontejnere, prodaje drugima | delovi kosnice, zasto su mere bitne (pcelinji razmak) `[proveriti]` | vosak i narudzbine |
-| Apiterapeut | zdravlje, ljude | apitoksin, propolis, rad sa pacijentima u gradu | sta je apiterapija, sigurnost, alergija | proizvode od drugih pcelara |
-| Selidbas (napredno) | put, velike poslove | selidba sa pase na pasu, usluga oprasivanja (badem) | kalendar cvetanja, oprasivanje | kontejner od Majstora |
+| **Queen Whisperer** (uzgajivac matica) | detalje, biologiju | gaji matice, bira mirne i zdrave linije, prodaje matice | razvoj matice, sta je dobra zajednica | Istrazivaca za zdravlje |
+| **Honey Merchant** (trgovac medom) | trgovinu, ljude | narudzbine iz vise gradova, pakovanje, etikete, bolja cena | vrste meda, kvalitet, kristalizacija, kako se prepozna patvoren med | med od drugih igraca |
+| **Hive Alchemist** (istrazivac, laboratorija) | analize, zagonetke | mikroskop, laboratorija, dijagnoza bolesti, merenje varoe | bolesti, varoa, zasto zajednice umiru | uzorke od drugih pcelara |
+| **Meadow Warden** (zastitnik prirode) | price, ubedjivanje | zadaci sa poljoprivrednicima i fabrikom, sadi medonosno bilje | pesticidi, bioindikator, zasto su pcele vazne za hranu | dokaze (analize) od Istrazivaca |
+| **Hivesmith** (majstor) | pravljenje | pravi kosnice, ramove, opremu, kasnije kontejnere, prodaje drugima | delovi kosnice, zasto su mere bitne (pcelinji razmak) `[proveriti]` | vosak i narudzbine |
+| **Venom Healer** (apiterapeut) | zdravlje, ljude | apitoksin, propolis, rad sa pacijentima u gradu | sta je apiterapija, sigurnost, alergija | proizvode od drugih pcelara |
+| **Wandering Keeper** (selidbas, napredno) | put, velike poslove | selidba sa pase na pasu, usluga oprasivanja (badem) | kalendar cvetanja, oprasivanje | kontejner od Majstora |
 
 **Apiterapeut, pravila sadrzaja.** Apiterapija je deo igre, ali igra uci,
 ne obecava:
@@ -301,7 +406,7 @@ ne obecava:
 Apiterapeut je samo u nivou *Pravi pcelar*.
 `[proveriti sa developerom: moze li igrac kasnije da uzme drugu specijalnost]`
 
-## 12. NPC-jevi
+## 13. NPC-jevi
 
 | NPC | Uloga |
 |---|---|
@@ -315,7 +420,7 @@ Apiterapeut je samo u nivou *Pravi pcelar*.
 | Lekar | radi sa Apiterapeutom, salje pacijente, prati sigurnost |
 | Pacijenti | zadaci za Apiterapeuta |
 
-## 13. Vise igraca i takmicenje
+## 14. Vise igraca i takmicenje
 
 Takmicenje meri **dobro pcelarenje, ne kolicinu meda**:
 - **Sajam meda** (u gradu, jednom po sezoni): ocenjuje se kvalitet, ne
@@ -329,19 +434,23 @@ Saradnja, jer tako radi pravo pcelarstvo:
   bolje. Ovo je prirodan razlog da igraci razgovaraju.
 - Prodaja i razmena rojeva i matica medju igracima.
 - Zajednicki ciljevi servera: promena ponasanja poljoprivrednika, fabrika.
-- Heroji trguju uslugama i proizvodima (sekcija 11).
+- Heroji trguju uslugama i proizvodima (sekcija 12).
 
 Takmicenje je i po herojima: najbolji uzgajivac matica, najbolji med na
 sajmu, Zastitnik koji je promenio najvise njiva.
 
-## 14. Prva igriva verzija
+## 15. Prva igriva verzija
 
 Dovoljno malo da se napravi, dovoljno da se vidi da igra radi:
 
 - jedna mapa: zemljiste igraca, bagrem, livada, jedna njiva, reka, jedan grad
 - jedna sezona: prolece (mart do kraja bagrema)
-- do 3 kosnice po igracu, jedan tip kosnice
+- do 3 kosnice po igracu, dva tipa kosnice (da se vidi da izbor nesto menja)
 - pregled kosnice sa zadacima: matica, jaja, leglo, maticnjaci, prostor
+- mini igre: Queen Hunt, Frame Reader, Swarm Chase, Honey Harvest
+- pcela pratilac, Pcelopedija (prvih 20-ak karata), Bounty Board, nivoi
+- svet koji cveta oko pcelinjaka (bez Sive fabrike, samo magla sa njive)
+- farbanje kosnica
 - lekcije 1-4 i 6
 - jedan proizvod: med (livadski i bagremov), prodaja na pijaci, narudzbine
 - NPC: mentor, poljoprivrednik (niz "Komsija prska" na njivi uljane repice,
@@ -356,7 +465,7 @@ Van prve verzije: leto (lipa, suncokret), zima i jesen, varoa, bolesti,
 fabrika, selidba, usluga oprasivanja (badem), ostali proizvodi, sajam,
 ostali heroji.
 
-## 15. Otvorena pitanja
+## 16. Otvorena pitanja
 
 **Za Nemanju:**
 1. Potvrda svih mesta obelezenih sa `[proveriti]`.
@@ -369,6 +478,6 @@ ostali heroji.
 3. Koliko igraca je na jednoj mapi, i da li mogu da vide tudje pcelinjake?
 4. Kako se u postojecoj igri radi zadatak od NPC-ja: moze li zadatak da bude
    "klikni na pravu stvar na slici" (za pregled ramova)?
-5. Koje tipove kosnica uzimamo (tvoja odluka)?
+5. Koje tipove kosnica uzimamo i kako izgledaju (tvoja odluka)? Predlog je u sekciji 7.
 6. Klase u postojecoj igri: mogu li da nose svoje zadatke, opremu i
    otkljucavanje? Moze li igrac da promeni ili doda specijalnost?

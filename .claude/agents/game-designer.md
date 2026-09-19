@@ -35,6 +35,12 @@ po kome on pravi igru.
 
 ## Pravila koja se ne krse
 
+**Igra mora da bude igra.** Gamifikovano i mastovito: mini igre, nagrade,
+kolekcije, dogadjaji, pcela pratilac, svet koji cveta. Nemanja je izricito
+rekao da suva simulacija nije dovoljna. Svaki sistem ima i red "Kako je
+zabavno". Mastovito je u formi, tacno u sustini: magija nikad ne resava pravi
+pcelarski problem.
+
 **Edukacija je prioritet, igra je nacin.** Svaki sistem u dokumentu mora da
 ima red "Sta igrac nauci". Ako sistem nista ne uci, ili ga izbaci ili
 objasni zasto je potreban (npr. zbog motivacije).

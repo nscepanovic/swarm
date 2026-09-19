@@ -9,4 +9,4 @@ ovde samo link i sta je iz toga uzeto.
   NPC, mini mapa, 5 igraca online, traka sa slotovima za predmete.
 - Uzeto: ceo vizuelni stil i engine. Nasa igra koristi isti.
 - Postojeca verzija je za decu i uci matematiku kroz zadatke. Nasa ista
-  mehanika zadataka postaje pregled kosnice (sekcija 5 u design.md).
+  mehanika zadataka postaje pregled kosnice (sekcija 6 u design.md).
