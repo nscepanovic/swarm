@@ -1,42 +1,46 @@
 ---
-date: ""
+date: "2026-09-19"
 time: ""
 account: "0xbeesmart"
 status: "draft"
-media: "dji_mimo_20260919_*.mp4 (izabrati jedan, kratak) ili 20260919_115345.jpg"
+media: "jedan od dji_mimo_20260919_*.mp4 (Nemanja je izabrao, fajl nije naveden)"
 tweet_id: ""
-title: "Weekend is here: vosak"
+title: "Weekend in Bosnia: vosak"
 ---
 
-# @0xbeesmart, trend "weekend is here" (ceka odobrenje)
+# @0xbeesmart, trend "weekend is here" (tekst je Nemanjin)
 
 Trend: "weekend is here, my plan:" (@cr00kedTuna 19.09 10:02Z, @coinempress isto
-jutro). Nasa verzija je jedan konkretan kadar sa terena umesto liste.
-Video nije pregledan. Tekst pretpostavlja samo ono sto je Nemanja rekao:
-co-founder cedi i topi vosak.
+jutro). Vikend je inace pauza po pravilu; Nemanja je odlucio da objavi danas.
 
-Format: samostalan post + video (playbook-personal, tacka 1).
+Format: samostalan post + video, ili quote posta od 16.09 + video.
 
-## POST (varijanta 1)
+## POST (Nemanjine reci, ispravljeni samo tipfeleri)
 
-Weekend is here. I found my co-founder straining and melting wax.
+I found my co-founder in Bosnia melting wax. Chill Saturday.
 
-What is your plan? 🐝
+What are you up to? 🐝
 
-## POST (varijanta 2, ako Nemanja kaze sta je nedelja)
+(Emoji je moj predlog, izbaci ako neces.)
 
-Weekend is here.
+## Zasto Bosna i "found" rade
 
-Saturday: wax. My co-founder is straining and melting it.
-Sunday: [Nemanja da kaze, ili izbaci ovu liniju]
+Bosna i Sinisa su vec javni: @hivebits_io, 16.09,
+https://x.com/hivebits_io/status/2100253385857364467
+"Next week @0xBeeSmart is in Bosnia with co-founder Sinisa to lock in equipment
+suppliers and meet with government representatives about agricultural grants."
+Zato "found my co-founder in Bosnia" nije nova vest o mestu, nego ispunjeno
+obecanje. Ovo je i primer iz CLAUDE.md, "Obecanje kao artefakt".
 
-What is your plan? 🐝
+## Opcija: quote umesto samostalnog posta
+
+Quote-uj gornji post od 16.09 i stavi isti tekst + video. Tada je "found"
+jasno (ljudi vide zasto si u Bosni), i to je "rekli smo / evo ga" u jednom
+postu. Ako je tekst kratak (ispod ~200 znakova) cita se unutar quote-a.
 
 ## Pre objave
 
-- Nedelja, mesto, ime i bilo koji plan ostaju prazni dok Nemanja ne kaze.
-  Ne izmisljam plan za vikend.
-- Trend je vezan za danas, pa je danas jedini dan kad ovaj post ima smisla.
-  Vikend je inace pauza po pravilu, zato je objava Nemanjina odluka.
-- Pitanje na kraju je jedino "engagement" u postu. Ako neko odgovori,
-  odgovara se zbog odnosa, ne zbog dosega.
+- Post ne pominje farmu ni HiveBits lokaciju, samo licni trenutak. Ne dodaji
+  "our farm in Bosnia" ni sta ce se graditi, to nije izgovoreno.
+- Ime nije u tekstu. Ako hoces, "my co-founder Sinisa" je vec javno.
+- Video nije pregledan. Ako ne pokazuje vosak, tekst se prilagodjava.
