@@ -44,7 +44,8 @@ Skripte bez AI-ja. Server ih pokrece sam; rucno samo kad treba.
   Nalozi i pragovi su u `content/trends.json`.
 - `x_stats.py` racuna agregate za playbook. Koristi ga `x-analyst`.
 - `x_track.py` prati krivu rasta svezih postova i salje Telegram alarme.
-  Server: radnim danima 18-23h na sat, i svaki dan u 9h i 13h.
+  Server: jednom dnevno u 22h, samo postovi mladji od 3 dana (posle toga
+  vise ne rastu bitno; ukupne brojke osvezi nedeljni x_fetch).
 - `server-sync.sh` salje prikupljene podatke nazad u git. Server: 13:40 i 23:40.
 
 ## Kako traziti od Claude-a
