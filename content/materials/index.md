@@ -14,6 +14,29 @@ Drive linkove.
 
 ---
 
+## Vosak, cedjenje i topljenje (2026-09-19)
+
+Drive: folder `hivebits/Swarm`. Snimljeno telefonom/dronom (dji_mimo) i fotka,
+svi od 2026-09-19 oko 11:53-11:57. **Nista od ovoga nije pregledano**, znamo
+samo ono sto je Nemanja rekao: "svok co foundera" cedi i topi vosak (Nemanjine reci, odnos nije
+preciziran).
+
+| fajl | velicina | Drive |
+|---|---|---|
+| `20260919_115345.jpg` | 9 MB | https://drive.google.com/file/d/1TyXG5zOhEhgHJRXmD9UPFgEsOIfEWqWb/view |
+| `dji_mimo_20260919_115316_0109_..._video.mp4` | 77 MB | https://drive.google.com/file/d/11eLqHaxXBNacQqBhaoOTHS3iSAaNGebu/view |
+| `dji_mimo_20260919_115334_0110_..._video.mp4` | 77 MB | https://drive.google.com/file/d/1sc-FnQ-vZ72wNkuwAw4kQtJzJKk01aCC/view |
+| `dji_mimo_20260919_115626_0111_..._video.mp4` | 39 MB | https://drive.google.com/file/d/1WfSqGOm_fvfBV3u2eeNmPnDTiNUqMBTA/view |
+| `dji_mimo_20260919_115640_0112_..._video.mp4` | 37 MB | https://drive.google.com/file/d/1IWz3CVuP2PRyrqcR-xJz_xSQxT4SNvi3/view |
+| `dji_mimo_20260919_115740_0113_..._video.mp4` | 73 MB | https://drive.google.com/file/d/1lbnCuIsEkYUNoeoXMT3WDPII4PV0UMbu/view |
+
+Ovo popunjava rupu koju indeks ispod navodi: **prvi snimak sa terena, ne
+govorna glava.** Uz `playbook-personal.md`: samostalan post + video, ili
+pocetak threada + video, licni nalog.
+Nije iskorisceno.
+
+---
+
 ## HiveBits Superteam Livestream (2026-09-17)
 
 `inbox/HiveBits Superteam Livestream/`
