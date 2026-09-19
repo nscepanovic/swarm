@@ -44,3 +44,14 @@ postu. Ako je tekst kratak (ispod ~200 znakova) cita se unutar quote-a.
   "our farm in Bosnia" ni sta ce se graditi, to nije izgovoreno.
 - Ime nije u tekstu. Ako hoces, "my co-founder Sinisa" je vec javno.
 - Video nije pregledan. Ako ne pokazuje vosak, tekst se prilagodjava.
+
+## @hivebits_io quote-uje Nemanjin post (Nemanjina ideja: "tim je nezaustavljiv")
+
+Objavljuje se posle Nemanjinog posta, quote na njega. Kratko, bez dodatnih tvrdnji.
+
+1. The team does not stop. 🐝  (preporuka)
+2. Saturday and the team is still working. 🐝
+3. Our team never stops. Bosnia, wax, Saturday. 🐝
+
+"Unstoppable" je izbaceno jer zvuci kao brend. Nista o rokovima, farmi
+ili sta se sprema.
