@@ -18,8 +18,8 @@ Drive linkove.
 
 Drive: folder `hivebits/Swarm`. Snimljeno telefonom/dronom (dji_mimo) i fotka,
 svi od 2026-09-19 oko 11:53-11:57. **Nista od ovoga nije pregledano**, znamo
-samo ono sto je Nemanja rekao: "svok co foundera" cedi i topi vosak (Nemanjine reci, odnos nije
-preciziran).
+samo ono sto je Nemanja rekao: Nemanjin co-founder cedi i topi vosak (Nemanjine reci; ne znamo da li je
+Nemanja i sam ukljucen).
 
 | fajl | velicina | Drive |
 |---|---|---|
