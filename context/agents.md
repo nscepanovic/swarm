@@ -21,6 +21,16 @@ prepise oba playbook-a (`playbook-hivebits.md`, `playbook-personal.md`).
 **Sta vraca:** 5-10 redova: najjaci nalaz, i gde podaci nisu dovoljni za
 zakljucak. Ne izmislja brojke; svaka tvrdnja mora da se vidi u izlazu skripte.
 
+## game-designer
+
+**Kad:** kad imas novu ideju, inspiraciju ili feedback od developera igre.
+
+**Kako:** "pusti game-designer" i napisi sta je novo. Slike inspiracije
+stavi na Drive, u folder `hivebits/Swarm`.
+
+**Sta vraca:** novu verziju `game/design.md`, unos u `game/iterations.md`,
+i 3-5 redova: sta je promenjeno i koja pitanja ceka.
+
 ## Telegram
 
 Pisi botu `@hb_swarm_bot` kao sto pises ovde. Odgovara stalna Claude
