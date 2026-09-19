@@ -10,7 +10,7 @@
 
 - **Publika: i deca i odrasli.** Ista igra, dva nivoa (vidi princip 6).
 - **Jezik igre: engleski.** Ovaj dokument ostaje na srpskom jer je za tim.
-- **Apitoksin i apiterapija su u igri**, kroz heroja Apiterapeut (sekcija 12).
+- **Apitoksin i apiterapija su u igri**, kroz heroja Venom Healer (sekcija 12).
 - **Vise tipova kosnica, svaki sa svojim prednostima** (sekcija 7).
   Konacan spisak bira developer.
 - **Vise heroja** za igrace sa razlicitim vestinama i sklonostima (sekcija 12).
