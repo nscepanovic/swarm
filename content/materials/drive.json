@@ -3,5 +3,12 @@
   "folder_id": "1JGETADJy8GM91G3gN04nEQW518U1CkMR",
   "parent": "hivebits",
   "url": "https://drive.google.com/drive/folders/1JGETADJy8GM91G3gN04nEQW518U1CkMR",
-  "note": "Jedini ulaz za materijale. Nemanja ubacuje sa telefona; Claude cita preko Google Drive konektora (search_files sa parentId = folder_id)."
+  "note": "Jedini ulaz za materijale. Nemanja ubacuje sa telefona; Claude cita preko Google Drive konektora (search_files sa parentId = folder_id).",
+  "press_folder": {
+    "folder_name": "Press",
+    "parent": "hivebits",
+    "folder_id": "1rqruyRgdoi4KUXiu1SOSbmbhkTAUu4wN",
+    "url": "https://drive.google.com/drive/folders/1rqruyRgdoi4KUXiu1SOSbmbhkTAUu4wN",
+    "note": "Ovaj folder se deli javno preko linka (Nemanja to ukljucuje u Drive-u, konektor ne moze). Ulazi SAMO ono sto je Nemanja odobrio za novinare. Nista drugo."
+  }
 }

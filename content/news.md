@@ -16,6 +16,16 @@ Pravilo iz CLAUDE.md vazi i ovde: ne dodaji brojke, datume ni mesta koja
 nisu izgovorena.
 
 
+
+---
+
+## 2026-09-19 · Startit zeli da napise clanak o nama
+- Vukasin Stojkov (urednik i osnivac Startita, startit.rs) zeli da objavi clanak o HiveBits-u. Nemanja trazi PR agenta koji istrazi sajt i pripremi sve za taj clanak.
+- potvrdjeno: samo ovo od Nemanje. Startit je iz screenshota razgovora ("jesi sutra u startitu") i bio linka na Vukasinovom X profilu, ali Nemanja nije rekao da je to taj sajt.
+- nije potvrdjeno: ugao clanka, format (intervju, profil, vest), rok, sta sme da se kaze o rejzu i brojkama, kontakt koji ide u kit.
+- materijal: Drive folder "Press" (drive.json, kljuc press_folder). Jos prazan.
+- status: novo. Agent `press` postoji, prvi kit ceka odgovore od Nemanje.
+
 ---
 
 ## 2026-09-19 · novi snimci sa Drive-a: cedjenje i topljenje voska
