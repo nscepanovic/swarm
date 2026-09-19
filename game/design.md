@@ -1,10 +1,18 @@
 # Pcelinjak — dizajn igre
 
-**Verzija:** v0.1 · 2026-09-19
+**Verzija:** v0.2 · 2026-09-19
 **Za:** developera igre (engine i vizuelni stil vec postoje) i Nemanju
-**Status:** prvi nacrt. Otvorena pitanja su na dnu.
+**Status:** drugi nacrt. Otvorena pitanja su na dnu.
 
 ---
+
+## 0. Odluke
+
+- **Publika: i deca i odrasli.** Ista igra, dva nivoa (vidi princip 6).
+- **Jezik igre: engleski.** Ovaj dokument ostaje na srpskom jer je za tim.
+- **Apitoksin i apiterapija su u igri**, kroz heroja Apiterapeut (sekcija 11).
+- **Tipove kosnica bira developer.**
+- **Vise heroja** za igrace sa razlicitim vestinama i sklonostima (sekcija 11).
 
 ## 1. U jednoj recenici
 
@@ -26,6 +34,13 @@ zive, zasto su vazne, i sta ih ugrozava.
    objasnjenje zasto, i nastavlja.
 5. **Pcele nisu same.** Pesticidi, zagadjenje, susa i bolesti su deo sveta.
    Igrac ne resava sve sam: ubedjuje ljude, saradjuje sa drugim pcelarima.
+6. **Jedna igra, dva nivoa.** Isti svet i ista pravila, ali igrac bira
+   koliko mu igra pomaze:
+   - *Vodjeni* (za decu i pocetnike): mentor ukazuje sta da pogleda, manje
+     stanja se prati (bez bolesti na pocetku), greske se odmah objasne.
+   - *Pravi pcelar* (za odrasle): puna simulacija, posledice sa
+     zakasnjenjem, mentor pomaze samo kad ga igrac pozove.
+   Nivo se moze promeniti kasnije.
 
 ## 3. Svet i mapa
 
@@ -120,9 +135,8 @@ Ako igrac to uradi, zajednica trpi. Tako se uci kad se sme raditi.
 ocenu mesta: sunce, zaklon od vetra, voda blizu, sta cveta u radijusu, koliko
 je daleko od puta i od kuca. Kosnice ne stoje prema stazi kojom ljudi hodaju.
 
-**Tipovi kosnica** (u nasem kraju najcesce): LR, Dadant-Blatt, AZ
-`[proveriti koje tri uzeti za pocetak]`. Svaka ima prednosti. Pocetak je
-jedna vrsta, ostale se otkljucavaju.
+**Tipovi kosnica** bira developer. Pocetak je jedna vrsta, ostale se
+otkljucavaju.
 
 **Oprema, sa sta otkljucava:**
 
@@ -147,7 +161,8 @@ jedna vrsta, ostale se otkljucavaju.
 | Propolis | struganje ili hvatac | kasnije u igri |
 | Polen | hvatac polena na letu | ne sme da se preteruje, zajednici treba |
 | Roj i matice | prodaja drugim igracima | napredno |
-| Maticni mlec, apitoksin | napredno, zahteva posebnu edukaciju | kasnije, vidi otvorena pitanja |
+| Maticni mlec | napredno, zahteva posebnu edukaciju | kasnije |
+| Apitoksin (pcelinji otrov) | poseban uredjaj na letu kosnice, pcele ostave otrov a ne uginu `[proveriti opis]` | samo Apiterapeut, vidi sekciju 11 |
 
 **Zrelost meda.** Nezreo med (nepoklopljen) ima previse vode i moze da
 fermentise. Igrac koji vrca prerano dobije losiji med, i laboratorija u gradu
@@ -251,8 +266,42 @@ iskustvo. Selidba trazi znanje i reputaciju.
 9. Opasnosti i prva pomoc → zadaci sa posetiocima
 10. Vosak, propolis, polen → novi proizvodi
 11. Selidba i kontejner (napredno) → selidba sa pase na pasu, usluga oprasivanja
+12. Apiterapija (za heroja Apiterapeut) → apitoksin, rad sa pacijentima
 
-## 11. NPC-jevi
+## 11. Heroji
+
+Svi igraci imaju pcelinjak i uce osnove. Heroj je **specijalnost**: sta
+igrac najvise voli da radi. Daje svoje zadatke, svoju opremu i svoj nacin
+zarade, i uci jedan deo pcelarstva dublje. Postojeca igra vec ima klase
+(npr. "Monk"), pa je ovo isti sistem.
+
+Heroji zavise jedni od drugih. To je glavni razlog za vise igraca: niko ne
+moze sve sam.
+
+| Heroj | Za igraca koji voli | Posebno radi | Sta nauci dublje | Treba mu od drugih |
+|---|---|---|---|---|
+| Uzgajivac matica | detalje, biologiju | gaji matice, bira mirne i zdrave linije, prodaje matice | razvoj matice, sta je dobra zajednica | Istrazivaca za zdravlje |
+| Trgovac medom | trgovinu, ljude | narudzbine iz vise gradova, pakovanje, etikete, bolja cena | vrste meda, kvalitet, kristalizacija, kako se prepozna patvoren med | med od drugih igraca |
+| Istrazivac | analize, zagonetke | mikroskop, laboratorija, dijagnoza bolesti, merenje varoe | bolesti, varoa, zasto zajednice umiru | uzorke od drugih pcelara |
+| Zastitnik prirode | price, ubedjivanje | zadaci sa poljoprivrednicima i fabrikom, sadi medonosno bilje | pesticidi, bioindikator, zasto su pcele vazne za hranu | dokaze (analize) od Istrazivaca |
+| Majstor | pravljenje | pravi kosnice, ramove, opremu, kasnije kontejnere, prodaje drugima | delovi kosnice, zasto su mere bitne (pcelinji razmak) `[proveriti]` | vosak i narudzbine |
+| Apiterapeut | zdravlje, ljude | apitoksin, propolis, rad sa pacijentima u gradu | sta je apiterapija, sigurnost, alergija | proizvode od drugih pcelara |
+| Selidbas (napredno) | put, velike poslove | selidba sa pase na pasu, usluga oprasivanja (badem) | kalendar cvetanja, oprasivanje | kontejner od Majstora |
+
+**Apiterapeut, pravila sadrzaja.** Apiterapija je deo igre, ali igra uci,
+ne obecava:
+- Igrac prvo zavrsi lekciju 12 i lekciju o prvoj pomoci (9).
+- Svaki pacijent prvo prolazi test na alergiju. Preskakanje testa je greska
+  koju igra kaznjava (alergijska reakcija, hitna pomoc).
+- Pacijenti NPC pricaju svoja iskustva ("pomoglo mi je"), a igra sama ne
+  tvrdi da apitoksin leci neku bolest.
+- U gradu apiterapeut radi uz lekara NPC.
+
+**Za decu:** Majstor, Zastitnik prirode i Trgovac su najlaksi za pocetak.
+Apiterapeut je samo u nivou *Pravi pcelar*.
+`[proveriti sa developerom: moze li igrac kasnije da uzme drugu specijalnost]`
+
+## 12. NPC-jevi
 
 | NPC | Uloga |
 |---|---|
@@ -263,8 +312,10 @@ iskustvo. Selidba trazi znanje i reputaciju.
 | Kupci na pijaci | narudzbine, pitanja o medu (edukacija kupca) |
 | Direktor fabrike | dugi niz zadataka |
 | Uciteljica sa decom | igrac drzi cas o pcelama: igrac postaje ucitelj |
+| Lekar | radi sa Apiterapeutom, salje pacijente, prati sigurnost |
+| Pacijenti | zadaci za Apiterapeuta |
 
-## 12. Vise igraca i takmicenje
+## 13. Vise igraca i takmicenje
 
 Takmicenje meri **dobro pcelarenje, ne kolicinu meda**:
 - **Sajam meda** (u gradu, jednom po sezoni): ocenjuje se kvalitet, ne
@@ -278,8 +329,12 @@ Saradnja, jer tako radi pravo pcelarstvo:
   bolje. Ovo je prirodan razlog da igraci razgovaraju.
 - Prodaja i razmena rojeva i matica medju igracima.
 - Zajednicki ciljevi servera: promena ponasanja poljoprivrednika, fabrika.
+- Heroji trguju uslugama i proizvodima (sekcija 11).
 
-## 13. Prva igriva verzija
+Takmicenje je i po herojima: najbolji uzgajivac matica, najbolji med na
+sajmu, Zastitnik koji je promenio najvise njiva.
+
+## 14. Prva igriva verzija
 
 Dovoljno malo da se napravi, dovoljno da se vidi da igra radi:
 
@@ -292,22 +347,20 @@ Dovoljno malo da se napravi, dovoljno da se vidi da igra radi:
 - NPC: mentor, poljoprivrednik (niz "Komsija prska" na njivi uljane repice,
   jer suncokret cveta tek leti), kupac
 - vise igraca na mapi kao u postojecoj igri, bez takmicenja
+- oba nivoa (*Vodjeni* i *Pravi pcelar*), jer menjaju samo koliko mentor pomaze
+- dva heroja: Trgovac medom i Zastitnik prirode. Oba se oslanjaju na sisteme
+  koji su vec u prvoj verziji (pijaca, "Komsija prska"), i jedan je za
+  trgovinu a drugi za ljude, pa se vidi da heroji menjaju igru
 
 Van prve verzije: leto (lipa, suncokret), zima i jesen, varoa, bolesti,
-fabrika, selidba, usluga oprasivanja (badem), ostali proizvodi, sajam.
+fabrika, selidba, usluga oprasivanja (badem), ostali proizvodi, sajam,
+ostali heroji.
 
-## 14. Otvorena pitanja
+## 15. Otvorena pitanja
 
 **Za Nemanju:**
-1. Kome je igra namenjena? Deci (kao matematika), odraslima koji pocinju sa
-   pcelarstvom, ili oboma?
-2. Jezik igre: srpski, engleski, oba?
-3. Veza sa HiveBits-om: da li igra treba da ima bilo kakvu vezu (prave
-   kosnice, $NECTAR, apiterapija), ili je potpuno odvojena?
-4. Apitoksin i apiterapija u igri: da ili ne? Ako da, samo kao edukacija
-   (sta je), bez tvrdnji o lecenju.
-5. Koje tri vrste kosnica koristimo?
-6. Potvrda svih mesta obelezenih sa `[proveriti]`.
+1. Potvrda svih mesta obelezenih sa `[proveriti]`.
+2. Da li je spisak heroja dobar: neki visak, neki fali?
 
 **Za developera:**
 1. Koliko traje dan i sezona u igri? Da li engine ima vreme i godisnja doba?
@@ -316,3 +369,6 @@ fabrika, selidba, usluga oprasivanja (badem), ostali proizvodi, sajam.
 3. Koliko igraca je na jednoj mapi, i da li mogu da vide tudje pcelinjake?
 4. Kako se u postojecoj igri radi zadatak od NPC-ja: moze li zadatak da bude
    "klikni na pravu stvar na slici" (za pregled ramova)?
+5. Koje tipove kosnica uzimamo (tvoja odluka)?
+6. Klase u postojecoj igri: mogu li da nose svoje zadatke, opremu i
+   otkljucavanje? Moze li igrac da promeni ili doda specijalnost?

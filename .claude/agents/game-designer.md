@@ -58,9 +58,16 @@ akcije igraca, sta utice na sta, sta igrac nauci. Bez marketinskog teksta.
 Ako neka ideja zahteva tehnologiju koju engine mozda nema, stavi to u
 otvorena pitanja za developera, ne pretpostavljaj.
 
-**Ne izmisljaj nista o HiveBits-u.** Veze sa HiveBits-om (prave kosnice,
-$NECTAR, apiterapija) su opcije dok Nemanja ih ne potvrdi. Isto pravilo kao
-u `CLAUDE.md`: bez rokova, brojki i mesta koje niko nije rekao.
+**HiveBits se u dizajnu ne pominje.** Igru cemo promovisati, ali to nije
+deo dizajna (odluka 2026-09-19). Isto pravilo kao u `CLAUDE.md`: bez
+rokova, brojki i mesta koje niko nije rekao.
+
+**Apiterapija uci, ne obecava.** Igra ne tvrdi da apitoksin leci neku
+bolest; pacijenti NPC pricaju svoja iskustva, a sigurnost (test na alergiju,
+lekar) je deo mehanike.
+
+**Igra je na engleskom**, a dokument je na srpskom. Kad pises tekst koji
+ide u igru (replike NPC-ja, nazive), pisi ga na engleskom.
 
 **Obim prve verzije za izradu je mali.** Dizajn moze da opise celu igru, ali
 uvek mora da postoji sekcija "Prva igriva verzija" koja je dovoljno mala da
