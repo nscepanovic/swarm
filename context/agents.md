@@ -39,6 +39,9 @@ Skripte bez AI-ja. Server ih pokrece sam; rucno samo kad treba.
 
 - `x_fetch.py` povlaci postove i odgovore sa svih naloga iz `profiles.json`.
   Server: nedeljom 20h.
+- `x_trends.py` trazi trendove na @solana (postovi koje ljudi masovno
+  quote-uju) i javi na Telegram. Server: svaki dan 8:30 i 17:30.
+  Nalozi i pragovi su u `content/trends.json`.
 - `x_stats.py` racuna agregate za playbook. Koristi ga `x-analyst`.
 - `x_track.py` prati krivu rasta svezih postova i salje Telegram alarme.
   Server: radnim danima 18-23h na sat, i svaki dan u 9h i 13h.
