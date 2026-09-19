@@ -23,6 +23,7 @@ nisu izgovorena.
 - Vukasin Stojkov (urednik i osnivac Startita, startit.rs) zeli da objavi clanak o HiveBits-u. Nemanja trazi PR agenta koji istrazi sajt i pripremi sve za taj clanak.
 - potvrdjeno: samo ovo od Nemanje. Startit je iz screenshota razgovora ("jesi sutra u startitu") i bio linka na Vukasinovom X profilu, ali Nemanja nije rekao da je to taj sajt.
 - nije potvrdjeno: ugao clanka, format (intervju, profil, vest), rok, sta sme da se kaze o rejzu i brojkama, kontakt koji ide u kit.
+- Nemanja misli (nije potvrdjeno): Vukasinov cilj je naredni Colosseum hakaton, saradjuje sa Superteam Balkan. Web: Colosseum globalni hakaton 28.09-02.11 po tvitu @SuperteamBLKN; Startit + Superteam Balkan imaju side track, ali nije jasno da li za ovu godinu. HiveBits nije Colosseum ucesnik prema repou.
 - materijal: Drive folder "Press" (drive.json, kljuc press_folder). Jos prazan.
 - status: novo. Agent `press` postoji, prvi kit ceka odgovore od Nemanje.
 

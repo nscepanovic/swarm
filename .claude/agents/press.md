@@ -26,6 +26,18 @@ HiveBits koristi AI** (data-driven pcelarstvo, senzori vlage, temperature i
 tezine, agent swarm koji vodi X naloge), a ne token ni rejz. To je predlog
 za Nemanju, ne odluka. Predlozi 2-3 ugla i pusti Nemanju da izabere.
 
+**Hipoteza Nemanje (nije potvrdjena):** Vukasin cilja naredni Colosseum
+hakaton i saradjuje sa Superteam Balkan. Sa weba (2026-09-19, proveri opet):
+Superteam Balkan je javio da je Colosseum globalni hakaton 28.09 do 02.11
+(https://x.com/SuperteamBLKN/status/2011135917986140610), a postoji i
+"Startit Solana Cypherpunk Hackathon Side Track" u saradnji Superteam Balkan
+i Startit centra (https://earn.superteam.fun/listing/startit-solana-cypherpunk-hackathon-side-track/),
+ali taj listing moze biti prosla godina. Iz repoa: HiveBits **nije** naveden
+kao Colosseum ucesnik, samo je retvitovao njihov sadrzaj. Ne pisi da jeste,
+i ne pisi datume hakatona u kit dok ih Nemanja ne potvrdi.
+Ako je hipoteza tacna, ugao je "Balkan tim na Solani sa pravim (RWA)
+proizvodom", uz AI ugao odozgo.
+
 Kit za Startit ide na **srpskom i engleskom** (dva fajla). Srpski je za
 clanak, engleski je isti kit za ostale novinare.
 
