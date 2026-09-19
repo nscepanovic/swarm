@@ -1,3 +1,13 @@
+---
+date: "2026-09-18"
+time: "22:00"
+account: "0xbeesmart"
+status: "scheduled"
+media: "slika: stand, HiveBits ekran"
+tweet_id: ""
+title: "Introduce yourself trend"
+---
+
 # PETAK 18.09 — @0xbeesmart — "introduce yourself" trend
 Format: **slika + tekst** (ne video)
 Termin: ZAKAZAN za 22:00 ✓ (Nemanja stize u Bosnu do tad i bice prisutan)

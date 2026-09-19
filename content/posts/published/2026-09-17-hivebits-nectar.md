@@ -1,3 +1,13 @@
+---
+date: "2026-09-17"
+time: "19:00"
+account: "hivebits_io"
+status: "published"
+media: "Nemanja Clip #9.mp4"
+tweet_id: "2100630867647611327"
+title: "Zasto se token zove NECTAR"
+---
+
 # CETVRTAK 17.09 — @hivebits_io — ZAKAZAN za 19:00 CEST
 Video: Clips/Nemanja Clip #9.mp4 (48s) | pocetak threada + video
 

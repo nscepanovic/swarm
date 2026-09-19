@@ -36,6 +36,23 @@ Namerno premestanje fajla, a ne ledger - ledger se raziđe sa stvarnoscu.
 
 ## 4. Postovi
 
+Svaki post je jedan `.md` fajl sa zaglavljem koje cita swarm aplikacija
+(swarm.hivebits.io). Polja su obavezna, prazna vrednost je `""`:
+
+    ---
+    date: "2026-09-18"        # dan objave; "" dok nije odredjen
+    time: "18:00"             # CEST
+    account: "hivebits_io"    # ili "0xbeesmart"
+    status: "draft"           # draft | approved | scheduled | published
+    media: "Nemanja Clip #10.mp4"
+    tweet_id: ""              # upisuje se kad post izadje; povezuje ga sa pracenjem
+    title: "kratak opis"
+    ---
+
+Folder prati status: `drafts/`, `approved/` (i scheduled), `published/`.
+
+### Stari opis toka
+
 `posts/drafts/` -> `approved/` -> `published/`
 `published/` nije arhiva reda radi: sprecava ponavljanje tema i vraca se
 nazad u korak 2 kao podatak o tome sta je od naseg proslo.

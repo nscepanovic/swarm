@@ -1,3 +1,13 @@
+---
+date: ""
+time: ""
+account: "0xbeesmart"
+status: "draft"
+media: "api-toxin_therapy.mov (iseci 25-40s)"
+tweet_id: ""
+title: "Bata: operacija otkazana"
+---
+
 # PETAK 18.09 — @0xbeesmart — 20-21h CEST
 Video: content/materials/inbox/api-toxin_therapy.mov, isecen na 25-40s
 Format: pocetak threada + video

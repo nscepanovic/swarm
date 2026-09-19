@@ -1,3 +1,13 @@
+---
+date: "2026-09-18"
+time: "18:00"
+account: "hivebits_io"
+status: "published"
+media: "Nemanja Clip #10.mp4"
+tweet_id: "2100972871958802701"
+title: "Snimamo sve (artefakt za kasniji quote)"
+---
+
 # PETAK 18.09 — @hivebits_io — ZAKAZAN za 18h ✓
 (petak u 18h je najjaci termin za ovaj nalog, potvrdjeno iz analitike)
 Video: Clips/Nemanja Clip #10.mp4, isecen na 30-45s
