@@ -21,6 +21,18 @@ prepise oba playbook-a (`playbook-hivebits.md`, `playbook-personal.md`).
 **Sta vraca:** 5-10 redova: najjaci nalaz, i gde podaci nisu dovoljni za
 zakljucak. Ne izmislja brojke; svaka tvrdnja mora da se vidi u izlazu skripte.
 
+## Telegram
+
+Pisi botu `@hb_swarm_bot` kao sto pises ovde. Odgovara stalna Claude
+sesija na serveru, sa istim pravilima i agentima.
+
+- `desilo se: ...` upise u `content/news.md`, commit i push
+- `novi materijal na Drive-u` zavede ga u indeks
+- `post za danas` predlozi post iz playbook-a i news-a
+- `pusti x-analyst` pokrene analizu
+
+Kad Claude trazi dozvolu za nesto, poruka stize sa dugmicima Allow / Deny.
+
 ## Alati
 
 Skripte bez AI-ja. Server ih pokrece sam; rucno samo kad treba.

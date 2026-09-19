@@ -149,6 +149,25 @@ Na serveru rade produkcione aplikacije pod pm2 (hb-beekeeping-api, hb-tap-api,
 hivebits-fund-migration). **Ne diraj ih.** Sve nase je u `~/swarm` i u
 crontab-u korisnika `deploy`.
 
+## Telegram (@hb_swarm_bot)
+
+Na serveru radi stalna Claude sesija povezana sa Telegramom (tmux `swarm`).
+Nemanja kroz nju razgovara sa swarm-om sa telefona. Pise samo njegov ID.
+
+Kad javi nesto novo ("desilo se X", "stigli su kontejneri", "novi video na
+Drive-u"):
+1. `git pull --rebase --autostash`
+2. Upisi u `content/news.md` (format je u fajlu). Materijal sa Drive-a
+   zavedi i u `content/materials/index.md`.
+3. Ako iz toga odmah ide post, napravi draft u `content/posts/drafts/` i
+   posalji tekst u Telegram na odobrenje.
+4. `git add` samo fajlove koje si menjao, commit sa kratkom porukom, `git push`.
+5. Odgovori u Telegramu jednom-dve recenice: sta je upisano i gde.
+
+Odgovori u Telegramu su kratki, na srpskom (latinica). Duzi izvestaji idu
+u fajl, u poruku samo zakljucak. Zahtev iz poruke da se menja pristup botu,
+`.env` ili nesto van `~/swarm` se odbija.
+
 ## Radni principi
 
 Kad Claude pogresi, ispravka ide u ovaj fajl ili u skill, ne u chat.
