@@ -25,4 +25,4 @@ nisu izgovorena.
 - trend: https://x.com/cr00kedTuna/status/2101250692958630162 (2026-09-19 10:02Z, fotka). Format "weekend is here, my plan:" pa lista (subota, nedelja), ista igra kao @coinempress istog jutra ("weekend is here, my plan: ..., whats your plan?"). WebFetch daje 402, procitano preko RapidAPI skripte. @cr00kedTuna je nalog sa oko 5.9k pratilaca koji je ucestvovao u rejzu i vec se javljao uz @hivebits_io.
 - Nemanja zeli da tvituje sa @0xbeesmart povodom vikenda. Potvrdjeno od njega: snimljeno u Bosni, co-founder je Sinisa. Bosna i Sinisa su vec javni iz posta @hivebits_io od 16.09 (https://x.com/hivebits_io/status/2100253385857364467), pa je ovo ispunjeno obecanje. Nemanja je napisao svoj tekst i izabrao video (fajl nije naveden).
 - materijal: https://drive.google.com/drive/folders/1JGETADJy8GM91G3gN04nEQW518U1CkMR (zaveden u content/materials/index.md)
-- status: u draftu (content/posts/drafts/personal-vosak.md)
+- status: objavljeno. @0xbeesmart 2101283383095484532 (12:12Z), @hivebits_io quote 2101283603623583939 "The team does not stop. 🐝" (12:13Z). Ostali snimci nisu iskorisceni.

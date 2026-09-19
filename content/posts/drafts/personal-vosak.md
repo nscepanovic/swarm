@@ -2,9 +2,9 @@
 date: "2026-09-19"
 time: ""
 account: "0xbeesmart"
-status: "draft"
+status: "published"
 media: "jedan od dji_mimo_20260919_*.mp4 (Nemanja je izabrao, fajl nije naveden)"
-tweet_id: ""
+tweet_id: "2101283383095484532"
 title: "Weekend in Bosnia: vosak"
 ---
 

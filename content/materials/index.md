@@ -33,7 +33,7 @@ Nemanja i sam ukljucen).
 Ovo popunjava rupu koju indeks ispod navodi: **prvi snimak sa terena, ne
 govorna glava.** Uz `playbook-personal.md`: samostalan post + video, ili
 pocetak threada + video, licni nalog.
-Nije iskorisceno.
+[iskorisceno: 2026-09-19 jedan video, koji tacno nije zavedeno, https://x.com/0xBeeSmart/status/2101283383095484532] Ostali klipovi i fotka nisu iskoriseni.
 
 ---
 
