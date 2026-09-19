@@ -36,7 +36,7 @@ rsync -av "$LOCAL/.env" "$HOST:$REMOTE/.env"
 ssh "$HOST" "chmod 600 $REMOTE/.env"
 
 echo "== postavljam cron =="
-# Raspored je pravljen prema budzetu od 1000 requesta mesecno.
+# Raspored je pravljen prema budzetu od 1000 requesta mesecno. STVARNI limit je 500 (header X-RateLimit-Requests-Limit, 2026-09-19).
 # Gusto merenje samo tamo gde se odlucuje: post izlazi 18-21h.
 # Ukupno ~680 req/mesec, ostatak je rezerva za rucna povlacenja.
 ssh "$HOST" "bash -s" <<REMOTE_EOF

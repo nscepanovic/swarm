@@ -364,7 +364,7 @@ def main():
     # selected drzi reference na objekte iz all_profiles, pa su kesirani
     # user_id vec unutra - snimamo ceo config nazad
     CONFIG.write_text(json.dumps(all_profiles, indent=2) + "\n")
-    print(f"\nPotroseno requesta: {requests_used}  (Basic plan: 1000/mesec)")
+    print(f"\nPotroseno requesta: {requests_used}  (plan: 500/mesec, stanje: content/.trend_state.json)")
 
 
 if __name__ == "__main__":
