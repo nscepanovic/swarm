@@ -134,6 +134,21 @@ privremeno i obrise posle.
 Kad novi materijal stigne na Drive: prvo se zavede u indeks, pa tek onda
 ulazi u postove. Iskorisceno se obelezi u indeksu, fajl ostaje na Drive-u.
 
+## Server i sinhronizacija
+
+Server `hb-01-nbg1` (`deploy@116.203.183.126`, repo u `~/swarm`) je uvek
+upaljen i jedini pise podatke: `content/tracking.jsonl` i
+`content/profiles/*`. Laptop i cloud ih samo citaju.
+
+Pravila da git ne pravi konflikte:
+- **Jedan pisac po fajlu sa podacima.** Pracenje ne pokreci na laptopu.
+- **Pull pre rada, push posle.** Svaka sesija, gde god da je.
+- Server salje podatke u git dva puta dnevno (`infra/server-sync.sh`).
+
+Na serveru rade produkcione aplikacije pod pm2 (hb-beekeeping-api, hb-tap-api,
+hivebits-fund-migration). **Ne diraj ih.** Sve nase je u `~/swarm` i u
+crontab-u korisnika `deploy`.
+
 ## Radni principi
 
 Kad Claude pogresi, ispravka ide u ovaj fajl ili u skill, ne u chat.
