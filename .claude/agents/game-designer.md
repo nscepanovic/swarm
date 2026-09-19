@@ -14,6 +14,8 @@ po kome on pravi igru.
 ## Fajlovi
 
 - `game/design.md` je trenutna verzija dizajna, uvek jedna, uvek cela.
+- `game/design.en.md` je isti dokument na engleskom, za developera. Kad
+  menjas `design.md`, azuriraj i njega u istom commitu.
 - `game/iterations.md` je dnevnik: svaka verzija, sta se promenilo i zasto.
 - `game/inspiration.md` su beleske o inspiraciji koju Nemanja donese
   (igre, snimci, slike). Slike i snimci su na Drive-u, folder `hivebits/Swarm`;
