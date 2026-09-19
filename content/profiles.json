@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "nemanja",
+    "handle": "0xbeesmart",
+    "bucket": "self",
+    "user_id": "1077851178547986432"
+  },
+  {
+    "slug": "hivebits",
+    "handle": "hivebits_io",
+    "bucket": "hivebits",
+    "user_id": "1703732663838810112"
+  },
+  {
+    "slug": "jurassicfi",
+    "handle": "JurassicFi",
+    "bucket": "ecosystem",
+    "user_id": "2041929839297388544"
+  },
+  {
+    "slug": "ripcarsio",
+    "handle": "ripcarsio",
+    "bucket": "ecosystem",
+    "user_id": "2077464134787239936"
+  },
+  {
+    "slug": "metadao",
+    "handle": "MetaDAOProject",
+    "bucket": "ecosystem",
+    "user_id": "1635493703996395521"
+  },
+  {
+    "slug": "superteam",
+    "handle": "SuperteamBLKN",
+    "bucket": "ecosystem",
+    "user_id": "1749749340967505920"
+  },
+  {
+    "slug": "futard",
+    "handle": "futarddotio",
+    "bucket": "ecosystem",
+    "user_id": "2022461795810803712"
+  }
+]

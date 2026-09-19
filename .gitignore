@@ -1,0 +1,27 @@
+# Tajne - nikad u git
+.env
+.env.*
+
+# Materijali zive SAMO na Google Drive-u. U gitu je samo indeks
+# (content/materials/index.md) koji pokazuje gde je sta na Drive-u.
+content/materials/inbox/
+content/materials/used/
+
+# Za svaki slucaj, i ako neko ubaci video negde drugde
+*.mp4
+*.mov
+*.MOV
+*.m4v
+*.crdownload
+*.zip
+
+# Stanje koje je lokalno za masinu
+content/.alert_state.json
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
+
+# Smece
+__pycache__/
+*.pyc
+.DS_Store
+*.log
