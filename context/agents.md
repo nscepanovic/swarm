@@ -61,3 +61,14 @@ Obicnim recima, u bilo kojoj sesiji:
 
 - `/x-post` - komanda koja pise predlog posta po playbook-u, u formatu
   koji ova aplikacija cita
+
+## press
+
+**Kad:** kad neko trazi press kit ili materijal za novinare.
+
+**Kako:** reci `pusti press`. Agent cita samo javne postove, `news.md` i
+dokumenta koja mu Nemanja da, i pise `content/press/press-kit.md`.
+
+**Sta vraca:** kratak izvestaj: sta je u kitu, sta fali (lista "Treba od
+Nemanje") i sta da proveri pre slanja. Svaka brojka, datum i mesto ima izvor;
+bez izvora ide u listu onoga sto fali. Ne salje nista nikome.
