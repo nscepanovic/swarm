@@ -214,6 +214,15 @@ Our team met Miloš, chief cooperative auditor at the Cooperative Union and mana
 Republika Srpska i RS izbaceni. Nazivi ustanova ostaju bez oznake mesta, a
 mesto je vec javno kao Bosna (post od 16.09). Bonus: 354 pada na 323.
 
+## POST S (R sa "This week started with good news."; 346 znakova, ZA OBJAVU U 18h)
+
+This week started with good news. Local support programs can pay back 60% of the capital investment for a project like ours.
+
+Our team met Miloš, chief cooperative auditor at the Cooperative Union and manager of the Krajina Agricultural Cluster, which works between government and farmers. Also Boban, who leads the Union of Social Enterprises. 🐝
+
+Nemanja je predlozio "Monday started" ili "this week started". "This week"
+je tacno bez obzira kad je sastanak bio, "Monday started" bi tvrdilo jutro.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
