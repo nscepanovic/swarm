@@ -95,6 +95,16 @@ Nemanja: samo imena (Miloš, Boban) i "RS" umesto Republika Srpska. Titule
 ostaju. "RS" van regiona ne znaci svima isto, ali "Bosnia" je u prvoj
 recenici, pa se cita.
 
+## POST G (glas hb naloga: "Our team", kratke recenice; 243 znakova, PREPORUKA)
+
+Our team was in Bosnia today. We met Miloš, chief cooperative auditor in RS, and Boban, who leads the Union of Social Enterprises in RS.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Nemanja: F mu se ne svidja, i ovo ide sa hb naloga pa treba "our team".
+Sve pre G pise "Meeting in Bosnia today" bez subjekta. G ima subjekat i dve
+kratke recenice. "who leads" umesto "executive director" je prostije.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
