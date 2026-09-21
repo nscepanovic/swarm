@@ -115,6 +115,34 @@ Nemanja: "svi znaju da smo u Bosni", pa je izbaceno. Bez "Bosnia" u tekstu,
 skraceno "RS" bi se moglo procitati kao Srbija (RS je i oznaka Srbije), zato
 "Republika Srpska (RS)" pri prvom pominjanju.
 
+## POST I (Milos vazniji, Nemanjin zahtev; 374 znakova)
+
+Our team met Miloš, chief cooperative auditor at the Cooperative Union of Republika Srpska (RS) and manager of the Krajina Agricultural Cluster. The cluster works between the government and farmers.
+
+We also met Boban, who leads the Union of Social Enterprises in RS.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+## POST J (gusce, 356 znakova, PREPORUKA ako ide jedan post)
+
+Our team met Miloš, chief cooperative auditor at the Cooperative Union of Republika Srpska (RS) and manager of the Krajina Agricultural Cluster, which works between government and farmers. Also Boban, who leads the Union of Social Enterprises in RS.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Nemanja: Milos je revizor u Zadruznom savezu i menadzer klastera Krajina,
+"tela izmedju vlade i poljoprivrednika", i "ima dosta moci"; to treba preneti
+investitorima. Preneseno je kroz **ulogu**, ne kroz "moc":
+- "works between government and farmers" je Nemanjin opis klastera. **Nisam ga
+  mogao proveriti na webu** (pretraga za Milosa i klaster nije dala nista).
+  Cela titula je takodje samo njegove reci. Nemanja da potvrdi tacan naziv
+  klastera i opis pre objave.
+- "Ima dosta moci" NE ide u post. Ne moze da se pokaze, a javno pripisati
+  imenovanom covek moc nad drzavnim subvencijama moze da mu naskodi i da
+  izgleda kao uticaj. Rola sve kaze sama.
+- Oba su preko 320 znakova (losa kanta po playbook-u). Cena za to sto je Milos
+  predstavljen. Alternativa: kratak F/H za hb, a licni nalog (@0xbeesmart)
+  quote-uje uz recenicu o tome sta Milos znaci za projekat, u Nemanjinom glasu.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
