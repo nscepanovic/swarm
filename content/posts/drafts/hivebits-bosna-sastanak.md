@@ -193,6 +193,18 @@ revizor. Ovo je bio moj pogresan citanje M (stavio sam predstavljanje prvo).
 Dodato "and heard it from them": bez toga je 60% u prvom pasusu tvrdnja u
 ime firme, a pripisivanje je izgubljeno. Ovo je jedina moja izmena.
 
+## POST Q (Nemanjin izbor: prvi pasus = vest, drugi = tekst iz J; 354 znakova, NEMANJA IZABRAO)
+
+Good news. Local support programs can pay back 60% of the capital investment for a project like ours.
+
+Our team met Miloš, chief cooperative auditor at the Cooperative Union of Republika Srpska (RS) and manager of the Krajina Agricultural Cluster, which works between government and farmers. Also Boban, who leads the Union of Social Enterprises in RS. 🐝
+
+Nemanja je izabrao ovaj drugi pasus ("mnogo bolje"). Izbaceno je "heard it
+from them", pa je 60% u prvom pasusu tvrdnja u ime firme (upozorio sam).
+"which works between government and farmers" je Nemanjin opis klastera, sam
+sebi ga potvrdio izborom; nije proveren na webu. Duzina je preko 320 (losa
+kanta u playbook-u), Nemanja je upozoren.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
