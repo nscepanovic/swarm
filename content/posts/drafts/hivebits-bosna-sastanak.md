@@ -205,6 +205,15 @@ from them", pa je 60% u prvom pasusu tvrdnja u ime firme (upozorio sam).
 sebi ga potvrdio izborom; nije proveren na webu. Duzina je preko 320 (losa
 kanta u playbook-u), Nemanja je upozoren.
 
+## POST R (Q bez Republika Srpska/RS, Nemanja: da se ne zbunjuju ljudi; 323 znakova, PREPORUKA)
+
+Good news. Local support programs can pay back 60% of the capital investment for a project like ours.
+
+Our team met Miloš, chief cooperative auditor at the Cooperative Union and manager of the Krajina Agricultural Cluster, which works between government and farmers. Also Boban, who leads the Union of Social Enterprises. 🐝
+
+Republika Srpska i RS izbaceni. Nazivi ustanova ostaju bez oznake mesta, a
+mesto je vec javno kao Bosna (post od 16.09). Bonus: 354 pada na 323.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
