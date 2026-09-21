@@ -105,6 +105,16 @@ Nemanja: F mu se ne svidja, i ovo ide sa hb naloga pa treba "our team".
 Sve pre G pise "Meeting in Bosnia today" bez subjekta. G ima subjekat i dve
 kratke recenice. "who leads" umesto "executive director" je prostije.
 
+## POST H (bez "was in Bosnia", Nemanjin zahtev; 238 znakova, PREPORUKA)
+
+Our team met Miloš, chief cooperative auditor in Republika Srpska (RS), and Boban, who leads the Union of Social Enterprises in RS.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Nemanja: "svi znaju da smo u Bosni", pa je izbaceno. Bez "Bosnia" u tekstu,
+skraceno "RS" bi se moglo procitati kao Srbija (RS je i oznaka Srbije), zato
+"Republika Srpska (RS)" pri prvom pominjanju.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
