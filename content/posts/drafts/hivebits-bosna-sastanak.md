@@ -182,6 +182,17 @@ They told us local support programs can pay back 60% of the capital investment f
 nije proveren. N je preko 320, a to je losa kanta. Ide samo ako Nemanja
 potvrdi opis, i uz svest o duzini.
 
+## POST P (Nemanjin redosled: vest prvo, pa ko i kako; 315 znakova, PREPORUKA)
+
+Good news. Local support programs can pay back 60% of the capital investment for a project like ours.
+
+Our team met Miloš and Boban today and heard it from them. Miloš is chief cooperative auditor and manages the Krajina Agricultural Cluster in Republika Srpska. Boban leads the Union of Social Enterprises there. 🐝
+
+Nemanja: prvi pasus je vest, drugi objasnjava sta i kako, i da je Milos
+revizor. Ovo je bio moj pogresan citanje M (stavio sam predstavljanje prvo).
+Dodato "and heard it from them": bez toga je 60% u prvom pasusu tvrdnja u
+ime firme, a pripisivanje je izgubljeno. Ovo je jedina moja izmena.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
