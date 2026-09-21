@@ -24,9 +24,11 @@ Izvedba je slaba na cetiri mesta, i sva cetiri su moja greska, ne materijala.
 
 ### 1. Duzina: 356 znakova (izmereno)
 Playbook: 320+ je **najgora kanta** na hb nalogu, med. **250 views** (n=16),
-prema **~780** za 120-320 (n=46). To je 3x razlike, na najvazniji post dana.
-Nasa uzorak od 16 je mali, ali isti obrazac ne postoji ni na jednom drugom
-nalogu koji bi ga opovrgao. Ovo je glavni razlog ocene.
+prema **795** za 120-220 (n=21) i **767** za 220-320 (n=25). To je oko 3x
+razlike. Oprez iz samog playbook-a: na drugim nalozima duga forma ne daje
+isti odgovor (@futarddotio 320+ je izjednaceno prvo mesto, n=5; @ripcarsio
+n=2), pa je ovo nalaz za **nas nalog**, ne pravilo. Uzorak od 16 je mali.
+Za nas nalog je ipak jedini podatak koji imamo, i on ide protiv duzine 356.
 
 ### 2. Hook je pogresnim redom (izmereno + misljenje)
 Playbook tacka 3: prva linija mora sama da prenese vest; najgledaniji hb
