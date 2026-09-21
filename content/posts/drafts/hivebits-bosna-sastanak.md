@@ -36,6 +36,22 @@ We talked about HiveBits here, working with a cooperative, and local support pro
 - Duzina: A ostaje u dobroj kanti (120-320), B je blizu granice. Ne dodaji
   nastavak thread-a, playbook kaze da nastavak ne nosi nista.
 
+## Brojka od 60% (Nemanja predlozio, NE ide u post za sada)
+
+Nemanja: Milos je potvrdio da "mozemo da dobijemo 60% povrata na kapitalnu
+investiciju". Ostavljeno van postova iz tri razloga:
+1. "Povrat na kapital" citaoci, koji su investitori, citaju kao **zaradu
+   investitora**. Ako je u pitanju subvencija za deo investicije, to je
+   nesto sasvim drugo, i mora tako da pise.
+2. "Mozemo da dobijemo" je mogucnost, ne odobrenje. Post ne sme da zvuci
+   kao da je novac odobren.
+3. Broj bez izvora (program, uslovi, dokument) se ne pise (CLAUDE.md).
+
+Ako Nemanja razjasni i izricito potvrdi, moguca verzija bez obecanja:
+"Miloš told us that local programs can cover part of the investment for
+projects like ours. We need to check the conditions." (procenat samo uz
+izvor i potvrdu, i samo ako je tacno subvencija.)
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?

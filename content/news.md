@@ -24,6 +24,7 @@ nisu izgovorena.
 - Nemanja je danas bio na sastanku (brifing) i poslao fotku sa stola u kafiću (cetiri osobe, on je jedan od njih).
 - potvrdjeno (njegove reci): sastali smo se sa Milosem Galicem (glavni zadruzni revizor u Zadruznom savezu Republike Srpske i menadzer Poljoprivrednog klastera "Krajina") i Borislavom "Bobanom" Djuricem (ekspert za EU projekte, medjunarodnu saradnju i predstavljanje; izvrsni direktor Unije drustvenih preduzeca Republike Srpske). Razgovarali smo o uspostavljanju poslovanja HiveBits-a u BiH, mogucem modelu saradnje sa zadrugom, pristupu domacim programima podrske i povezivanju medjunarodnog kapitala i tehnologije sa lokalnom poljoprivrednom proizvodnjom.
 - nije potvrdjeno: da je bilo sta dogovoreno (bio je razgovor, ne ugovor), gde je farma, grad, rokovi, brojke. Da li su obojica ok da se pominju imenom i da im je lice na fotki. Ko je na fotki koji od cetvorice (nije receno).
+- Nemanja kasnije: "mozda je vazno da kazemo da je Milos potvrdio da mozemo da dobijemo 60% povrata na kapitalnu investiciju". NEPOTVRDJENO ZA OBJAVU: nije jasno da li je to subvencija/povracaj dela investicije preko domaceg programa (ne povrat investitorima), koji program, da li je odobreno ili samo moguce, i da li postoji nesto pisano. Ne ide u post dok to ne razjasni i izricito ne potvrdi.
 - materijal: fotka poslata preko Telegrama (nije na Drive-u, original je kod Nemanje).
 - status: u draftu (content/posts/drafts/hivebits-bosna-sastanak.md)
 
