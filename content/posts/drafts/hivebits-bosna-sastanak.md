@@ -58,8 +58,9 @@ Meeting in Bosnia today with a chief cooperative auditor and an expert in EU pro
 
 They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
 
-Uslovi da ide: Nemanja potvrdi da je to **povrat dela investicije u projekat
-preko domaceg programa** (subvencija), a ne zarada investitora. Bez imena,
+Znacenje potvrdjeno (Nemanja, 21.09 12:25Z): **povrat dela investicije u
+projekat preko domaceg programa** (subvencija), a ne zarada investitora.
+Ne dodaje se recenica da to povecava sansu investitora za zaradu. Bez imena,
 jer bi brojka bila pripisana imenovanom coveku bez njegovog pristanka.
 "Told us" ostaje, jer je to ono sto se zaista desilo, ne "we will get".
 
