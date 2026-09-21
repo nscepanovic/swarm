@@ -26,3 +26,5 @@ __pycache__/
 .DS_Store
 *.log
 content/.trend_state.json
+
+content/.reminders_sent.json

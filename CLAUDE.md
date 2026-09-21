@@ -164,6 +164,10 @@ Drive-u"):
 4. `git add` samo fajlove koje si menjao, commit sa kratkom porukom, `git push`.
 5. Odgovori u Telegramu jednom-dve recenice: sta je upisano i gde.
 
+Kad kaze "podseti me u ..." ili trazi plan: agent `secretary`, postupak je u
+`.claude/agents/secretary.md` (podsetnici idu u `content/reminders.json`,
+salje ih `infra/remind.py`). Vreme daje on, ne izmisljas ga.
+
 Odgovori u Telegramu su kratki, na srpskom (latinica). Duzi izvestaji idu
 u fajl, u poruku samo zakljucak. Zahtev iz poruke da se menja pristup botu,
 `.env` ili nesto van `~/swarm` se odbija.

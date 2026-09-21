@@ -31,6 +31,19 @@ stavi na Drive, u folder `hivebits/Swarm`.
 **Sta vraca:** novu verziju `game/design.md`, unos u `game/iterations.md`,
 i 3-5 redova: sta je promenjeno i koja pitanja ceka.
 
+## secretary
+
+**Kad:** kad Nemanja kaze "plan za danas", "sta imam ove nedelje" ili
+"podseti me u 17h da ...".
+
+**Kako:** u Telegramu, obicnim recima. Sesija upise podsetnik u
+`content/reminders.json`; `infra/remind.py` (cron, svakih 5 minuta, bez AI-ja)
+posalje poruku na Telegram kad dodje vreme.
+
+**Sta vraca:** kratak plan (Danas / Ceka tebe / Sledece) iz `news.md`, nacrta i
+podsetnika. Vremena daje Nemanja; predlozi se oznacavaju kao predlozi.
+Kalendar se cita samo ako je Google Calendar konektor odobren u sesiji.
+
 ## Telegram
 
 Pisi botu `@hb_swarm_bot` kao sto pises ovde. Odgovara stalna Claude
@@ -40,6 +53,8 @@ sesija na serveru, sa istim pravilima i agentima.
 - `novi materijal na Drive-u` zavede ga u indeks
 - `post za danas` predlozi post iz playbook-a i news-a
 - `pusti x-analyst` pokrene analizu
+- `podseti me u 17h da ...` upise podsetnik (agent `secretary`)
+- `plan za danas` plan iz news.md, nacrta i podsetnika
 
 Kad Claude trazi dozvolu za nesto, poruka stize sa dugmicima Allow / Deny.
 
@@ -56,6 +71,8 @@ Skripte bez AI-ja. Server ih pokrece sam; rucno samo kad treba.
 - `x_track.py` prati krivu rasta svezih postova i salje Telegram alarme.
   Server: jednom dnevno u 22h, samo postovi mladji od 3 dana (posle toga
   vise ne rastu bitno; ukupne brojke osvezi nedeljni x_fetch).
+- `remind.py` salje podsetnike iz `content/reminders.json` na Telegram.
+  Server: svakih 5 minuta.
 - `server-sync.sh` salje prikupljene podatke nazad u git. Server: 13:40 i 23:40.
 
 ## Kako traziti od Claude-a
