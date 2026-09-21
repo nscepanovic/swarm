@@ -161,6 +161,27 @@ Zasto "Good news", a ne "Big news"/"Great news": playbook pise da nijedan od
 nije testiran). Veci problem: "Big news" prodaje vise nego sto imamo.
 60% je usmeno, nije odobreno, pa post ne sme da zvuci kao da je novac stigao.
 
+## POST M (Nemanjin redosled: tim se sastao + ko su oni, pa sta su rekli; 272 znakova, PREPORUKA)
+
+Good news. Our team met Miloš and Boban today. Miloš manages the Krajina Agricultural Cluster in Republika Srpska. Boban leads the Union of Social Enterprises there.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Nemanja: ko su oni + "tim se nasao sa njima" ide u prvi pasus, "sta su rekli"
+u drugi. Vest (60%) je sad u drugom pasusu, sto sam ranije ocenio kao slabiju
+tacku (hook). "Good news." na pocetku nosi signal, a prvi pasus je i dalje
+kratak (4 kratke recenice). Nemanjina odluka.
+
+## POST N (M + opis klastera, 326 znakova)
+
+Good news. Our team met Miloš and Boban today. Miloš manages the Krajina Agricultural Cluster in Republika Srpska. The cluster works between the government and farmers. Boban leads the Union of Social Enterprises there.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+"The cluster works between the government and farmers" je Nemanjin opis,
+nije proveren. N je preko 320, a to je losa kanta. Ide samo ako Nemanja
+potvrdi opis, i uz svest o duzini.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
