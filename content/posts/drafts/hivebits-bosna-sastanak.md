@@ -52,6 +52,17 @@ Ako Nemanja razjasni i izricito potvrdi, moguca verzija bez obecanja:
 projects like ours. We need to check the conditions." (procenat samo uz
 izvor i potvrdu, i samo ako je tacno subvencija.)
 
+## POST C (sa 60%, Nemanja je rekao da imamo pravo na to; ceka jednu potvrdu)
+
+Meeting in Bosnia today with a chief cooperative auditor and an expert in EU projects.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Uslovi da ide: Nemanja potvrdi da je to **povrat dela investicije u projekat
+preko domaceg programa** (subvencija), a ne zarada investitora. Bez imena,
+jer bi brojka bila pripisana imenovanom coveku bez njegovog pristanka.
+"Told us" ostaje, jer je to ono sto se zaista desilo, ne "we will get".
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
