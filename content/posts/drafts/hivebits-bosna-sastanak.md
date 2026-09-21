@@ -85,6 +85,16 @@ preduzeca"). Ako oni imaju zvanicni engleski naziv, koristi njega.
 Imena i brojka pripisana Milosu: Nemanja je trazio imena, pa se pretpostavlja
 da su ok. Ako nisu, vrati se na C.
 
+## POST F (D sa samo imenima i "RS", Nemanjin zahtev; 272 znakova, PREPORUKA)
+
+Meeting in Bosnia today with Miloš, chief cooperative auditor at the Cooperative Union of RS, and Boban, executive director of the Union of Social Enterprises of RS.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Nemanja: samo imena (Miloš, Boban) i "RS" umesto Republika Srpska. Titule
+ostaju. "RS" van regiona ne znaci svima isto, ali "Bosnia" je u prvoj
+recenici, pa se cita.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
