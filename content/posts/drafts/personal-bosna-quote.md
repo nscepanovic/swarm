@@ -13,7 +13,7 @@ title: "Bosna, licni quote"
 Format: quote hb posta. Ne ponavlja 60% ni imena, to nosi hb post.
 Licni ugao: drago mi je zbog lokalne zajednice.
 
-## POST (Nemanjin izbor, 148 znakova)
+## POST (Nemanjin izbor, 117 znakova)
 
 This meeting made me happy. Because it's not only about us. The local community will have a chance to grow with us. 🐝
 
