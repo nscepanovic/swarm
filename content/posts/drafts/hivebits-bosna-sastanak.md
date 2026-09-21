@@ -143,6 +143,24 @@ investitorima. Preneseno je kroz **ulogu**, ne kroz "moc":
   predstavljen. Alternativa: kratak F/H za hb, a licni nalog (@0xbeesmart)
   quote-uje uz recenicu o tome sta Milos znaci za projekat, u Nemanjinom glasu.
 
+## POST K / L (novi format, bez threada; Nemanja: dodati "Great/Big news" na pocetku)
+
+Nemanja ne bi pravio thread. K je vec samostalan post, pa ostaje kako jeste.
+
+K (254 znaka): "Local support programs can pay back 60% ..." (vidi
+hivebits-bosna-sastanak-ocena.md).
+
+L (K + otvaranje, 265 znakova):
+
+Good news. Local support programs can pay back 60% of the capital investment for a project like ours.
+
+We heard it today from Miloš, who manages the Krajina Agricultural Cluster in Republika Srpska, and from Boban, who leads the Union of Social Enterprises there. 🐝
+
+Zasto "Good news", a ne "Big news"/"Great news": playbook pise da nijedan od
+5 najgledanijih hb postova ne pocinje pridevom (n=5, slab dokaz, "Good news"
+nije testiran). Veci problem: "Big news" prodaje vise nego sto imamo.
+60% je usmeno, nije odobreno, pa post ne sme da zvuci kao da je novac stigao.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
