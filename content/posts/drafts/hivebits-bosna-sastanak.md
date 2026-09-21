@@ -64,6 +64,27 @@ Ne dodaje se recenica da to povecava sansu investitora za zaradu. Bez imena,
 jer bi brojka bila pripisana imenovanom coveku bez njegovog pristanka.
 "Told us" ostaje, jer je to ono sto se zaista desilo, ne "we will get".
 
+## POST D (C sa boljim predstavljanjem, Nemanjin zahtev; 312 znakova)
+
+Meeting in Bosnia today with Miloš Galić, chief cooperative auditor at the Cooperative Union of Republika Srpska, and Boban Đurić, executive director of the Union of Social Enterprises of Republika Srpska.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Drugi pasus je isti kao u C (Nemanja: "dobar je"). Izostavljeno radi duzine:
+Milos je jos menadzer Poljoprivrednog klastera "Krajina", Boban je i ekspert za
+EU projekte. Dodavanje pomera post preko 320 znakova, a to je losa kanta.
+
+## POST E (kraci, 240 znakova)
+
+Meeting in Bosnia today with Miloš Galić, chief cooperative auditor, and Boban Đurić, EU projects expert. Both from Republika Srpska.
+
+They told us local support programs can pay back 60% of the capital investment for a project like ours. 🐝
+
+Nazivi organizacija su moj engleski prevod ("Zadruzni savez" i "Unija drustvenih
+preduzeca"). Ako oni imaju zvanicni engleski naziv, koristi njega.
+Imena i brojka pripisana Milosu: Nemanja je trazio imena, pa se pretpostavlja
+da su ok. Ako nisu, vrati se na C.
+
 ## Pre objave
 
 - Nemanja da potvrdi: obojica ok da se pominju imenom i da su na fotki?
