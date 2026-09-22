@@ -14,6 +14,19 @@ Drive linkove.
 
 ---
 
+## Sinisa - Ocune (2026-09-22)
+
+Drive: https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
+`Sinisa - Ocune.mov`, 21 MB. **Nije pregledano.** Znamo samo sta je Nemanja
+rekao uz njega: sad je najvaznije da kolonije budu jake i prezime, one su baza
+za nove HiveBits kolonije. Ime fajla sugerise Sinisu u kadru, nije provereno.
+
+Uz `playbook-personal.md`: samostalan post + video, licni nalog. Snimak sa
+terena, ne govorna glava, popunjava istu rupu kao vosak.
+Draft: `content/posts/drafts/personal-kolonije-zima.md`.
+
+---
+
 ## Vosak, cedjenje i topljenje (2026-09-19)
 
 Drive: folder `hivebits/Swarm`. Snimljeno telefonom/dronom (dji_mimo) i fotka,

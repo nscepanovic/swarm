@@ -20,6 +20,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-09-22 · kolonije jake za zimu, baza za nove HiveBits kolonije
+- Nemanja: sad je najvaznije da odrzimo kolonije jake i da prezime, jer ih koristimo kao bazu za kreiranje novih kolonija za HiveBits. Novi video na Drive-u, hoce da ga objavi danas.
+- potvrdjeno: prioritet sada je da kolonije budu jake i prezime; od njih se prave nove kolonije za HiveBits.
+- nije potvrdjeno: koliko kolonija, gde su, kad se prave nove (prolece?), koliko novih, ko je u videu (ime fajla kaze Sinisa).
+- materijal: Drive "Sinisa - Ocune.mov" https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
+- status: u draftu (content/posts/drafts/personal-kolonije-zima.md)
+
+---
+
 ## 2026-09-22 · spremamo se za Colosseum
 - Nemanja: "posto se spremamo za koloseum", pita da li da napravimo agenta za deck.
 - potvrdjeno: HiveBits se sprema za Colosseum hakaton i za to ide deck.
