@@ -140,16 +140,30 @@ Radni deck za ovaj hakaton trazi pretragom
 `parentId = '1rp5v5CZC3-fCqCxUBvJEoU6bvAT0U5QY' and title contains 'Colosseum'`
 i uzmi najnoviji po `modifiedTime`. Ako Nemanja kaze koji je, taj je.
 
-Konektor **ne moze da menja postojecu prezentaciju**. Zato:
-1. Nemanja (ili dizajner) radi u Slides-u. Ti svaki put procitas trenutni
-   Slides, uporedis ga sa `deck.md` i das tekst po slajdu: sta menjati, sta
-   izbaciti, gde brojka nema izvor.
-2. Kad Nemanja trazi novu verziju od nule, napravi **novi** Slides fajl u
-   decks folderu: napravi .pptx (python-pptx, samo tekst i jednostavan
-   raspored, u scratchpad-u), pa ga uploaduj sa `create_file`
-   (`contentMimeType` = pptx, konverzija ukljucena, `parentId` = decks
-   folder). Naslov: `Colosseum 2026 - draft vN - <datum>`. Nikad ne diraj
-   i ne preimenuj Nemanjine fajlove, i nikad ne pisi u Press folder.
+**Ti pravis ceo deck. Nemanja ne sklapa slajdove.** (Ispravka 2026-09-22:
+"necu da trosim vreme na sklapanje draft pitcha".) Njegov posao je samo da
+pogleda gotov deck u Slides-u i kaze sta menjati. Nikad mu ne vracaj tekst
+da ga on prebacuje u slajdove.
+
+Kako:
+1. Napravi .pptx u scratchpad-u sa python-pptx iz `.venv-deck/`
+   (`.venv-deck/bin/python`; ako ne postoji: `python3 -m venv .venv-deck &&
+   .venv-deck/bin/pip install python-pptx`). 16:9, jedna misao po slajdu,
+   veliki naslovi, malo teksta, citljivo sa daljine. Boje: med-zuta i skoro
+   crna na svetloj pozadini, jedan font. Brojka na slajdu je velika, izvor je
+   sitno u dnu slajda. Govornikov tekst ide u **speaker notes**.
+2. Uploaduj ga sa `create_file`: `base64Content` (base64 .pptx),
+   `contentMimeType` =
+   `application/vnd.openxmlformats-officedocument.presentationml.presentation`,
+   konverzija ukljucena (Google Slides), `parentId` = decks folder.
+   Naslov: `Colosseum 2026 - vN - <YYYY-MM-DD>`.
+3. U izvestaju daj link na novi Slides.
+
+Konektor ne moze da menja postojecu prezentaciju, zato je svaka verzija nov
+fajl. Kad Nemanja menja nesto rukom u Slides-u, sledeci put procitaj taj
+fajl (`read_file_content`) i unesi njegove izmene u `deck.md` pre nove
+verzije, da se njegov rad ne izgubi. Nikad ne diraj i ne preimenuj
+Nemanjine fajlove, i nikad ne pisi u Press folder.
 
 `deck.md` u repou je izvor istine za tekst i izvore; Slides je izgled.
 
