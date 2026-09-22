@@ -16,27 +16,21 @@ Gleda napred: sta je sad posao i zasto je to prvi korak. Nije izvestaj o rejzu.
 Nemanjina poruka: sad je najvaznije da kolonije ostanu jake i da prezime,
 jer su one baza za pravljenje novih kolonija za HiveBits.
 
-## POST A (preporuka, oko 170 znakova)
+## POST (preporuka, sa Sinisom i naglaskom da je jedan od vise)
 
 This is just one of our apiaries. We have more.
 
-Our most important job right now: keep the colonies strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
+Co-founder Sinisa is checking the colonies. Our most important job now is to keep them strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
 
-## POST B (sa Sinisom, ako je on u videu)
+## POST (kraci)
 
-Co-founder Sinisa checking one of our apiaries.
+Just one of our apiaries. Co-founder Sinisa is getting the colonies ready for winter.
 
-The job now is to keep them strong for winter. From these colonies we make the new HiveBits colonies. 🐝
-
-## POST C (najkraci)
-
-Just one of our apiaries. Strong colonies now, new HiveBits colonies from them later.
-
-That is the work before winter. 🐝
+Strong colonies now, new HiveBits colonies from them later. 🐝
 
 ## Pre objave
 
-- Video NIJE pregledan. Po imenu fajla je Sinisa; ako on nije u kadru, B otpada.
+- Video nisam pregledao. Da je Sinisa u videu potvrdio je Nemanja (22.09).
 - "One of our apiaries" je Nemanjina potvrda (22.09). Koliko pcelinjaka ukupno nije receno, ne pise se.
 - Nema broja kolonija ni roka ("in spring"). Nije izgovoreno.
 - Nema mesta. Bosna je javna, ali nije receno da su kolonije tamo.

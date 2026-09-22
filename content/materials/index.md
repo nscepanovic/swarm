@@ -19,7 +19,7 @@ Drive linkove.
 Drive: https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
 `Sinisa - Ocune.mov`, 21 MB. **Nije pregledano.** Znamo samo sta je Nemanja
 rekao uz njega: sad je najvaznije da kolonije budu jake i prezime, one su baza
-za nove HiveBits kolonije. Ime fajla sugerise Sinisu u kadru, nije provereno.
+za nove HiveBits kolonije. Sinisa je u videu (Nemanja potvrdio). Ovo je "samo jedan od nasih pcelinjaka", broj nije receno.
 
 Uz `playbook-hivebits.md`: samostalan post + video, @hivebits_io (Nemanjina odluka). Snimak sa
 terena, ne govorna glava, popunjava istu rupu kao vosak.
