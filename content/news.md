@@ -44,6 +44,21 @@ nisu izgovorena.
 - materijal: nema
 - status: novo. Ne ide u post dok se ne potvrdi prijava.
 
+
+---
+
+## 2026-09-22 · Vukasin (Startit) odgovorio na pitanja
+- Nemanja je prosledio dugu poruku od Vukasina Stojkova (transkript govora, verovatno automatski, sa gresaka u transkripciji), odgovor na nasih 5 pitanja od 19.09.
+- Ugao: I Superteam Balkan I Colosseum Hakaton. Vukasin: Superteam Balkan mu "nontrivijalno pomaze, prijatelji su i klijenti"; pise seriju clanaka gde je hakaton "plugin, ne glavna prica". Glavna prica po njemu: nas uspeh na sopstvenim zaslugama, "objektivan uspeh" za publiku kojoj treba ohrabrenje, i to je **vezano za rejz** ("it's about the fundraiser, that's essentially it").
+- Format: da pogledamo njegov najnoviji Colosseum tekst na Startitu kao obrazac, sa otprilike duplo vise citata. Zeli "boilerplate" tekst od nas sada, da ne bi njegov istrazivacki agent nasao "shitty content"; kasnije ce postaviti dodatna pitanja, oznacena kao odgovor Nemanje, ali kaze da ne moraju bukvalno biti njegove reci ("you can improvise it with him... so the answers don't stink of AI slop").
+- Rok: kraj radnog dana sutra (2026-09-23), njegove reci, kaze da ne namece.
+- Jezik: srpski (clanak je na srpskom).
+- Predlog: da nasi agenti razgovaraju direktno sa njegovim agentom, u ovom chatu ili u novoj grupi. NAPOMENA ZA SLEDECI KORAK: ovo je odluka poverenja (spajanje sa tudjim agentom), nisam to pokrenuo, ceka Nemanjinu odluku.
+- Napomena: Colosseum ugao sad ima smisla i sa nase strane. Postoji poseban agent `deck` (od 2026-09-22, `content/colosseum/`) koji vec pravi pitch deck za Colosseum hakaton, znaci ucesce je aktivno, ne samo pretpostavka kao 19.09.
+- nije potvrdjeno: da li se Nemanja slaze da rejz bude deo price (CLAUDE.md pravilo o rejzu je pisano za nase sopstvene X postove nasoj publici, ovo je nezavisan clanak treceg lica, moguce da pravilo ne vazi isto, ali odluka je Nemanjina). Da li da se pokrene agent `press` da napise prvi "boilerplate" tekst za Vukasina, i da li da koristi i materijal iz `content/colosseum/` (deck).
+- materijal: poruka je tekst, nije na Drive-u.
+- status: novo, ceka Nemanjinu odluku pre nego sto pravimo sadrzaj za Vukasina.
+
 ---
 
 ## 2026-09-21 · sastanak u Bosni, zadruzni revizor i ekspert za EU projekte
