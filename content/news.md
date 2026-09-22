@@ -25,6 +25,8 @@ nisu izgovorena.
 - potvrdjeno: HiveBits se sprema za Colosseum hakaton i za to ide deck.
 - potvrdjeno iz Colosseum Copilota: HiveBits je vec prijavljivan dva puta, bez pobede. (1) Cypherpunk, pocetak 2025-09-25, tracks Consumer Apps + RWAs, tim od 4 (Sinisa Kezic, Filip, Eduardo Rigon, Nemanja), pitch https://www.loom.com/share/cb96864754d94bb3898f76af2e40706b, tehnicki demo https://www.loom.com/share/5c24e51983d8464d89cbd2cc22743936, repo github.com/hivebits/web. (2) Frontier, pocetak 2026-04-06, track DePIN, tim od 2 (Eduardo Rigon, Nemanja), pitch https://youtu.be/denQhkGyNjs, repo github.com/hivebits/app. Obe prijave navode "$175K revenue" i "4,000 people".
 - nije potvrdjeno za deck: da li su $175K i 4,000 i dalje tacne i azurne brojke.
+- ideja za Colosseum (Nemanja, 2026-09-22): farma se gradi od rejza, a za Colosseum pitchujemo nesto novo: marketplace "od njive do stola", "nesto izmedju Agridex-a i Wolta". Ljudi ne znaju sta jedu, mi to resavamo. Ucesce u uvozu i izvozu kao Agridex, ponasanje kao Wolt: ljudi zakupe kosnicu, livadu, polje kukuruza. Pocetak med, posle skaliranje. Otvaranje pitcha: "da li ste culi za termin zdravstveno prihvatljiva hrana".
+- INTERNO: ideja nije za X dok se ne prijavimo i Nemanja ne kaze da je javna.
 - nije potvrdjeno: da je prijava poslata, track, datumi hakatona (28.09-02.11 je samo iz tvita @SuperteamBLKN), rok za predaju, da li ide i Startit/Superteam Balkan side track, ko je u timu za prijavu.
 - materijal: nema
 - status: novo. Ne ide u post dok se ne potvrdi prijava.
