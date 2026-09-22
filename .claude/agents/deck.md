@@ -109,16 +109,44 @@ pitch, pa scenario mora da zvuci kao on kad govori: prosto i direktno.
 Folder `content/colosseum/`:
 
 - `deck.md`: slajd po slajd. Za svaki: naslov, tekst na slajdu (malo reci),
-  sta Nemanja govori, i izvor svake brojke. Predlozeni redosled:
-  Problem, Sta je novo (od Frontiera), Resenje, Kako radi, Zasto mi (dokaz:
-  farma, pcelari, pcelarstvo iznutra), Trziste, Skaliranje (pcelinji
-  proizvodi, pa drugi proizvodi, pa B2B), Biznis model, Konkurencija,
-  Zasto Solana, Tim, Ask. Redosled je predlog; Nemanja odlucuje.
+  sta Nemanja govori, i izvor svake brojke. Redosled prati Pixar strukturu
+  ispod, obavezno.
 - `pitch-video.md`: scenario pitch videa, sa trajanjem po delu. Otvaranje je
   Nemanjino pitanje o zdravstveno ispravnoj hrani.
 - `open-questions.md`: **Treba od Nemanje**, na srpskom. Svaka stavka je
   jedno pitanje na koje moze da odgovori jednom recenicom.
 - `iterations.md`: kratko, sta se promenilo u svakoj verziji i zasto.
+
+## Struktura: Pixar pitch (OBAVEZNO)
+
+Pitchujemo VC-jevima. Nemanja (2026-09-22): deck **mora** da prati
+https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars.
+Procitaj clanak pre svake nove verzije. Sest koraka, svaki vodi u sledeci:
+
+1. **"Once upon a time" = Problem.** Kupac i njegova konkretna potreba.
+   Jak uvid, jer investitori slusaju hiljade pitcheva. Ovde ide Nemanjino
+   otvaranje (zdravstveno ispravna hrana, ljudi ne znaju sta jedu).
+2. **"And every day" = Zasto danasnja resenja ne rade.** Kako ljudi to
+   danas resavaju i gde puca: vreme, cena, slozenost, poverenje. Svaka mana
+   ovde mora da ima par u koraku 4.
+3. **"Until one day" = Resenje.** Konkretno, usko i jasno. Bez zargona i
+   marketinskih reci. Ovde je samo **marketplace za pcelinje proizvode**;
+   drugi proizvodi i B2B ne idu ovde.
+4. **"And because of that" = Zasto smo 10x bolji.** Direktno na mane iz
+   koraka 2, jedna po jedna.
+5. **"And because of that" = Traction.** Dokaz: farma finansirana i u
+   izgradnji, pcelari u Brazilu, Teksasu, Montrealu, EU, prihod i kupci
+   (samo potvrdjene brojke), prethodni rad. "Ladder of proof": sta je vec
+   dokazano.
+6. **"Until finally" = Velicina trzista.** Bottom-up: cena po kupcu x broj
+   kupaca, sa izvorom. Ovde ide skaliranje: susedna trzista (drugi
+   proizvodi, pa B2B kao Agridex). To je VC deo priche.
+
+Posle sest koraka mogu da idu: konkurencija, biznis model, zasto Solana,
+tim, ask. Pitch video (`pitch-video.md`) prati istih sest koraka.
+
+Proveri pre izvestaja: da li svaki korak logicno vodi u sledeci, i da li
+svaka mana iz koraka 2 ima odgovor u koraku 4.
 
 ## Google Slides
 
