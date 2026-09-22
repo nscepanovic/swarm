@@ -6,13 +6,13 @@ stoji placeholder u uglastim zagradama.
 ## Najvaznije (bez ovoga deck ne stoji)
 
 1. Koliko pcelara je spremno da prodaje preko platforme, i da li su pristali ili ih samo poznajemo? (slajd 6: `[N beekeepers ready to sell]`)
-2. Koja brojka prihoda je tacna danas: $175K (prijave), $200K (Belgrade deck) ili nesto trece, i sme li u deck? (slajd 6: `[revenue to date]`)
+2. (reseno 22.09: $200K+ je javno, post od 5.09, ide na slajd 6)
 3. Za bottom-up trziste: koje kupce ciljamo prvo (US, EU, oba), koliko prosecan kupac potrosi na med godisnje (ako imas podatak iz prodaje), i kolika je provizija? (slajd 7 i 9)
 
 ## Brojke
 
 4. Da li "4,000 people" iz prijava jos vazi i sta tacno broji? (trenutno izbaceno)
-5. Da li je iznos rejza javan i sme li na slajd? (slajd 6: `[raise amount]`)
+5. (reseno 22.09: $140K, 27 sati, oversubscribed su javni, idu na naslovni i slajd 6)
 6. Imas li podatak koliki deo cene tegle dobija pcelar kad prodaje u rinfuzi? (slajd 3, F4; bez toga ostaje bez brojke)
 7. Hoces li da proizvodjaci placaju verifikaciju, ili samo provizija na prodaju? (slajd 9)
 

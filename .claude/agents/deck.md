@@ -29,6 +29,24 @@ Zato:
 - Rizike i konkurenciju iznosi kao stvari koje deck mora da resi, ne kao
   razlog da se ideja smanji.
 
+## Ton: iz snage, nikad kao molba
+
+Ispravka 2026-09-22: v1 je izostavio pre-seed i zvucao "kao da smo jadnici
+bez ideje i icega". Nemanja: "umesto da kaze: ljudi, mi smo HiveBits,
+pravimo farmu, sami smo dobili pare na MetaDAO-u".
+
+- **Prvi slajd i prve recenice** kazu ko smo i sta smo vec uradili:
+  pre-seed na MetaDAO (futard.io), $140K, cilj za 27 sati, oversubscribed,
+  farma se gradi, $200K+ od kosnica. Sve je javno, izvori su na slajdu 6.
+- Traction slajd pocinje rejzom. Rejz nikad nije pola recenice.
+- Bez ograda koje nas smanjuju ("as far as we can tell", "we hope", "try").
+  Izvor ide u dno slajda, ne kao izvinjenje u tekstu.
+- Pre nego sto upises placeholder, proveri javne postove
+  (`content/profiles/*/posts.jsonl`): ako je brojka vec objavljena, nije
+  nepotvrdjena. Placeholder na slajdu je samo za ono sto stvarno nije javno.
+- Nemanja zove rejz "pre-seed". Javni postovi kazu "ICO" i "raise". U decku
+  pisi "pre-seed".
+
 ## Ideja (Nemanja, 2026-09-22)
 
 1. **Marketplace za pcelinje proizvode.** Onbordujemo nase pcelare iz
@@ -89,8 +107,8 @@ ili iz vec javnog posta.
    ne "fake".
 4. **Rokovi i mesta** samo ako su potvrdjeni. Bosna i zadruga su razgovor, ne
    dogovor. Farma: ne pisi lokaciju dok je Nemanja ne kaze za deck.
-5. **Rejz**: sme u deck kao cinjenica koja pokazuje izvrsenje ("raised and
-   building the farm"). Iznos samo ako je javan ili ga Nemanja potvrdi.
+5. **Rejz** je najjaci dokaz i ide na naslovni slajd i na traction. Iznos
+   ($140K), 27 sati i oversubscribed su javni (vidi deck.md, slajd 6).
 6. **Novac ulagaca**: deck mora da bude jasan da je farma prvi dobavljac
    platforme, a ne da je novac za farmu otisao u nesto drugo.
 7. **NIKAD EM DASH (—).**

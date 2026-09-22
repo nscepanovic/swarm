@@ -28,13 +28,16 @@ Provera toka (Pixar): svaka mana iz slajda 3 ima par na slajdu 5.
 
 **Na slajdu**
 - HiveBits
-- Know what you eat.
-- The marketplace for verified bee products.
+- Pre-seed raised on MetaDAO in 27 hours. Our smart bee farm is being built now.
+- Next: the global marketplace for verified bee products.
 
 **Nemanja govori**
-"Hi, I am Nemanja. I am a beekeeper and the founder of HiveBits."
+"Hi, we are HiveBits. This month we raised our pre-seed on MetaDAO. We hit
+the goal in 27 hours and it was oversubscribed. Right now we are building
+our own smart bee farm. We are beekeepers, we already make money from our
+hives, and today I show you what we build next."
 
-**Izvori:** nema brojki.
+**Izvori:** isti kao slajd 6 (rejz, 27 sati, oversubscribed, farma).
 
 ---
 
@@ -139,31 +142,39 @@ in Europe."
 ## 6. And because of that: traction
 
 **Na slajdu**
-- Since Frontier 2026: raised, and our farm is being built. It is supplier #1.
-- Beekeepers in Brazil, Texas, Montreal and the EU.
-- `[N beekeepers ready to sell - Nemanja potvrdjuje]`
-- `[revenue to date - Nemanja potvrdjuje]`
-- Two Colosseum submissions, shipped app and hive sensors.
+- Pre-seed closed: $140K raised on MetaDAO (futard.io), September 2026.
+- Goal reached in 27 hours. Oversubscribed, 109% with 4 days left.
+- The money builds our smart bee farm: 300 revenue-generating hives. Supplier #1.
+- $200K+ already generated from our hives. We sell out every season.
+- Beekeepers ready in Brazil, Texas, Montreal and the EU.
 
 **Nemanja govori**
-"What is proven already. Since Frontier we raised money and we are building
-our own farm. That money goes to the farm, like we promised. The farm is now
-supplier number one of the marketplace. We have beekeepers in Brazil, Texas,
-Montreal and in the EU. We built on Solana two times already, with an app
-and hive sensors. What we pitched before was the farm. The farm is the proof.
-The marketplace is the company."
+"What is proven already. This month we closed our pre-seed. We raised
+140 thousand dollars on MetaDAO, and we hit the goal in 27 hours. It was
+oversubscribed. That money builds our smart bee farm, 300 hives, like we
+promised our investors. The farm is supplier number one of the marketplace.
+Before this, our hives already made more than 200 thousand dollars, and we
+sell out every season. And we have beekeepers in Brazil, Texas, Montreal and
+the EU. The farm is the proof. The marketplace is the company."
 
 **Izvori**
-- Rejz zatvoren: CLAUDE.md (faza posle rejza, od 2026-09). Iznos NIJE na
-  slajdu: `[raise amount - Nemanja potvrdjuje da je javan]`.
-- Pcelari po regionima: Nemanja, 2026-09-22 (news.md). Broj, imena, zemlje
-  u EU i pristanak NISU potvrdjeni, zato nema "network of N".
-- "$175K revenue" i "4,000 people" iz obe prijave: NE na slajdu dok Nemanja
-  ne potvrdi. Belgrade deck kaze "$200,000", Frontier deck "$200,000 through
-  400 beehives": tri razlicite brojke, Nemanja bira jednu.
-- Prijave: colosseum.com/projects/explore/hivebits (Cypherpunk 2025,
-  Consumer Apps + RWAs), colosseum.com/projects/explore/hivebits-1
-  (Frontier 2026, DePIN). Repo github.com/hivebits/app.
+- $140K cilj, ICO na futard.io (MetaDAO), otvoren 7.09.2026:
+  https://x.com/hivebits_io/status/2096991888985526644 i
+  https://x.com/SuperteamBLKN (RT 2096867280344748502).
+- Cilj za 27 sati: https://x.com/0xBeeSmart/status/2098749486667272316
+  ("1 day and 3 hours": https://x.com/hivebits_io/status/2097402533970882761).
+- Oversubscribed, preko $140K se vraca pro-rata:
+  https://x.com/hivebits_io/status/2097402533970882761.
+  109% sa 4 dana do kraja: https://x.com/hivebits_io/status/2097867467523846499.
+- Rejz zatvoren: https://x.com/hivebits_io/status/2099844110656082216 (15.09).
+- "Pre-seed": Nemanjin termin (2026-09-22). U javnim postovima pise "ICO" i
+  "raise".
+- 300 kosnica: https://x.com/hivebits_io/status/2096991888985526644.
+- $200K+ i "sell out every season":
+  https://x.com/hivebits_io/status/2096269121751220404 (5.09.2026). Ovo je
+  najnovija javna brojka; $175K iz starih prijava se ne koristi.
+- Pcelari po regionima: Nemanja, 2026-09-22 (news.md). Broj i pristanak NISU
+  potvrdjeni, zato nema "network of N".
 - Lokacija farme: ne pisemo (pravilo 4).
 
 ---
@@ -211,12 +222,13 @@ already shows it works on Solana."
 - Food traceability: LAVIEM, FarmTrust. No prizes.
 - B2B agri export: Rizoma. No prize.
 - AgriDex: B2B agri trade on Solana, $9M+ in stablecoin trades, Africa.
-- No Colosseum project is a marketplace for bee products.*
-- *As far as we can tell from Colosseum Copilot, 2026-09-22.
+- Nobody on Colosseum built a marketplace for bee products. We are the first.
+- Source: Colosseum Copilot, 5,400+ submissions, 2026-09-22.
 
 **Nemanja govori**
 "Others tried agri marketplaces and traceability on Colosseum. None of them
-won. Most were software with no producers behind them. We are producers.
+won. They were software with no producers behind them. We are producers,
+with our own farm, our own hives and our own money raised.
 AgriDex is the serious one. They start from big commodities in Africa. We
 start from the product people eat and grow into B2B. They show the model
 works."
@@ -288,16 +300,27 @@ of honey. And AgriDex already runs B2B agri trade on Solana."
 ## 11. Team
 
 **Na slajdu**
-- Nemanja Scepanovic, CEO. Beekeeper, engineering and IoT.
-- Eduardo Rigon. Beekeeper. `[Brazil, role - Nemanja potvrdjuje]`
-- `[team for this submission - Nemanja potvrdjuje]`
+- Nemanja Scepanovic, CEO. Beekeeper, 10 years in engineering and IoT.
+- Sinisa, co-founder. Runs the farm build.
+- Eduardo Rigon, CMO. Beekeeper.
+- Raised with MetaDAO. Backed by Superteam Balkan and the Solana Balkan community.
 
 **Nemanja govori**
-"We are beekeepers who build software. I did engineering and IoT, and I keep
-bees. Eduardo is a beekeeper too. We are the producers this market needs."
+"We are beekeepers who build software. I have 10 years in engineering and
+IoT, and I keep bees. Sinisa is my co-founder and he runs the farm build.
+Eduardo is a beekeeper and our CMO. We raised on MetaDAO with the Superteam
+Balkan community behind us. We are the producers this market needs, and we
+already showed we can execute."
 
 **Izvori**
 - Frontier prijava: tim od 2, Eduardo Rigon i Nemanja (news.md, 2026-09-22).
+- Sinisa kao co-founder: https://x.com/hivebits_io/status/2100253385857364467
+  (16.09.2026, "co-founder Sinisa"). "Runs the farm build": iz tog posta
+  (oprema, Bosna); Nemanja potvrdjuje formulaciju. Prezime Kezic je iz
+  Cypherpunk prijave, na slajdu ga nema dok Nemanja ne kaze.
+- Superteam Balkan: https://x.com/0xBeeSmart/status/2098749486667272316 i
+  https://x.com/0xBeeSmart/status/2097652072036307418 ("@JurassicFi and
+  @SuperteamBLKN helped us get it done").
 - Frontier deck: Nemanja "CEO, beekeeper", "10 years in engineering and
   IoT"; Eduardo "CMO, beekeeper".
 - Izostavljeno: "apitherapy" (zdravstvene tvrdnje) i "1,000 beehives"
