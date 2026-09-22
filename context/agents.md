@@ -99,3 +99,16 @@ dokumenta koja mu Nemanja da, i pise `content/press/press-kit.md`.
 **Sta vraca:** kratak izvestaj: sta je u kitu, sta fali (lista "Treba od
 Nemanje") i sta da proveri pre slanja. Svaka brojka, datum i mesto ima izvor;
 bez izvora ide u listu onoga sto fali. Ne salje nista nikome.
+
+## deck
+
+**Kad:** priprema za Colosseum. Kad imas novu cinjenicu za pitch, kad je
+deck u Slides-u promenjen i hoces misljenje, ili kad hoces novu verziju.
+
+**Kako:** reci `pusti deck` i sta je novo. Agent cita `news.md`, tvoje
+deckove sa Drive-a (Google Slides) i Colosseum Copilot za konkurenciju.
+
+**Sta vraca:** `content/colosseum/deck.md` (tekst po slajdu, sa izvorom uz
+svaku brojku), scenario pitch videa i listu pitanja za tebe. Kad trazis novu
+verziju, pravi novi Slides fajl na Drive-u; tvoje fajlove ne menja. Sve je
+interno dok ne kazes da je ideja javna.

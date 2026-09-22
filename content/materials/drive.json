@@ -10,5 +10,9 @@
     "folder_id": "1rqruyRgdoi4KUXiu1SOSbmbhkTAUu4wN",
     "url": "https://drive.google.com/drive/folders/1rqruyRgdoi4KUXiu1SOSbmbhkTAUu4wN",
     "note": "Ovaj folder se deli javno preko linka (Nemanja to ukljucuje u Drive-u, konektor ne moze). Ulazi SAMO ono sto je Nemanja odobrio za novinare. Nista drugo."
+  },
+  "decks_folder": {
+    "folder_id": "1rp5v5CZC3-fCqCxUBvJEoU6bvAT0U5QY",
+    "note": "Folder sa svim HiveBits deckovima (Google Slides). Koristi ga agent deck. Konektor moze da cita i pravi nove fajlove, ne moze da menja postojece."
   }
 }

@@ -28,7 +28,8 @@ nisu izgovorena.
 - ideja za Colosseum (Nemanja, 2026-09-22): farma se gradi od rejza, a za Colosseum pitchujemo nesto novo: marketplace "od njive do stola", "nesto izmedju Agridex-a i Wolta". Ljudi ne znaju sta jedu, mi to resavamo. Ucesce u uvozu i izvozu kao Agridex, ponasanje kao Wolt: ljudi zakupe kosnicu, livadu, polje kukuruza. Pocetak med, posle skaliranje. Otvaranje pitcha: "da li ste culi za termin zdravstveno prihvatljiva hrana".
 - Nemanja precizirao (glavna ideja, 2026-09-22): (1) gradimo marketplace za pcelinje proizvode i onbordujemo nase pcelare iz razlicitih delova sveta, (2) skaliramo na druge proizvode, (3) B2B kao Agridex. Poredjenje sa Woltom je model platforme, ne dostava.
 - iz Copilota (2026-09-22): nijedan Colosseum projekat nije marketplace za pcelinje proizvode; najblizi su opsti agri marketplace-i (MUNCH, AgriChain, AgriVerse) i B2B izvoz (Rizoma, Meksiko), niko nije pobedio.
-- nije potvrdjeno: koliko pcelara i iz kojih zemalja, ko su "nasi pcelari", da li postoji ikakav dogovor s njima.
+- Nemanja (2026-09-22): pcelare imamo u Brazilu, Teksasu, Montrealu, "EU generalno", i mi sami.
+- nije potvrdjeno: koliko pcelara ukupno, koje zemlje u EU, ko su (imena), da li su pristali da prodaju preko nas ili je to mreza poznanstava.
 - INTERNO: ideja nije za X dok se ne prijavimo i Nemanja ne kaze da je javna.
 - nije potvrdjeno: da je prijava poslata, track, datumi hakatona (28.09-02.11 je samo iz tvita @SuperteamBLKN), rok za predaju, da li ide i Startit/Superteam Balkan side track, ko je u timu za prijavu.
 - materijal: nema
