@@ -1,14 +1,14 @@
 ---
 date: "2026-09-22"
-time: ""
+time: "16:00 CEST"
 account: "hivebits_io"
-status: "draft"
+status: "scheduled"
 media: "Sinisa - Ocune.mov (Drive: https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view)"
 tweet_id: ""
 title: "Kolonije jake za zimu"
 ---
 
-# @hivebits_io, utorak 22.09 (ceka odobrenje)
+# @hivebits_io, utorak 22.09 (zakazano 16:00 CEST)
 
 Format: samostalan post + video. Nemanja je odlucio: ide sa brend naloga.
 Gleda napred: sta je sad posao i zasto je to prvi korak. Nije izvestaj o rejzu.

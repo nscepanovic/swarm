@@ -25,7 +25,7 @@ nisu izgovorena.
 - potvrdjeno: Sinisa je u videu. Video je "samo jedan od nasih pcelinjaka" (ima ih vise, broj nije receno). Prioritet sada je da kolonije budu jake i prezime; od njih se prave nove kolonije za HiveBits.
 - nije potvrdjeno: koliko kolonija, gde su, kad se prave nove (prolece?), koliko novih, ko tacno radi sta u videu.
 - materijal: Drive "Sinisa - Ocune.mov" https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
-- status: u draftu (content/posts/drafts/hivebits-kolonije-zima.md)
+- status: zakazano 16:00 CEST, @hivebits_io (content/posts/approved/2026-09-22-hivebits-kolonije-zima.md)
 
 ---
 
