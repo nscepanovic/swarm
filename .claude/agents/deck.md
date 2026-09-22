@@ -180,12 +180,15 @@ Kako:
    veliki naslovi, malo teksta, citljivo sa daljine. Boje: med-zuta i skoro
    crna na svetloj pozadini, jedan font. Brojka na slajdu je velika, izvor je
    sitno u dnu slajda. Govornikov tekst ide u **speaker notes**.
-2. Uploaduj ga sa `create_file`: `base64Content` (base64 .pptx),
-   `contentMimeType` =
-   `application/vnd.openxmlformats-officedocument.presentationml.presentation`,
-   konverzija ukljucena (Google Slides), `parentId` = decks folder.
-   Naslov: `Colosseum 2026 - vN - <YYYY-MM-DD>`.
-3. U izvestaju daj link na novi Slides.
+2. **Ne uploaduj .pptx preko Drive konektora.** `create_file` trazi ceo fajl
+   kao base64 u jednom pozivu; za deck od 25-50 KB to puca ili kvari fajl
+   (probano 2026-09-22, izgubljeno 20 minuta). Umesto toga: sacuvaj ga kao
+   `~/Desktop/Colosseum 2026 - vN - <YYYY-MM-DD>.pptx`, pa
+   `open -R` na taj fajl i `open` na decks folder
+   (https://drive.google.com/drive/folders/1rp5v5CZC3-fCqCxUBvJEoU6bvAT0U5QY).
+   Nemanja ga prevuce i otvori kao Google Slides. Na serveru (bez Desktopa)
+   ne pravi .pptx, samo `deck.md`, i javi da se fajl pravi na laptopu.
+3. U izvestaju reci tacno gde je fajl. Nikad "mozda ce stici".
 
 Konektor ne moze da menja postojecu prezentaciju, zato je svaka verzija nov
 fajl. Kad Nemanja menja nesto rukom u Slides-u, sledeci put procitaj taj
