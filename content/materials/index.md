@@ -21,9 +21,9 @@ Drive: https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
 rekao uz njega: sad je najvaznije da kolonije budu jake i prezime, one su baza
 za nove HiveBits kolonije. Ime fajla sugerise Sinisu u kadru, nije provereno.
 
-Uz `playbook-personal.md`: samostalan post + video, licni nalog. Snimak sa
+Uz `playbook-hivebits.md`: samostalan post + video, @hivebits_io (Nemanjina odluka). Snimak sa
 terena, ne govorna glava, popunjava istu rupu kao vosak.
-Draft: `content/posts/drafts/personal-kolonije-zima.md`.
+Draft: `content/posts/drafts/hivebits-kolonije-zima.md`.
 
 ---
 

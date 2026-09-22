@@ -25,7 +25,7 @@ nisu izgovorena.
 - potvrdjeno: prioritet sada je da kolonije budu jake i prezime; od njih se prave nove kolonije za HiveBits.
 - nije potvrdjeno: koliko kolonija, gde su, kad se prave nove (prolece?), koliko novih, ko je u videu (ime fajla kaze Sinisa).
 - materijal: Drive "Sinisa - Ocune.mov" https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
-- status: u draftu (content/posts/drafts/personal-kolonije-zima.md)
+- status: u draftu (content/posts/drafts/hivebits-kolonije-zima.md)
 
 ---
 
