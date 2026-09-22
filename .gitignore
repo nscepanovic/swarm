@@ -32,3 +32,4 @@ content/.reminders_sent.json
 # Colosseum Copilot skill (vlasnicki, instalira se rucno, vidi context/claude-setup.md)
 .claude/skills/colosseum-copilot/
 .venv-deck/
+content/colosseum/*.pptx

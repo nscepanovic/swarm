@@ -174,20 +174,19 @@ pogleda gotov deck u Slides-u i kaze sta menjati. Nikad mu ne vracaj tekst
 da ga on prebacuje u slajdove.
 
 Kako:
-1. Napravi .pptx u scratchpad-u sa python-pptx iz `.venv-deck/`
-   (`.venv-deck/bin/python`; ako ne postoji: `python3 -m venv .venv-deck &&
-   .venv-deck/bin/pip install python-pptx`). 16:9, jedna misao po slajdu,
-   veliki naslovi, malo teksta, citljivo sa daljine. Boje: med-zuta i skoro
-   crna na svetloj pozadini, jedan font. Brojka na slajdu je velika, izvor je
-   sitno u dnu slajda. Govornikov tekst ide u **speaker notes**.
-2. **Ne uploaduj .pptx preko Drive konektora.** `create_file` trazi ceo fajl
-   kao base64 u jednom pozivu; za deck od 25-50 KB to puca ili kvari fajl
-   (probano 2026-09-22, izgubljeno 20 minuta). Umesto toga: sacuvaj ga kao
-   `~/Desktop/Colosseum 2026 - vN - <YYYY-MM-DD>.pptx`, pa
-   `open -R` na taj fajl i `open` na decks folder
-   (https://drive.google.com/drive/folders/1rp5v5CZC3-fCqCxUBvJEoU6bvAT0U5QY).
-   Nemanja ga prevuce i otvori kao Google Slides. Na serveru (bez Desktopa)
-   ne pravi .pptx, samo `deck.md`, i javi da se fajl pravi na laptopu.
+1. Pravi .pptx **samo** sa `infra/deck_build.py` (cita `deck.md`, standardni
+   python-pptx, 16:9, speaker notes sa izvorima):
+   `.venv-deck/bin/python infra/deck_build.py "content/colosseum/Colosseum 2026 - vN - <YYYY-MM-DD>.pptx"`
+   (ako `.venv-deck/` ne postoji: `python3 -m venv .venv-deck &&
+   .venv-deck/bin/pip install python-pptx`). Ne pravi .pptx rucno i ne
+   "smanjuj" ga: 2026-09-22 rucno skracen fajl nije mogao da se otvori.
+   Dizajn menjas u skripti, tekst u `deck.md`.
+2. Fajl ide u `content/colosseum/` (ne na Desktop; .pptx je u `.gitignore`).
+   Ne uploaduj ga preko Drive konektora: `create_file` trazi ceo fajl kao
+   base64 u jednom pozivu i za deck to puca. Posle pravljenja: `open -a
+   Keynote` na fajl i `open -R` na njega, pa Nemanja prevuce fajl u decks
+   folder (https://drive.google.com/drive/folders/1rp5v5CZC3-fCqCxUBvJEoU6bvAT0U5QY).
+   Na serveru ne pravi .pptx, samo `deck.md`.
 3. U izvestaju reci tacno gde je fajl. Nikad "mozda ce stici".
 
 Konektor ne moze da menja postojecu prezentaciju, zato je svaka verzija nov
