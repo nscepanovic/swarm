@@ -23,6 +23,8 @@ nisu izgovorena.
 ## 2026-09-22 · spremamo se za Colosseum
 - Nemanja: "posto se spremamo za koloseum", pita da li da napravimo agenta za deck.
 - potvrdjeno: HiveBits se sprema za Colosseum hakaton i za to ide deck.
+- potvrdjeno iz Colosseum Copilota: HiveBits je vec prijavljivan dva puta, bez pobede. (1) Cypherpunk, pocetak 2025-09-25, tracks Consumer Apps + RWAs, tim od 4 (Sinisa Kezic, Filip, Eduardo Rigon, Nemanja), pitch https://www.loom.com/share/cb96864754d94bb3898f76af2e40706b, tehnicki demo https://www.loom.com/share/5c24e51983d8464d89cbd2cc22743936, repo github.com/hivebits/web. (2) Frontier, pocetak 2026-04-06, track DePIN, tim od 2 (Eduardo Rigon, Nemanja), pitch https://youtu.be/denQhkGyNjs, repo github.com/hivebits/app. Obe prijave navode "$175K revenue" i "4,000 people".
+- nije potvrdjeno za deck: da li su $175K i 4,000 i dalje tacne i azurne brojke.
 - nije potvrdjeno: da je prijava poslata, track, datumi hakatona (28.09-02.11 je samo iz tvita @SuperteamBLKN), rok za predaju, da li ide i Startit/Superteam Balkan side track, ko je u timu za prijavu.
 - materijal: nema
 - status: novo. Ne ide u post dok se ne potvrdi prijava.
@@ -44,7 +46,7 @@ nisu izgovorena.
 - Vukasin Stojkov (urednik i osnivac Startita, startit.rs) zeli da objavi clanak o HiveBits-u. Nemanja trazi PR agenta koji istrazi sajt i pripremi sve za taj clanak.
 - potvrdjeno: samo ovo od Nemanje. Startit je iz screenshota razgovora ("jesi sutra u startitu") i bio linka na Vukasinovom X profilu, ali Nemanja nije rekao da je to taj sajt.
 - nije potvrdjeno: ugao clanka, format (intervju, profil, vest), rok, sta sme da se kaze o rejzu i brojkama, kontakt koji ide u kit.
-- Nemanja misli (nije potvrdjeno): Vukasinov cilj je naredni Colosseum hakaton, saradjuje sa Superteam Balkan. Web: Colosseum globalni hakaton 28.09-02.11 po tvitu @SuperteamBLKN; Startit + Superteam Balkan imaju side track, ali nije jasno da li za ovu godinu. HiveBits nije Colosseum ucesnik prema repou.
+- Nemanja misli (nije potvrdjeno): Vukasinov cilj je naredni Colosseum hakaton, saradjuje sa Superteam Balkan. Web: Colosseum globalni hakaton 28.09-02.11 po tvitu @SuperteamBLKN; Startit + Superteam Balkan imaju side track, ali nije jasno da li za ovu godinu. (Ispravka 2026-09-22: HiveBits je vec bio na Colosseum-u, Cypherpunk 2025 i Frontier 2026, vidi unos od 22.09.)
 - materijal: Drive folder "Press" (drive.json, kljuc press_folder). Jos prazan.
 - status: novo. Agent `press` postoji, prvi kit ceka odgovore od Nemanje.
 

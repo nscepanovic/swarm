@@ -32,9 +32,12 @@ Superteam Balkan je javio da je Colosseum globalni hakaton 28.09 do 02.11
 (https://x.com/SuperteamBLKN/status/2011135917986140610), a postoji i
 "Startit Solana Cypherpunk Hackathon Side Track" u saradnji Superteam Balkan
 i Startit centra (https://earn.superteam.fun/listing/startit-solana-cypherpunk-hackathon-side-track/),
-ali taj listing moze biti prosla godina. Iz repoa: HiveBits **nije** naveden
-kao Colosseum ucesnik, samo je retvitovao njihov sadrzaj. Ne pisi da jeste,
-i ne pisi datume hakatona u kit dok ih Nemanja ne potvrdi.
+ali taj listing moze biti prosla godina. **Ispravka 2026-09-22:** HiveBits
+JESTE bio na Colosseum-u dva puta (Colosseum Copilot, 2026-09-22): Cypherpunk
+2025 (tracks Consumer Apps i RWAs, https://colosseum.com/projects/explore/hivebits)
+i Frontier 2026 (track DePIN, https://colosseum.com/projects/explore/hivebits-1).
+Nijednom nije pobedio. Ranije je ovde pisalo da nismo ucesnici, to je bilo
+pogresno. Za naredni hakaton ne pisi datume u kit dok ih Nemanja ne potvrdi.
 Ako je hipoteza tacna, ugao je "Balkan tim na Solani sa pravim (RWA)
 proizvodom", uz AI ugao odozgo.
 
