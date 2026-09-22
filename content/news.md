@@ -20,6 +20,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-09-22 · spremamo se za Colosseum
+- Nemanja: "posto se spremamo za koloseum", pita da li da napravimo agenta za deck.
+- potvrdjeno: HiveBits se sprema za Colosseum hakaton i za to ide deck.
+- nije potvrdjeno: da je prijava poslata, track, datumi hakatona (28.09-02.11 je samo iz tvita @SuperteamBLKN), rok za predaju, da li ide i Startit/Superteam Balkan side track, ko je u timu za prijavu.
+- materijal: nema
+- status: novo. Ne ide u post dok se ne potvrdi prijava.
+
+---
+
 ## 2026-09-21 · sastanak u Bosni, zadruzni revizor i ekspert za EU projekte
 - Nemanja je danas bio na sastanku (brifing) i poslao fotku sa stola u kafiću (cetiri osobe, on je jedan od njih).
 - potvrdjeno (njegove reci): sastali smo se sa Milosem Galicem (glavni zadruzni revizor u Zadruznom savezu Republike Srpske i menadzer Poljoprivrednog klastera "Krajina") i Borislavom "Bobanom" Djuricem (ekspert za EU projekte, medjunarodnu saradnju i predstavljanje; izvrsni direktor Unije drustvenih preduzeca Republike Srpske). Razgovarali smo o uspostavljanju poslovanja HiveBits-a u BiH, mogucem modelu saradnje sa zadrugom, pristupu domacim programima podrske i povezivanju medjunarodnog kapitala i tehnologije sa lokalnom poljoprivrednom proizvodnjom.
