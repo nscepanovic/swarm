@@ -27,7 +27,7 @@ nisu izgovorena.
 - Nemanja kasnije: "mozda je vazno da kazemo da je Milos potvrdio da mozemo da dobijemo 60% povrata na kapitalnu investiciju". NEPOTVRDJENO ZA OBJAVU: nije jasno da li je to subvencija/povracaj dela investicije preko domaceg programa (ne povrat investitorima), koji program, da li je odobreno ili samo moguce, i da li postoji nesto pisano. Ne ide u post dok to ne razjasni i izricito ne potvrdi.
 - Nemanja razjasnio (12:25Z): to je program povrata dela investicije, znaci podrska vlade i vise novca za operacije. Potvrdjeno znacenje: subvencija, ne zarada investitora. I dalje nepotvrdjeno: naziv programa, da li je odobreno, ima li nesto pisano. Ne pisemo u post da to povecava sansu investitora za povrat i zaradu, to je tvrdnja o zaradi.
 - materijal: fotka poslata preko Telegrama (nije na Drive-u, original je kod Nemanje).
-- status: zakazano, Nemanja objavljuje sam 2026-09-21 u 18:00 CEST sa @hivebits_io, tekst R iz content/posts/drafts/hivebits-bosna-sastanak.md. Ostaje nepotvrdjeno: pristanak Milosa i Bobana za ime i fotku, naziv programa, da li je 60% fiksno.
+- status: objavljeno. @hivebits_io 2102065316981297400 (16:00Z/18:00 CEST, tekst S). @0xbeesmart licni quote 2102089291102924930 (17:35Z, "This meeting made me happy..."). Ostaje nepotvrdjeno: pristanak Milosa i Bobana za ime i fotku, naziv programa, da li je 60% fiksno.
 
 ---
 

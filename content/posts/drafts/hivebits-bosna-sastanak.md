@@ -2,9 +2,9 @@
 date: "2026-09-21"
 time: "18:00"
 account: "hivebits_io"
-status: "scheduled"
+status: "published"
 media: "fotka sa sastanka (kod Nemanje, poslata preko Telegrama)"
-tweet_id: ""
+tweet_id: "2102065316981297400"
 title: "Sastanak u Bosni"
 ---
 

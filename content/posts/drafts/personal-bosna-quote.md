@@ -2,9 +2,9 @@
 date: "2026-09-21"
 time: "posle 18:00, sat-dva posle hb posta"
 account: "0xbeesmart"
-status: "approved"
+status: "published"
 media: "quote @hivebits_io posta o sastanku u Bosni (hivebits-bosna-sastanak.md, verzija S)"
-tweet_id: ""
+tweet_id: "2102089291102924930"
 title: "Bosna, licni quote"
 ---
 
