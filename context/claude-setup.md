@@ -99,3 +99,18 @@ pravilo resava sve sledece.
 
 Dynamic workflows i nested subagents. Skupi su, isplate se tek kod velikih
 migracija ili batch fixeva.
+
+## Colosseum Copilot (skill)
+
+Skill za istrazivanje Solana projekata (5.400+ prijava sa Colosseum hakatona,
+kripto arhive, The Grid). Koristi se za deck, pre svega za slajd o konkurenciji.
+Kod je vlasnicki (Colosseum), zato nije u gitu (`.gitignore`), nego se
+instalira rucno, na laptopu i na serveru:
+
+    git clone --depth 1 https://github.com/ColosseumOrg/colosseum-copilot.git /tmp/cc
+    cp -R /tmp/cc/skills/colosseum-copilot .claude/skills/
+
+Token je u `.env` (`COLOSSEUM_COPILOT_PAT`, `COLOSSEUM_COPILOT_API_BASE`),
+na oba mesta. Vazi oko 90 dana (izdat 2026-09-22), novi se pravi na
+https://colosseum.com/arena/copilot. Rezultati iz Copilota su izvor za
+konkurenciju, nikad za HiveBits brojke.
