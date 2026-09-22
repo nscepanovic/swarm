@@ -18,7 +18,7 @@ jer su one baza za pravljenje novih kolonija za HiveBits.
 
 ## POST (Nemanjina ispravka, konacan tekst)
 
-One of our most important jobs now is that our colonies come out of the winter strong. They are the base for the new HiveBits colonies. 🐝
+One of our most important jobs now is to make sure our colonies come out of the winter strong. They are the base for the new HiveBits colonies. 🐝
 
 Odbaceno: "This is just one of our apiaries. We have more." Nemanja: zvuci
 preglupo. Naglasak ide u recenicu, ne u posebnu hvalisavu liniju.
