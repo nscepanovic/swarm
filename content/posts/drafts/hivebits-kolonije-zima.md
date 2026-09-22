@@ -20,10 +20,11 @@ jer su one baza za pravljenje novih kolonija za HiveBits.
 
 Sinisa is checking the colonies at one of our apiaries.
 
-Our most important job now is to keep them strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
+Our most important job now is that they come out of the winter strong. They are the base for the new HiveBits colonies. 🐝
 
 Odbaceno: "This is just one of our apiaries. We have more." Nemanja: zvuci
 preglupo. Naglasak ide u recenicu, ne u posebnu hvalisavu liniju.
+Odbaceno i "so they survive the winter": ne "prezive", nego "izadju jake iz zime".
 
 ## Pre objave
 
