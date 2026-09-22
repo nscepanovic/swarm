@@ -18,7 +18,7 @@ jer su one baza za pravljenje novih kolonija za HiveBits.
 
 ## POST A (preporuka, oko 170 znakova)
 
-This is one of our apiaries.
+This is just one of our apiaries. We have more.
 
 Our most important job right now: keep the colonies strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
 
@@ -30,7 +30,7 @@ The job now is to keep them strong for winter. From these colonies we make the n
 
 ## POST C (najkraci)
 
-One of our apiaries. Strong colonies now, new HiveBits colonies from them later.
+Just one of our apiaries. Strong colonies now, new HiveBits colonies from them later.
 
 That is the work before winter. 🐝
 
