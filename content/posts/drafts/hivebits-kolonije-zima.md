@@ -18,12 +18,11 @@ jer su one baza za pravljenje novih kolonija za HiveBits.
 
 ## POST (Nemanjina ispravka, konacan tekst)
 
-Sinisa is checking the colonies at one of our apiaries.
-
-Our most important job now is that they come out of the winter strong. They are the base for the new HiveBits colonies. 🐝
+Our most important job now is that our colonies come out of the winter strong. They are the base for the new HiveBits colonies. 🐝
 
 Odbaceno: "This is just one of our apiaries. We have more." Nemanja: zvuci
 preglupo. Naglasak ide u recenicu, ne u posebnu hvalisavu liniju.
+Nemanja izbacio i recenicu sa Sinisom (22.09). "they" -> "our colonies" jer bez nje nema na sta da se odnosi.
 Odbaceno i "so they survive the winter": ne "prezive", nego "izadju jake iz zime".
 
 ## Pre objave
