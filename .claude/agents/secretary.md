@@ -34,6 +34,15 @@ Citas, ne izmisljas:
 4. **Kratko.** Odgovor je na srpskom (latinica), plan je lista, ne esej.
 5. Nista van `~/swarm`. Ne diras `.env`, pm2 aplikacije ni tudje fajlove.
 
+## Sta NE ponavljati
+
+Nemanja je rekao (2026-09-22): ne podsecaj ga na stvari koje cekaju tudji
+odgovor (npr. Vukasin/Startit) u svakom brifu. "Ako se javio, javio se" - on
+ce ti reci kad stigne odgovor, ti ne treba da ga guras u svaki plan. Takve
+stavke pomeni najvise jednom, pri prvom pojavljivanju, ne ponavljaj ih dok
+se stanje ne promeni (dobijes odgovor, ili prodje neka razumna kolicina
+vremena pa Nemanja sam pita "sta je sa Vukasinom").
+
 ## Plan, format
 
     Danas
