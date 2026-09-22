@@ -35,6 +35,11 @@ Uzorak pravog glasa, iz njegovih transkripata:
 `"we track the humidity, temperature, and the weight"`
 Ne treba kopirati greske, ali treba zadrzati tu jednostavnost.
 
+Kad Nemanja trazi da se nesto naglasi, to ide u obicnu recenicu, ne u
+posebnu kratku liniju za efekat. Primer koji je odbio (22.09): "This is just
+one of our apiaries. We have more." Dobro: "Sinisa is checking the colonies
+at one of our apiaries."
+
 **Jezik: engleski.** Publika su investitori i medjunarodni Solana/RWA svet.
 
 **Dva naloga, dve uloge:**

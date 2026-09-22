@@ -16,17 +16,14 @@ Gleda napred: sta je sad posao i zasto je to prvi korak. Nije izvestaj o rejzu.
 Nemanjina poruka: sad je najvaznije da kolonije ostanu jake i da prezime,
 jer su one baza za pravljenje novih kolonija za HiveBits.
 
-## POST (preporuka, sa Sinisom i naglaskom da je jedan od vise)
+## POST (Nemanjina ispravka, konacan tekst)
 
-This is just one of our apiaries. We have more.
+Sinisa is checking the colonies at one of our apiaries.
 
-Co-founder Sinisa is checking the colonies. Our most important job now is to keep them strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
+Our most important job now is to keep them strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
 
-## POST (kraci)
-
-Just one of our apiaries. Co-founder Sinisa is getting the colonies ready for winter.
-
-Strong colonies now, new HiveBits colonies from them later. 🐝
+Odbaceno: "This is just one of our apiaries. We have more." Nemanja: zvuci
+preglupo. Naglasak ide u recenicu, ne u posebnu hvalisavu liniju.
 
 ## Pre objave
 
