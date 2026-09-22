@@ -18,25 +18,26 @@ jer su one baza za pravljenje novih kolonija za HiveBits.
 
 ## POST A (preporuka, oko 170 znakova)
 
-Our most important job right now: keep the colonies strong so they survive the winter.
+This is one of our apiaries.
 
-These colonies are the base for the new HiveBits colonies. 🐝
+Our most important job right now: keep the colonies strong so they survive the winter. They are the base for the new HiveBits colonies. 🐝
 
 ## POST B (sa Sinisom, ako je on u videu)
 
-Co-founder Sinisa checking the colonies.
+Co-founder Sinisa checking one of our apiaries.
 
 The job now is to keep them strong for winter. From these colonies we make the new HiveBits colonies. 🐝
 
 ## POST C (najkraci)
 
-Strong colonies now. New HiveBits colonies from them later.
+One of our apiaries. Strong colonies now, new HiveBits colonies from them later.
 
 That is the work before winter. 🐝
 
 ## Pre objave
 
 - Video NIJE pregledan. Po imenu fajla je Sinisa; ako on nije u kadru, B otpada.
+- "One of our apiaries" je Nemanjina potvrda (22.09). Koliko pcelinjaka ukupno nije receno, ne pise se.
 - Nema broja kolonija ni roka ("in spring"). Nije izgovoreno.
 - Nema mesta. Bosna je javna, ali nije receno da su kolonije tamo.
 - Opcija: @0xbeesmart quote-uje licnim uglom, npr. "Before we build anything new, we take care of the bees we have."
