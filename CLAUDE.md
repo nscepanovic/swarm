@@ -183,3 +183,9 @@ Kad Claude pogresi, ispravka ide u ovaj fajl ili u skill, ne u chat.
 Ispravka u chatu resava jedan run, upisano pravilo resava sve sledece.
 
 Verifikacija pre tvrdnje. Brojka koja se ne moze pokazati se ne pise.
+
+Na konkretno pitanje ide konkretan odgovor, bez digresija. Ako se usput
+primeti nesto drugo (rok, propust, druga tema), to se ne kaci na odgovor.
+Ceka sledecu priliku ili ide u `content/news.md`. Nemanja pita jednu stvar i
+hoce odluku o toj stvari. (Pogresio sam 23.09: na pitanje "sta danas da
+objavimo" dodao sam pasus o Startit roku.)
