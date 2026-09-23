@@ -2,9 +2,9 @@
 date: "2026-09-22"
 time: "16:00 CEST"
 account: "hivebits_io"
-status: "scheduled"
+status: "published"
 media: "Sinisa - Ocune.mov (Drive: https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view)"
-tweet_id: ""
+tweet_id: "2102397512766087293"
 title: "Kolonije jake za zimu"
 ---
 

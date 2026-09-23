@@ -23,7 +23,7 @@ za nove HiveBits kolonije. Sinisa je u videu (Nemanja potvrdio). Ovo je "samo je
 
 Uz `playbook-hivebits.md`: samostalan post + video, @hivebits_io (Nemanjina odluka). Snimak sa
 terena, ne govorna glava, popunjava istu rupu kao vosak.
-[zakazan: 2026-09-22 16:00 CEST, @hivebits_io] `content/posts/approved/2026-09-22-hivebits-kolonije-zima.md`
+[iskorisceno: 2026-09-22 https://x.com/hivebits_io/status/2102397512766087293] `content/posts/published/2026-09-22-hivebits-kolonije-zima.md`
 
 ---
 
