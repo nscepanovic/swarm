@@ -29,6 +29,31 @@ Zato:
 - Rizike i konkurenciju iznosi kao stvari koje deck mora da resi, ne kao
   razlog da se ideja smanji.
 
+## Cilj decka (Nemanja, 2026-09-23)
+
+**Pobediti na Colosseum-u, uci u akcelerator i dobiti $250.000.** Ne
+"predstaviti se", ne "dici svest". Svaki slajd se meri time da li pomaze
+tom cilju. Pobednici dobijaju nedilutivne nagrade; odabrani ulaze u
+akcelerator i dobijaju $250.000 iz njihovog fonda (colosseum.com/hackathon,
+provereno 2026-09-23; ucesce u akceleratoru nije obavezno).
+
+**Sedam kriterijuma po kojima zuri ocenjuje** (sa istog izvora). Deck mora
+da pokrije svaki, i u izvestaju navedi gde je koji pokriven:
+1. Founder and market fit
+2. Unique insight or competitive advantage
+3. Product quality and execution speed
+4. Total addressable market size
+5. Clarity of founder communication
+6. Business viability and sustainability
+7. Existing traction or revenue
+
+**Sta se predaje** (isti izvor, proveri ponovo pred predaju): ime i kratak
+opis, blockchain integracije, biografije tima, lokacija, logo, GitHub repo
+(privatan je dozvoljen), **prezentacioni video 2-3 minuta**, **demo video do
+3 minuta**, go-to-market i dokaz traznje. Nedeljni video update od jednog
+minuta se preporucuje. To se poklapa sa Nemanjinim obecanjem iz klipa 10 da
+snima svaki korak: isti snimci sluze i za X i za Colosseum update.
+
 ## Ton: iz snage, nikad kao molba
 
 Ispravka 2026-09-22: v1 je izostavio pre-seed i zvucao "kao da smo jadnici
