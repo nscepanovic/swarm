@@ -14,5 +14,12 @@
   "decks_folder": {
     "folder_id": "1rp5v5CZC3-fCqCxUBvJEoU6bvAT0U5QY",
     "note": "Folder sa svim HiveBits deckovima (Google Slides). Koristi ga agent deck. Konektor moze da cita i pravi nove fajlove, ne moze da menja postojece."
+  },
+  "startit_folder": {
+    "folder_name": "Startit",
+    "parent": "Swarm",
+    "folder_id": "1x703qN10lU2OsNDJDpfKQSvT67O5WTVB",
+    "url": "https://drive.google.com/drive/folders/1x703qN10lU2OsNDJDpfKQSvT67O5WTVB",
+    "note": "Paket za Vukasina Stojkova (Startit), napravljen 2026-09-23. Tri Google dokumenta plus cetiri fajla sa terena. Deljenje linkom ukljucuje Nemanja. Izvor teksta je content/press/startit/."
   }
 }
