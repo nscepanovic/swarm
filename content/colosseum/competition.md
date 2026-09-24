@@ -126,9 +126,7 @@ NOT_FOUND, pa su podaci o toj nasoj prijavi sa javne stranice. Konkurenti
 sa Frontier-a zato nisu pretrazeni. Sve "na Colosseum-u" tvrdnje ispod
 vaze za cetiri hakatona od 2024-03 do 2025-09.
 
-**X nalozi: poslednji post nije proveren ni za jedan projekat.** X trazi
-login za citanje timeline-a. Gde pise "X" u tabeli, to je samo handle iz
-prijave ili sa sajta.
+**X nalozi:** provereni 24.09 preko RapidAPI, vidi sekciju "X nalozi: poslednji post" na kraju fajla.
 
 ## Kratko
 
@@ -408,3 +406,53 @@ NE sme:
   isti tim; sadrzaj urbangro.in.
 - GitHub za FastHands (rate limit GitHub API-ja).
 - Da li je ijedan projekat van Solane prijavljen na Crypto World's Fair.
+
+## X nalozi: poslednji post, provereno 2026-09-24
+
+Provereno preko RapidAPI (isti izvor kao `infra/x_fetch.py`): profil i
+poslednjih 10 postova svakog naloga iz Colosseum prijave. "Poslednji
+post" je datum najnovijeg sopstvenog posta (bez retvitova). Pratioci i
+broj postova su sa profila istog dana. Ovo zamenjuje raniju napomenu da X
+nije proveren.
+
+| Projekat | Nalog | Poslednji post | Pratioci | Postova |
+|---|---|---|---|---|
+| agriverse | @AgriVerseHQ | 2025-05-23 | 8 | 15 |
+| farmtrust | @FarmTrustUA | 2025-05-24 | 13 | 23 |
+| rizoma | @rizoma_app | 2026-06-10 | 35 | 100 |
+| cargobill | @cargobilldotai | 2025-09-23 | 860 | 46 |
+| localine | @solana_sigmas (licni nalog clana tima) | 2024-08-25 | 9 | 2 |
+| fasthands | @FastHandsNG | 2024-10-18 | 22 | 84 |
+| fasthands | @marchedev (licni nalog clana tima) | 2026-09-24 | 904 | 3701 |
+| cakkie | @CakkieFoods | 2026-01-21 | 227 | 199 |
+| ogacraft | @ogacraftapp | 2025-10-25 | 107 | 77 |
+| urbangro | @blrmicrogreens | 2026-08-21 | 141 | 143 |
+| wokbeep | @wokbeep | 2026-04-18 | 26 | 103 |
+| zabana | @zabanamarket | 2026-09-23 | 753 | 326 |
+| moofi | @moofiapp | 2024-04-02 | 16 | 9 |
+| seedlot | @seed_lot | 2025-11-16 | 61 | 24 |
+| cacao-gold | @cacaogolddao | 2024-10-09 | 523 | 12 |
+| agrarium | @agrariumio | 2024-10-11 | 23 | 8 |
+| koffibinz | @KoffiBinz | 2025-12-10 | 5 | 10 |
+| grapelock | @kitrs94 (licni nalog clana tima) | nema postova | None | 0 |
+| pastora | @Pastoraio | 2026-05-28 | 148 | 349 |
+| pomerene | @PomereneNetwork | 2025-08-11 | 609 | 61 |
+| degarden | @degarden_crypto | nema postova | 1 | 0 |
+| agrox-network | @quang_nguyen85 (licni nalog clana tima) | 2025-12-09 | 28 | 74 |
+
+Nalog iz prijave **ne postoji ili je suspendovan**: 4groflow (@4groflow), tanitrack (@tanitracks), fasthands (@theusmansal), oro (@_orogold), sidra-verde (@sidraverde), agrox (@AgroX_MY).
+
+**Bez X naloga u prijavi:** munch, laviem, agrichain, tru-market, home-harvest, openbites, agrotoken, umay.
+
+Sta se vidi:
+- Od 22 postojecih naloga projekata (bez licnih), samo **4 su objavila
+  nesto u poslednja 4 meseca**: zabana (23.09.2026, 753 pratioca, jedini
+  koji je stvarno aktivan iako sajt nije nadjen), urbangro (21.08.2026),
+  rizoma (10.06.2026), pastora (28.05.2026). Ostali cute od 2024. ili
+  prve polovine 2025. To je konacna potvrda statusa "mrtav" iz tabela gore.
+- **CargoBill**, jedini pobednik koji lici na firmu, na X-u nije objavio
+  nista od 23.09.2025 (860 pratilaca). Sajt radi, nalog cuti godinu dana.
+- Nijedan od ovih naloga nema vise od 1.000 pratilaca. Nas @hivebits_io
+  je u istom rangu; publika se ne gradi hakatonom.
+- Ispravka statusa: **zabana** iz "ne" u "nejasno, X aktivan"; sajt i
+  repo i dalje nisu nadjeni.
