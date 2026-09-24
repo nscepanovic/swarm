@@ -15,8 +15,13 @@ ranije pretpostavke (28.09 do 02.11 iz tvita @SuperteamBLKN nije tacno).
   najboljih proizvoda koji integrisu Solanu (po $10.000).
 - Svaka prijava konkurise i za **opsti fond**: Grand Champion $30.000,
   sledecih 20 timova po $15.000, Public Goods $5.000, University $5.000.
-- **Akcelerator:** izabrani pobednici dobijaju $250.000 pre-seed iz
-  Colosseum fonda, 12 nedelja, San Francisco. Ucesce nije obavezno.
+- **Akcelerator:** samo pobednici hakatona ulaze u razmatranje; pobeda
+  daje zagarantovan intervju, ne mesto. $250.000 po startapu pre pocetka
+  programa, kroz SAFE plus token warrant ili Colosseum STAMP. 12 nedelja:
+  prve dve obavezno u San Francisku, ostalo moze udaljeno, Demo Day
+  obavezno uzivo. Nema fiksne velicine kohorte. Primaju "od ideje do firme
+  sa prihodom", uslov je Solana integracija. Ucesce nije obavezno.
+  (colosseum.com/accelerator, provereno 2026-09-24)
 - FAQ: hakaton je "za nove startape koji nisu podigli znacajan spoljni
   kapital". Sme se poceti ranije i koristiti postojeci kod, ali **zuri
   gleda rad uradjen tokom takmicenja** i sav raniji rad mora da se prijavi.
@@ -87,6 +92,8 @@ go-to-market, dokaz traznje, plan distribucije.
 - Da li projekat koji je vec dva puta predavan (hivebits, hivebits-1)
   moze ponovo. Pravila to ne zabranjuju; FAQ trazi prijavu ranijeg rada.
 - Da li Superteam Balkan ili Startit imaju side track za ovaj hakaton.
+  Web pretraga 24.09 nije nasla nista; tvit @SuperteamBLKN sa datumima
+  28.09 do 02.11 je iz januara i Colosseum je datume posle promenio.
 - Kako Colosseum tumaci "znacajan spoljni kapital".
 - Da li je nasa prijava vec registrovana.
 
