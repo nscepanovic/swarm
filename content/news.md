@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-09-24 · Colosseum: hakaton je Crypto World's Fair, rok 12.10.2026
+- Provereno na colosseum.com i u zvanicnim pravilima (PDF). Jesenji hakaton je "Crypto World's Fair", traje 14.09 do 12.10.2026 23:59 PT. Tvit @SuperteamBLKN sa 28.09 do 02.11 nije tacan za ovaj hakaton.
+- potvrdjeno (izvor u content/colosseum/hackathon.md): track-ovi su po ekosistemu, ne po nameni. Solana track: $100K na 10 proizvoda po $10K. Opsti fond: Grand Champion $30K, sledecih 20 po $15K. Akcelerator: $250K pre-seed, 12 nedelja SF, nije obavezan. Zuri gleda rad tokom takmicenja; raniji rad se prijavljuje. FAQ: "za nove startape koji nisu podigli znacajan spoljni kapital".
+- nije potvrdjeno: da li smo registrovani, ko je u timu, da li projekat koji je vec dva puta predavan sme ponovo (pravila ne zabranjuju), kako Colosseum tumaci "znacajan kapital" naspram nasih $140K.
+- materijal: nema
+- status: novo. Deck agent i researcher obavesteni. Pitanja za Nemanju u hackathon.md.
+
+---
+
 ## 2026-09-24 · Colosseum: plan odobren, track, pcelari, provizija
 - Nemanja je odobrio plan pripreme za Colosseum (istrazivanje pobednika i propalih, trziste, optimizacija agenata, deck v2). Cilj: pobeda i ulazak u akcelerator, da budemo zanimljivi VC fondovima. Ideja: globalni marketplace za pcelinje proizvode, sa sirenjem na druge proizvode.
 - potvrdjeno (njegove reci): "mi jesmo RWA, u ovom pokusaju Consumer Apps mozda najblize, a svakako i jesmo DePIN". Track jos nije izabran, sva tri su u igri; Consumer Apps je njegov prvi kandidat za ovaj put.

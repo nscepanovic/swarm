@@ -31,9 +31,12 @@ stoji placeholder u uglastim zagradama.
 
 ## Hakaton
 
-15. Prijavljujemo se na jesenji Colosseum (Colosseum blog kaze 28.09-02.11.2026), i je li prijava vec poslata? (rok ne ide u deck dok ne potvrdis)
-16. Track (24.09): "mi jesmo RWA, ovog puta Consumer Apps mozda najblize, a svakako i DePIN". Konacan izbor jos nije pao; istrazivanje daje preporuku, Nemanja odlucuje.
+15. (24.09: hakaton je Crypto World's Fair, rok 12.10.2026 23:59 PT, izvor zvanicna pravila, vidi hackathon.md.) Da li smo registrovani i ko je u timu?
+16. (zatvoreno 24.09: track-ovi su po ekosistemu, idemo u Solana track, opsti fond je automatski. RWA, Consumer, DePIN je jezik za deck, ne izbor u prijavi.)
 17. Da li radimo i Startit/Superteam Balkan side track?
+
+21. Sta od marketplace-a moze da radi do 12.10 za demo video (pcelar, serija, kupovina, isplata)? Zuri gleda rad tokom takmicenja.
+22. Da li je repo marketplace-a javan? Open-source je kriterijum u pravilima.
 
 ## Formulacije
 

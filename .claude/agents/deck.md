@@ -118,10 +118,13 @@ opis je iz 2026-09-22 i ideja se razvija.
   Cypherpunk 2025 (Consumer Apps + RWAs, https://colosseum.com/projects/explore/hivebits)
   i Frontier 2026 (DePIN, https://colosseum.com/projects/explore/hivebits-1).
   Oba puta pitchovana je farma. Deck mora da odgovori sta je novo od tada.
-- Datumi narednog hakatona, track, rok i format predaje: **nepotvrdjeni**.
-  28.09-02.11 je samo iz tvita @SuperteamBLKN. Ne pisi rok u deck dok ga
-  Nemanja ne potvrdi. Colosseum obicno trazi pitch video i tehnicki demo,
-  proveri na colosseum.com.
+- Hakaton je **Crypto World's Fair**, rok **12.10.2026 23:59 PT**, Solana
+  track ($100K na 10 proizvoda) plus opsti fond (Grand Champion $30K,
+  sledecih 20 po $15K). Track-ovi su po ekosistemu, nema RWA, Consumer ni
+  DePIN track-a. Sve cinjenice, izvori i oba spiska kriterijuma (sajt i
+  pravila) su u `content/colosseum/hackathon.md`, procitaj ga pre svake
+  verzije. Zuri gleda rad uradjen tokom takmicenja; farma i senzori su
+  raniji rad, marketplace je ono sto se gradi sad.
 
 ## Colosseum Copilot
 
