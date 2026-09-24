@@ -42,7 +42,7 @@ Ovo je pravno obavezujuci spisak i tri stavke nisu u sedam sa sajta.
 |---|---|---|
 | (a) Functionality, kvalitet koda | Nepoznato sta postoji (#8) | Radna aplikacija u demo videu, ne mockup. Repo koji se moze pokrenuti. |
 | (b) Potential Impact, TAM i uticaj na ekosistem | Delimicno (slajd 7) | Isto kao #4 gore, plus recenica sta Solana dobija: pravi proizvodjaci i pravi kupci koji placaju u USDC, ne jos jedan DeFi protokol. |
-| (c) Novelty | Nijedan Colosseum projekat nije marketplace za pcelinje proizvode (competition.md, Copilot 22.09) | Formulisati kao "prvi X", uz proveru `[ceka: competition.md, ziv konkurent na drugim lancima]` |
+| (c) Novelty | Nijedan ziv marketplace za pcelinje proizvode na blockchainu, ni na Colosseum-u ni na drugim lancima (competition.md 24.09, samo testnet prototipovi) | Formulacija: "prvi ziv marketplace za pcelinje proizvode na blockchainu", ne "niko ne povezuje kupce i pcelare" (Pollenity to radi bez kripta). |
 | (d) UX, kako blockchain pravi bolji UX | Nista napisano | Jedna konkretna stvar koju kupac dobije zbog Solane: skenira teglu, vidi seriju, kosnicu i pcelara; pcelar dobije novac odmah. Bez toga je "blockchain radi verifikacije" prazno. |
 | (e) Open-source, kompozabilnost | **GitHub org hivebits ima 0 javnih repoa** (hackathon.md) | Odluka Nemanje: repo marketplace-a javan pre 12.10, ili makar javan deo (program, SDK). Integracija sa sponzorima sa liste resursa (Phantom Connect za onboarding kupca, Reflect ili USDC za isplatu) se racuna kao kompozabilnost. |
 | (f) Business Plan i sposobnost tima | Pre-seed zatvoren, farma u izgradnji, 5% model | Plan posle hakatona: sta se radi sa $250K ako udjemo (bez rokova koje Nemanja nije potvrdio). |
@@ -55,8 +55,33 @@ pobednika prinos za investitora, ne prodavnica.
 
 ## Sta propali imaju zajednicko, a mi ne smemo
 
-`[ceka: competition.md, dopuna 24.09]`. Iz competition.md (23.09): softver
-bez proizvodjaca iza sebe, tim nestane posle prijave, demo koji ne radi.
+Iz competition.md (23.09 i dopuna 24.09, ukupno 34 projekta):
+
+- Od 23 novih (marketplace fizicke robe, RWA robe, agri DePIN): 16 mrtvih,
+  3 nejasna, 4 ziva. Nijedan u akceleratoru. Tri od cetiri ziva su izbacila
+  kripto sa sajta i prodaju samu robu (Seedlot kafa, Koffibinz app za
+  uzgajivace kafe, Pastora udeli u stoci). Jedini koji je ostao kripto je
+  ORO (tokenizovano zlato, $1.5M pre-seed). Uzorak od 4, zapazanje, ne
+  pravilo: zive su stvari sa pravom robom ili pravim proizvodjacima iza.
+- **Svih 23 je imalo pitch video, 12 tehnicki demo, nijedan link na radnu
+  aplikaciju.** Radna aplikacija sa linkom nas izdvaja od celog skupa.
+- **Ziv direktan konkurent: nema.** Ni na Colosseum-u ni na drugim lancima
+  (samo prototipovi: HoneyChain na Sepolia testnetu, Colmena DAO,
+  Agrocylo). Najblizi po modelu: AgroX, B2B berza poljoprivrednih
+  proizvoda u Maleziji, provizija 5% (nije potvrdjeno da je isti tim kao
+  na Colosseum-u). Najblizi po temi, van kripta: Pollenity (Bugarska),
+  senzori u kosnici plus "Adopt-a-Hive" pretplata gde kupac dobija med iz
+  konkretne kosnice.
+- **Nase stare prijave** (Cypherpunk, Frontier) su obe pitchovale
+  suvlasnistvo tokenizovane farme sa prinosom za ulagace. Nijedna nije
+  pominjala marketplace, spoljne pcelare ni kupce. Marketplace je stvarno
+  novo, i deck to sme da kaze.
+
+**Ispravke koje deck mora da postuje:**
+- Ne "jedini sa sopstvenom proizvodnjom" (Cacao Gold, Pastora, UrbanGro su
+  imali ili tvrde da imaju). Tacno je: "jedini sa pcelarskom proizvodnjom".
+- Ne "niko ne povezuje kupce sa pcelarima" (Pollenity to radi, bez kripta).
+  Tacno je: "nema zivog marketplace-a za pcelinje proizvode na blockchainu".
 
 ## Lista za Nemanju, po redosledu vaznosti
 
