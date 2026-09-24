@@ -1,17 +1,17 @@
-# Sta nam treba da pobedimo (v1, 2026-09-24)
+# Sta nam treba da pobedimo (v2, 2026-09-24)
 
 Mapa kriterijuma zurija na nase stanje. Cinjenice o hakatonu su u
 `hackathon.md`, pobednici u `winners.md` i `winners-full.md`, propali u
 `competition.md`, trziste u `market.md`. Ovaj fajl ne ponavlja izvore, on
-kaze sta fali. Delovi oznaceni `[ceka: <fajl>]` se popunjavaju kad to
-istrazivanje stigne.
+kaze sta fali. Sva tri istrazivanja su stigla i uneta (24.09 uvece).
 
 ## Kratko
 
 1. Rok je **12.10.2026 23:59 PT**. Ostalo je 18 dana.
 2. Ne biramo track. Solana track (10 nagrada po $10K) plus opsti fond
    (Grand Champion $30K, 20 po $15K). Pobeda u bilo cemu daje intervju za
-   akcelerator ($250K).
+   akcelerator ($250K), ali istorija kaze da u kohortu ulazi vrh: cilj je
+   opsti fond, i deck se pise za zuri koji gleda sve lance.
 3. Najveca rupa nije deck. **Zuri gleda rad tokom takmicenja, a
    marketplace jos ne postoji kao demo.** Farma, senzori i rejz su raniji
    rad i vrede kao dokaz, ne kao proizvod koji se ocenjuje.
@@ -65,9 +65,37 @@ Ovo je pravno obavezujuci spisak i tri stavke nisu u sedam sa sajta.
 
 ## Sta pobednici imaju, a mi nemamo
 
-`[ceka: winners-full.md]`. Iz winners.md (23.09) vec znamo: recenica
-kategorije, brojka koristi za proizvodjaca (CargoBill "2x"), i kod RWA
-pobednika prinos za investitora, ne prodavnica.
+Iz winners-full.md (24.09, 293 nagradjena projekta iz Copilota plus 44 sa
+Frontiera) i winners.md (23.09):
+
+- **Za akcelerator odlucuje plasman, ne track.** U akcelerator je uslo
+  1. mesto 16 od 26, 2. mesto 13 od 26, Honorable Mention 10 od 141. Na
+  Frontieru (bez track-ova) 19 od 26 glavnih pobednika, nijedan od 16 HM.
+  Za World's Fair: **cilj je opsti fond (Grand plus 20), ne samo Solana
+  track.** Solana track je $10K; intervju za akcelerator daje svaka pobeda,
+  ali istorija kaze da se u kohortu ulazi sa vrha.
+- **Jezik:** na vrhu RWA su samo finansijski instrumenti. Sva cetiri RWA
+  projekta vezana za fizicku proizvodnju stala su na HM (n=4).
+  Marketplace fizicke robe nikad nije bio iznad 5. mesta. DePIN dobija
+  nagrade cesto, ali poslednje tri kohorte akceleratora su uzele 1 DePIN
+  firmu od 42. **Preporuka (Nemanja odlucuje): consumer jezik kao glavni,
+  RWA i DePIN kao dokaz ispod njega.** Nomu je jedini tim iz trgovine
+  fizickom robom koji je stigao do akceleratora, iz drugog pokusaja, sa
+  consumer pricom i brojkom prodaje ("$1M+ GMV", tim navodi).
+- **Raniji rad ne diskvalifikuje**, ali pokazano mora biti novo (MCPay:
+  repo 4 meseca pre hakatona, pa 1. mesto i akcelerator; Nomu predao isti
+  GitHub link kao ranije). Nas slucaj: farma i senzori su stari, marketplace
+  je novo, i to se u prijavi kaze otvoreno.
+- **Traction pri prijavi:** od nule (Home Harvest, 3. mesto, prazan repo)
+  do stotina hiljada dolara. Traction sam nije dovoljan: ReFi Hub ($491K
+  ulozeno) i Surgepay ($105K za 30 dana) dobili su samo HM. Znaci: nasih
+  $140K i $200K+ su ulaznica, ne pobeda; pobedu nosi proizvod koji radi
+  plus jasna prica.
+- **Recenica kategorije** (winners.md): BORE.FI "the Blackstone of the
+  on-chain era", Pencil "a new yield-bearing asset class backed by
+  education". Nasa jos nije napisana. Deck v2 je mora imati.
+- **Brojka koristi za proizvodjaca** (CargoBill "2x"): sad je imamo iz
+  market.md, USDA 2,9x. Ceka Nemanjinu potvrdu iz prakse.
 
 ## Sta propali imaju zajednicko, a mi ne smemo
 
@@ -118,6 +146,7 @@ Iz competition.md (23.09 i dopuna 24.09, ukupno 34 projekta):
 ## Sta radimo mi (agenti), bez cekanja
 
 - researcher: winners-full.md, competition.md dopuna, market.md (u toku).
-- deck: v2 posle istrazivanja, sa recenicom kategorije, UX recenicom,
-  traction razdvojen na firmu i platformu, mapa kriterijuma po slajdu.
+- deck: v2 (pokrenuto 24.09 uvece) sa recenicom kategorije, consumer
+  jezikom, US bottom-up, 2,9x, UX recenicom, traction razdvojen na firmu
+  i platformu, mapa oba spiska kriterijuma po slajdu.
 - deck: scenario demo videa do 3 minuta, uz pitch video.
