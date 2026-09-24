@@ -84,8 +84,10 @@ go-to-market, dokaz traznje, plan distribucije.
    prijavljuje otvoreno. Da li je to "znacajno" odlucuje Colosseum;
    akcelerator daje $250K, pa $140K verovatno nije diskvalifikujuce, ali
    ovo nije provereno sa njima.
-5. **Open-source je kriterijum.** Odluka za Nemanju: da li je repo
-   marketplace-a javan.
+5. **Open-source je kriterijum.** GitHub organizacija hivebits ima 0
+   javnih repoa (api.github.com/orgs/hivebits/repos, 24.09). Repoi iz
+   starih prijava (hivebits/web, hivebits/app) su privatni. Odluka za
+   Nemanju: da li repo marketplace-a ide javno pre 12.10.
 
 ## Nije provereno
 
