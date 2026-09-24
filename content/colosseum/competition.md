@@ -445,7 +445,7 @@ Nalog iz prijave **ne postoji ili je suspendovan**: 4groflow (@4groflow), tanitr
 **Bez X naloga u prijavi:** munch, laviem, agrichain, tru-market, home-harvest, openbites, agrotoken, umay.
 
 Sta se vidi:
-- Od 22 postojecih naloga projekata (bez licnih), samo **4 su objavila
+- Od 18 postojecih naloga projekata (bez licnih), samo **5 su objavila
   nesto u poslednja 4 meseca**: zabana (23.09.2026, 753 pratioca, jedini
   koji je stvarno aktivan iako sajt nije nadjen), urbangro (21.08.2026),
   rizoma (10.06.2026), pastora (28.05.2026). Ostali cute od 2024. ili

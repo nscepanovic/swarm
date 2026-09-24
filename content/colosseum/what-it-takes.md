@@ -29,9 +29,9 @@ istrazivanje stigne.
 | 1 | Founder + Market Fit | Nemanja pcelar + 10 god. inzenjering i IoT; Sinisa vodi farmu; Eduardo pcelar (deck.md slajd 11) | Nista bitno. Ovo je nasa najjaca karta, mora da bude u prvih 20 sekundi videa. | deck |
 | 2 | Insight | "Ljudi ne znaju sta jedu", 46% uzoraka uvoznog meda u EU pod sumnjom (OLAF/JRC, deck.md slajd 2) | **Recenica kategorije** te jacine kao BORE.FI ili Pencil (winners.md). Jos nije napisana. | deck |
 | 3 | Product + Execution | Farma se gradi (javno), senzori postoje (stari rad) | **Demo marketplace-a do 12.10**: pcelar, serija, kupovina, isplata u USDC. Sta od toga vec ima u kodu (open-questions #8) | Nemanja + dev |
-| 4 | Potential Market Size | Zapremine US i EU (USDA, CBI, deck.md slajd 7) sa placeholderima | Bottom-up formula sa brojkama `[ceka: market.md]` | researcher, pa deck |
+| 4 | Potential Market Size | Bottom-up za US gotov (market.md): 46,2M domacinstava kupuje med x $18,15 godisnje = $839M; 5% od toga je $42M (NielsenIQ za National Honey Board, 52 nedelje do 2.11.2024). EU se ne moze isto (nema udela domacinstava), samo izveden raspon. | Slajd 7 prepisati sa tom formulom. Ispraviti EU uvoz: CBI 363K t racuna i unutar-EU trgovinu, Eurostat kaze 175K t iz trecih zemalja (2024). | deck |
 | 5 | Founder Communication | Nemanja govori prosto i direktno (CLAUDE.md, prednost) | Pitch video 2 do 3 min i demo video do 3 min, snimljeni. Scenario postoji (pitch-video.md), snimka nema. | Nemanja |
-| 6 | Viability | 5% od prodaje, pcelar bira ko snosi (news.md 24.09) | Cena pcelaru naspram maloprodaje, da se vidi da 5% ima od cega da se uzme `[ceka: market.md]`. Poredjenje sa provizijama Etsy, Amazon, CrowdFarming `[ceka: market.md]` | researcher, Nemanja (#6) |
+| 6 | Viability | 5% od prodaje, pcelar bira ko snosi (news.md 24.09). Razmak cene postoji: US pcelar dobije $2,45/lb od pakera, $7,15/lb kad prodaje sam, 2,9x (USDA NASS, mart 2026); Hrvatska €2,5/kg rinfuza naspram €7-8/kg direktno. Provizije: Etsy 6,5% plus oko 3% naplata, Amazon Grocery 8-15%, CrowdFarming 16-32%, AgriDex B2B ispod 0,5%. | Nemanja potvrdjuje da 2,9x lici na njegovu praksu (#6) i da li 5% ukljucuje troskove naplate (odlucuje da li je poredjenje 5% naspram 6,5% ili naspram 10%). | Nemanja |
 | 7 | Traction | $140K pre-seed za 27h, oversubscribed; $200K+ od kosnica; sell out svake sezone (deck.md slajd 6, javni postovi) | **Traction platforme:** broj pcelara koji su rekli da, prva serija na platformi, prvi kupac ili B2B razgovor (#1, #11) | Nemanja |
 
 ## Mapa: sest kriterijuma iz pravila (PDF, sekcija 8)
@@ -46,6 +46,22 @@ Ovo je pravno obavezujuci spisak i tri stavke nisu u sedam sa sajta.
 | (d) UX, kako blockchain pravi bolji UX | Nista napisano | Jedna konkretna stvar koju kupac dobije zbog Solane: skenira teglu, vidi seriju, kosnicu i pcelara; pcelar dobije novac odmah. Bez toga je "blockchain radi verifikacije" prazno. |
 | (e) Open-source, kompozabilnost | **GitHub org hivebits ima 0 javnih repoa** (hackathon.md) | Odluka Nemanje: repo marketplace-a javan pre 12.10, ili makar javan deo (program, SDK). Integracija sa sponzorima sa liste resursa (Phantom Connect za onboarding kupca, Reflect ili USDC za isplatu) se racuna kao kompozabilnost. |
 | (f) Business Plan i sposobnost tima | Pre-seed zatvoren, farma u izgradnji, 5% model | Plan posle hakatona: sta se radi sa $250K ako udjemo (bez rokova koje Nemanja nije potvrdio). |
+
+## Trziste: sta iz market.md ide u deck
+
+- **Gde prvo:** sirovi i monofloralni med u teglama, americki pcelari
+  (Teksas) americkim kupcima. US je jedino trziste gde su i kupci i
+  razmak cene izmereni primarnim izvorima. Sirovi med je vec 45% dolara
+  na americkim policama i raste. Brazil ka US nosi carinu 50% plus
+  antidamping na sirovi med; Hrvatska ima drzavnu kapu na cenu meda u
+  lancima od 12.2025 (€5,70 za 900 g). Ovo je preporuka, Nemanja bira.
+- **Drugi proizvod:** maslinovo ulje (vece trziste, dokumentovani
+  falsifikati u EU, preklapanje sa Hrvatskom). Rezerva: javorov sirup za
+  Montreal, isti oblik kao med (USDA: $28,90 rinfuza naspram $59,50/gal
+  direktno, 2,1x).
+- **Najjaca recenica za slajd 3:** pcelar koji prodaje sam dobije skoro
+  tri puta vise po funti nego kad proda pakeru (USDA). Nas posao je da mu
+  to omogucimo bez da postane trgovac.
 
 ## Sta pobednici imaju, a mi nemamo
 
@@ -93,7 +109,7 @@ Iz competition.md (23.09 i dopuna 24.09, ukupno 34 projekta):
 3. **Repo javan ili ne.** Open-source je kriterijum u pravilima.
 4. **Pcelari.** Koliko ljudi u Brazilu, Teksasu, Montrealu i Hrvatskoj je
    reklo da. Jedan snimak ili poruka od svakog vredi vise od broja.
-5. **Cena.** Koliko pcelar dobije po kg u rinfuzi, koliko bi preko nas.
+5. **Cena.** Da li USDA odnos (2,9x izmedju rinfuze i direktne prodaje) lici na tvoju praksu, i da li 5% ukljucuje troskove naplate.
 6. **Ask.** Sta trazimo na kraju: akcelerator, partneri, oba.
 7. **"Znacajan kapital".** FAQ kaze da je hakaton za startape bez
    znacajnog spoljnog kapitala. $140K se prijavljuje otvoreno; ako hoces
