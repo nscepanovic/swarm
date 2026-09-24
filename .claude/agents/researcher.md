@@ -18,9 +18,19 @@ koja iz njih sledi.
    **Ne salji feedback endpoint** i ne salji Colosseum-u nista o nasoj ideji
    osim upita za pretragu. Uz svaki nalaz stoji slug projekta
    (colosseum.com/projects/explore/<slug>) ili naslov dokumenta.
+   Iz Pythona (urllib) Copilot vraca 403 bez `User-Agent` zaglavlja;
+   posalji npr. `User-Agent: curl/8.4.0`. `GET /projects/by-slug/<slug>`
+   daje `links` (github, demo, presentation, twitter) i `team`; to je
+   izvor za X nalog projekta.
 2. **Web** (WebSearch, WebFetch) za sve sto je posle hakatona: sajt ziv ili
-   ne, rejz, akcelerator, poslednji commit na GitHub-u, X nalog. Ako WebFetch
+   ne, rejz, akcelerator, poslednji commit na GitHub-u. Ako WebFetch
    vrati 402 ili blok, reci to i ne pretvaraj se da si procitao.
+   **X nalozi se ne citaju preko weba** (trazi login) nego skriptom
+   `python3 infra/x_lastpost.py handle1 handle2 ...` (RapidAPI iz `.env`,
+   2 zahteva po nalogu, kvota je zajednicka sa serverskim pracenjem: do
+   nekoliko desetina naloga po zadatku, ne stotine). Daje datum poslednjeg
+   sopstvenog posta, pratioce i broj postova. Nalog koji ne postoji se
+   upisuje kao "nalog ne postoji ili suspendovan".
 3. **Repo**: `content/colosseum/*.md` (sta je vec nadjeno, ne ponavljaj),
    `content/news.md` (sta je Nemanja potvrdio).
 
