@@ -112,3 +112,29 @@ deckove sa Drive-a (Google Slides) i Colosseum Copilot za konkurenciju.
 svaku brojku), scenario pitch videa i listu pitanja za tebe. Kad trazis novu
 verziju, pravi novi Slides fajl na Drive-u; tvoje fajlove ne menja. Sve je
 interno dok ne kazes da je ideja javna.
+
+## researcher
+
+**Kad:** kad treba cinjenica o Colosseum-u (pobednici, propali projekti,
+akcelerator) ili o trzistu (pcelinji proizvodi, susedni proizvodi), i kad
+agent `deck` upise pitanje za njega u `open-questions.md`.
+
+**Kako:** reci `pusti researcher` i sta treba. Koristi Colosseum Copilot
+i web. Ne dira HiveBits brojke, samo tudje i trzisne.
+
+**Sta vraca:** fajl u `content/colosseum/` (`winners-full.md`,
+`competition.md`, `market.md`, `what-it-takes.md`) sa linkom uz svaku
+brojku, i 5-8 redova: najjaci nalaz i sta nije proverio.
+
+## Modeli po agentu (odluka 2026-09-24)
+
+| Agent | Model | Zasto |
+|---|---|---|
+| deck | fable | Najskuplji ulog (pobeda, akcelerator). Najjaci model. |
+| researcher | opus | Mnogo izvora, mora da razdvoji tvrdnju od cinjenice. |
+| press | opus | Pise za novinara, verifikuje svaku cinjenicu. |
+| game-designer | opus | Kreativan rad, nije hitan. |
+| x-analyst | sonnet | Cita izlaz skripte i prepisuje playbook. |
+| secretary | sonnet | Plan dana iz tri fajla. |
+
+Menja se u frontmatteru agenta (`model:`), ovde je samo pregled.
