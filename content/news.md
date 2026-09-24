@@ -18,6 +18,14 @@ nisu izgovorena.
 
 
 
+
+---
+
+## 2026-09-24 · "Second update since the raise closed"
+- Nemanja: danas radimo drugi post u seriji "update since the raise closed" (prvi je bio 16.09, o putu u Bosnu).
+- nije potvrdjeno: sta ide u sadrzaj. Kandidati iz nedavnih dogadjaja: sastanak u Bosni (60% program, Milos/Boban), kolonije za zimu (22.09), priprema za Colosseum. Nemanja da kaze sta konkretno ide, i da li je nesto od toga vec "izvestaj o poznatom" (izbeci) ili ima nov, napredan deo.
+- status: novo, ceka sadrzaj od Nemanje.
+
 ---
 
 ## 2026-09-22 · kolonije jake za zimu, baza za nove HiveBits kolonije
