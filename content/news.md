@@ -21,6 +21,18 @@ nisu izgovorena.
 
 ---
 
+## 2026-09-24 · Colosseum: plan odobren, track, pcelari, provizija
+- Nemanja je odobrio plan pripreme za Colosseum (istrazivanje pobednika i propalih, trziste, optimizacija agenata, deck v2). Cilj: pobeda i ulazak u akcelerator, da budemo zanimljivi VC fondovima. Ideja: globalni marketplace za pcelinje proizvode, sa sirenjem na druge proizvode.
+- potvrdjeno (njegove reci): "mi jesmo RWA, u ovom pokusaju Consumer Apps mozda najblize, a svakako i jesmo DePIN". Track jos nije izabran, sva tri su u igri; Consumer Apps je njegov prvi kandidat za ovaj put.
+- potvrdjeno: pcelare za pocetak imamo u Brazilu, Teksasu, Montrealu i Hrvatskoj. Nemanja: "smatram da je to i vise nego dovoljno za pocetak". Hrvatska je nova (ranije "EU generalno").
+- potvrdjeno: biznis model je 5% od prodaje. Pcelar bira da li 5% ide na njegov teret ili se dodaje na njegovu cenu.
+- nije potvrdjeno: broj pcelara (regioni su cetiri, broj ljudi nije rekao), da li su svi izricito pristali, imena. Koliko pcelar dobija u rinfuzi naspram preko nas (jos nema brojke). Sta tacno trazimo na kraju pitcha (ask).
+- INTERNO: sve ovo je za deck, ne za X, dok Nemanja ne kaze da je ideja javna.
+- materijal: nema
+- status: u radu. Istrazivanje ide u content/colosseum/ (winners-full.md, competition.md, market.md, what-it-takes.md), pa deck v2.
+
+---
+
 ## 2026-09-24 · "Second update since the raise closed"
 - Nemanja: danas radimo drugi post u seriji "update since the raise closed" (prvi je bio 16.09, o putu u Bosnu).
 - nije potvrdjeno: sta ide u sadrzaj. Kandidati iz nedavnih dogadjaja: sastanak u Bosni (60% program, Milos/Boban), kolonije za zimu (22.09), priprema za Colosseum. Nemanja da kaze sta konkretno ide, i da li je nesto od toga vec "izvestaj o poznatom" (izbeci) ili ima nov, napredan deo.

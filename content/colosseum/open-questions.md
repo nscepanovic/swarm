@@ -5,16 +5,16 @@ stoji placeholder u uglastim zagradama.
 
 ## Najvaznije (bez ovoga deck ne stoji)
 
-1. Koliko pcelara je spremno da prodaje preko platforme, i da li su pristali ili ih samo poznajemo? (slajd 6: `[N beekeepers ready to sell]`)
+1. (delimicno reseno 24.09: regioni su Brazil, Teksas, Montreal, Hrvatska, "vise nego dovoljno za pocetak". Broj ljudi i izricit pristanak i dalje nisu receni; deck pise regione, ne broj.)
 2. (reseno 22.09: $200K+ je javno, post od 5.09, ide na slajd 6)
-3. Za bottom-up trziste: koje kupce ciljamo prvo (US, EU, oba), koliko prosecan kupac potrosi na med godisnje (ako imas podatak iz prodaje), i kolika je provizija? (slajd 7 i 9)
+3. Za bottom-up trziste: koje kupce ciljamo prvo (US, EU, oba) i koliko prosecan kupac potrosi na med godisnje (ako imas podatak iz prodaje)? (slajd 7). Provizija resena 24.09: 5% od prodaje, pcelar bira da li ide na njegov teret ili na cenu.
 
 ## Brojke
 
 4. Da li "4,000 people" iz prijava jos vazi i sta tacno broji? (trenutno izbaceno)
 5. (reseno 22.09: $140K, 27 sati, oversubscribed su javni, idu na naslovni i slajd 6)
 6. Imas li podatak koliki deo cene tegle dobija pcelar kad prodaje u rinfuzi? (slajd 3, F4; bez toga ostaje bez brojke)
-7. Hoces li da proizvodjaci placaju verifikaciju, ili samo provizija na prodaju? (slajd 9)
+7. (reseno 24.09: samo provizija, 5% od prodaje; pcelar bira ko je snosi. Verifikacija se ne naplacuje posebno, osim ako Nemanja ne kaze drugacije.)
 
 ## Proizvod i demo
 
@@ -32,7 +32,7 @@ stoji placeholder u uglastim zagradama.
 ## Hakaton
 
 15. Prijavljujemo se na jesenji Colosseum (Colosseum blog kaze 28.09-02.11.2026), i je li prijava vec poslata? (rok ne ide u deck dok ne potvrdis)
-16. Koji track biramo (RWA, Consumer, Stablecoins/Payments, nesto drugo)?
+16. Track (24.09): "mi jesmo RWA, ovog puta Consumer Apps mozda najblize, a svakako i DePIN". Konacan izbor jos nije pao; istrazivanje daje preporuku, Nemanja odlucuje.
 17. Da li radimo i Startit/Superteam Balkan side track?
 
 ## Formulacije
