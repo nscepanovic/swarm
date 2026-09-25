@@ -14,6 +14,14 @@ Drive linkove.
 
 ---
 
+## Drugi update, video (2026-09-25)
+
+`IMG_2360.MOV`, https://drive.google.com/file/d/1_J0hvZTZJFF1s8FXWkcGmikeOniQHrPc/view
+**Nije pregledano** (53MB, prevelik za download preko konektora). Namenjeno
+za "second update since the raise closed" post. Ceka Nemanjin opis sadrzaja.
+
+---
+
 ## Sinisa - Ocune (2026-09-22)
 
 Drive: https://drive.google.com/file/d/1Gi3sleE7rtIfRZAgKghN88GdjV7_caJv/view
