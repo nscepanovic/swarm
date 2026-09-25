@@ -141,7 +141,7 @@ ulazi u postove. Iskorisceno se obelezi u indeksu, fajl ostaje na Drive-u.
 
 ## Server i sinhronizacija
 
-Server `hb-01-nbg1` (`deploy@116.203.183.126`, repo u `~/swarm`) je uvek
+Server `hb-ch-01` (`swarm@188.244.117.234`, repo u `~/swarm`) je uvek
 upaljen i jedini pise podatke: `content/tracking.jsonl` i
 `content/profiles/*`. Laptop i cloud ih samo citaju.
 
@@ -150,9 +150,10 @@ Pravila da git ne pravi konflikte:
 - **Pull pre rada, push posle.** Svaka sesija, gde god da je.
 - Server salje podatke u git dva puta dnevno (`infra/server-sync.sh`).
 
-Na serveru rade produkcione aplikacije pod pm2 (hb-beekeeping-api, hb-tap-api,
-hivebits-fund-migration). **Ne diraj ih.** Sve nase je u `~/swarm` i u
-crontab-u korisnika `deploy`.
+Sve nase je u `~/swarm` i u crontab-u korisnika `swarm`. (Promenjeno 25.09.
+Stari server `hb-01-nbg1`, `116.203.183.126`, vise nije swarm server. Na njemu su
+produkcione aplikacije pod pm2: hb-beekeeping-api, hb-tap-api,
+hivebits-fund-migration. **Ne diraj ih.**)
 
 ## Telegram (@hb_swarm_bot)
 

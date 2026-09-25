@@ -17,7 +17,7 @@ Referentni fajl. Drzi ga na `~/hivebits/swarm/context/claude-setup.md`.
     ├── context/               <- tokenomics.md, roadmap.md, farm-status.md, ovaj fajl
     ├── dapp/                  <- git repo, ima svoj .claude/ i CLAUDE.md
     ├── firmware/              <- git repo, ima svoj .claude/ i CLAUDE.md
-    └── infra/                 <- skripte za hb-01-nbg1
+    └── infra/                 <- skripte za server hb-ch-01
 ```
 
 Plus `~/.claude/agents/` izvan svega, za agente koji nisu vezani za HiveBits.
@@ -86,7 +86,7 @@ pravilo resava sve sledece.
 
 - `/investor-update` - git log + server metrike + stanje kosnica -> update
 - `/x-post`, `/tg-announce` - tvoj glas, kroz postojeci TG approval flow
-- `/server-check` - SSH na hb-01-nbg1, memorija, procesi
+- `/server-check` - SSH na hb-ch-01, memorija, procesi
 - `/techdebt` - na kraju sesije
 
 ## Rutine
