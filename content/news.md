@@ -47,7 +47,28 @@ nisu izgovorena.
 - nije potvrdjeno: sta ide u sadrzaj. Kandidati iz nedavnih dogadjaja: sastanak u Bosni (60% program, Milos/Boban), kolonije za zimu (22.09), priprema za Colosseum. Nemanja da kaze sta konkretno ide, i da li je nesto od toga vec "izvestaj o poznatom" (izbeci) ili ima nov, napredan deo.
 - Nemanja je 25.09 poslao video (IMG_2360.MOV, 53MB) direktno na Telegram, bez opisa. Preveliki za bota (limit 20MB), nije preuzet, nisam ga video.
 - Video je 25.09 ubacen na Drive (IMG_2360.MOV, https://drive.google.com/file/d/1_J0hvZTZJFF1s8FXWkcGmikeOniQHrPc/view). I dalje ga nisam video (53MB, preveliko za download preko konektora).
-- status: novo, ceka opis sadrzaja od Nemanje.
+- Nemanja je poslao i transkript (auto-transkripcija, TurboScribe). Kaze da je ovo snimak sa "ecosystem call"-a (necije trece licna prica o HiveBits-u, ne Nemanjin snimak).
+- Transkript, doslovno (sa verovatnim gresama transkripcije u zagradi):
+  "A beekeeping company run by engineers asked the Savannah [Solana?] community
+  to fund a farm. The ask, also on MetaDAO's Futario [futarddotio?] launchpad,
+  was $140,000. It filled in one day and three hours and closed 173%
+  oversubscribed. The money builds 300 hives in Bosnia, each with sensors
+  under it streaming weight, temperature, and activity live so backers can
+  watch the colonies at work. Honey, pollen, populous [propolis?], wax, and
+  queens get sold. Net revenue flows to a DAO treasury governed by Futarki
+  [futarchy], the first harvest in summer 2027. Superteam Balkan cooked with
+  that one."
+- Provereno u nasim podacima: $140K, "1 day and 3 hours", "oversubscribed" i
+  "300 (revenue-generating) beehives" su vec javni (postovi @hivebits_io od
+  07.09 i 08.09). NOVO i NEPOTVRDJENO u ovom transkriptu: "173% oversubscribed"
+  (ta tacna brojka nije nadjena u nasim postovima) i "first harvest in summer
+  2027" (nov, konkretan datum, nigde ranije pomenut).
+- nije potvrdjeno: cija je ovo izjava/poziv i da li je javna (sme li da se
+  quote-uje/deli), da li su 173% i "summer 2027" tacni, da li Nemanja hoce da
+  ovo bude sadrzaj "drugog update-a" (napomena: velik deo transkripta je
+  recap poznatog rejza, sto playbook izbegava kao glavnu poruku; jedino zaista
+  novo bi bio datum berbe, ako je tacan).
+- status: novo, ceka odgovore od Nemanje.
 
 ---
 
