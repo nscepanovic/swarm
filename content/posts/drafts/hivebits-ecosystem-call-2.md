@@ -53,3 +53,17 @@ The farm is getting built, right now.
 Nemanja je predlozio da quote-uje originalni post umesto da otprema
 IMG_2360.MOV rucno. Bolje resenje, izvor je automatski vidljiv. Isti
 tekst radi kao caption. Ceka se link na originalni post.
+
+## Azurirano 25.09 (popodne): link nadjen
+
+Poslednjih 20 postova @EcosystemCall (RapidAPI, 25.09): nema zaseban klip
+o HiveBits-u. Segment je bio deo live poziva od 24.09:
+https://x.com/EcosystemCall/status/2103119503043469530
+("Solana Ecosystem Call Live - Solana High Forever!").
+Simon je @simonmolitor (retvitovan sa @EcosystemCall naloga), ime je tacno.
+
+Predlog teksta sa tagom:
+
+Thank you to @simonmolitor and the @EcosystemCall team for covering us again. 🐝
+
+The farm is getting built, right now.
