@@ -68,7 +68,8 @@ nisu izgovorena.
   ovo bude sadrzaj "drugog update-a" (napomena: velik deo transkripta je
   recap poznatog rejza, sto playbook izbegava kao glavnu poruku; jedino zaista
   novo bi bio datum berbe, ako je tacan).
-- status: novo, ceka odgovore od Nemanje.
+- Nemanja (25.09): "To je Simon ecosystem call, sme da se deli bez brige." Dao je i obrazac za post: https://x.com/hivebits_io/status/2092996129772179839 (prvi @EcosystemCall shoutout, 27.08: "Thank you to @EcosystemCall team for shouting us out" + forward recenica + video).
+- status: u draftu (content/posts/drafts/hivebits-ecosystem-call-2.md). 173% i "summer 2027" iz transkripta nisu potvrdjeni kao NASA tvrdnja i ne idu u tekst posta, samo u prilozeni video koji je Nemanja odobrio za deljenje.
 
 ---
 
