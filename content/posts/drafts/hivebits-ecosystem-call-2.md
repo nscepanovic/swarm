@@ -3,7 +3,7 @@ date: "2026-09-25"
 time: ""
 account: "hivebits_io"
 status: "draft"
-media: "IMG_2360.MOV (Drive: https://drive.google.com/file/d/1_J0hvZTZJFF1s8FXWkcGmikeOniQHrPc/view)"
+media: "quote-tweet originalnog @EcosystemCall posta (Nemanja bira ovo umesto upload-a fajla; ceka link)"
 tweet_id: ""
 title: "Ecosystem Call shoutout #2 (drugi update)"
 ---
@@ -46,3 +46,10 @@ The farm is getting built, right now.
 - Da li je "Simon" tacno ime domacina @EcosystemCall - Nemanja je rekao
   "Simon ecosystem call", pretpostavljam da je Simon ime, potvrditi pre
   objave ako fali.
+
+
+## Azurirano 25.09: quote umesto upload-a
+
+Nemanja je predlozio da quote-uje originalni post umesto da otprema
+IMG_2360.MOV rucno. Bolje resenje, izvor je automatski vidljiv. Isti
+tekst radi kao caption. Ceka se link na originalni post.

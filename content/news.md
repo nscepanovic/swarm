@@ -70,6 +70,7 @@ nisu izgovorena.
   novo bi bio datum berbe, ako je tacan).
 - Nemanja (25.09): "To je Simon ecosystem call, sme da se deli bez brige." Dao je i obrazac za post: https://x.com/hivebits_io/status/2092996129772179839 (prvi @EcosystemCall shoutout, 27.08: "Thank you to @EcosystemCall team for shouting us out" + forward recenica + video).
 - status: u draftu (content/posts/drafts/hivebits-ecosystem-call-2.md). 173% i "summer 2027" iz transkripta nisu potvrdjeni kao NASA tvrdnja i ne idu u tekst posta, samo u prilozeni video koji je Nemanja odobrio za deljenje.
+- Nemanja (25.09, kasnije): bolja ideja, quote-uje originalni @EcosystemCall post umesto da otprema fajl. Ceka se link na original.
 
 ---
 
