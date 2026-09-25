@@ -67,3 +67,9 @@ Predlog teksta sa tagom:
 Thank you to @simonmolitor and the @EcosystemCall team for covering us again. 🐝
 
 The farm is getting built, right now.
+
+## Konacno 25.09: bez Simona (Nemanja)
+
+Thank you to the @EcosystemCall team for covering us again. 🐝
+
+The farm is getting built, right now.
