@@ -1,4 +1,4 @@
-# Treba od Nemanje (v2, 2026-09-24)
+# Treba od Nemanje (v3, 2026-09-28)
 
 Svako pitanje ima odgovor u jednoj recenici. Dok nema odgovora, na slajdu
 stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
@@ -8,12 +8,11 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
 15. Da li je tim registrovan na colosseum.com za Crypto World's Fair
     (colosseum.com/arena/hackathon/register?entry=worldsfair), i ko je u
     timu?
-21. Sta od marketplace-a moze da radi do 12.10 za demo video: pcelar
-    dodaje seriju, zapis na Solani, kupac skenira i kupuje, isplata u
-    USDC? (demo-video.md, tabela "sta mora da postoji")
-8. Sta od toga vec postoji u kodu danas? (slajd 4, demo)
-22. Da li repo marketplace-a ide javno pre 12.10? Open-source je
-    kriterijum u pravilima; GitHub org hivebits danas ima 0 javnih repoa.
+8. Sta od toga radi danas: javna stranica kosnice sa zivim senzorom
+    (tezina, temperatura, vlaga), zapis kosnice na Solani, kupovina
+    kosnice? (slajd 4, demo-video.md)
+22. Da li repo ide javno pre 12.10? Open-source je kriterijum u pravilima;
+    GitHub org hivebits danas ima 0 javnih repoa.
 
 ## Brojke za slajdove
 
@@ -26,8 +25,6 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
 1. Koliko pcelara u Brazilu, Teksasu, Montrealu i Hrvatskoj je izricito
    reklo da? Jedna poruka ili snimak od svakog vredi vise od broja.
    (slajd 6)
-24. Da li do 12.10 moze da prodje prva stvarna prodaja kroz platformu,
-    bilo koja brojka? Zuri razlikuje "gradimo" od "prodali smo". (slajd 6)
 11. Da li postoji ijedan B2B kupac (prodavnica, uvoznik) sa kojim je bio
     razgovor, i sme li da se pomene? (slajd 7 i 12)
 4. Da li "4,000 people" iz starih prijava jos vazi i sta tacno broji?
@@ -39,21 +36,51 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
    kosnice? (slajd 5, A3; dok ne kazes, nigde ne pise "lab tested")
 25. Kako kupac placa u demo-u: novcanik (Phantom Connect), kartica, oba?
     (slajd 10, demo)
-26. Da li isplata pcelaru u USDC ide odmah pri kupovini ili posle isporuke
-    (escrow)? (slajd 4 i 10 kazu "the moment the jar sells"; ako je
-    escrow, menjamo)
-27. Koja serija se snima za demo: nasa farma, tvoj pcelinjak, ili pcelar
-    koji je pristao?
-28. Da li kupac dobija nesto osim tegle (npr. vezu sa $NECTAR, zakup
-    kosnice sa farme)? Pobednici u consumer kategoriji skoro svi imaju
-    mehaniku pored kupovine (winners-full.md). Ako ne, ne izmisljamo.
+26. Kad pcelar proda kosnicu na platformi, da li USDC dobija odmah ili
+    kroz escrow (npr. do predaje ili postavljanja kosnice)? (slajd 4, 10,
+    demo)
+27. Koja kosnica se snima za demo: sa nase farme, tvoj pcelinjak, ili
+    pcelar koji je pristao?
+
+## Novo u v3 (kosnica kao proizvod)
+
+31. Kad neko kupi kosnicu na platformi, sta dobija: med, prinos, ili bira?
+    (Za prvih 300 javni post kaze da prihod ide u trezor vlasnika tokena.)
+    (cover, slajd 4)
+32. Kako izgleda zapis kosnice na Solani: NFT po kosnici, program, hash
+    podataka sa senzora? (slajd 4, 10, demo)
+33. Da li 5% vazi i za prodaju kosnice na platformi, ili samo za med?
+    (slajd 5, 9)
+34. Da li je bar jedan pcelar iz mreze (Brazil, Teksas, Montreal,
+    Hrvatska) rekao da hoce da prodaje kosnice, ne samo med? (slajd 6)
+35. Koliko kosnica ide u jedan kontejnerski pcelinjak i da li sme na
+    slajd? Do tada pise samo "one container, one sale", bez broja. (slajd 7)
+36. Po kojoj ceni prodajemo kosnicu firmi (ili pojedincu na platformi)?
+    $140K / 300 = oko $467 je racun, ali pokriva i kontejnere i opremu,
+    pa to ne pisemo kao cenu. (slajd 9)
+37. Da li je neka firma ili Solana projekat vec pitao za kosnicu sa
+    svojim imenom, i sme li da se pomene? (slajd 6, 7)
+38. Ecosystem call je rekao "173% oversubscribed". Da li je to tacno i
+    sme li na slajd? Do tada pise samo "oversubscribed". (slajd 6)
+30b. Posto $140K sad predstavljamo kao prodaju 300 kosnica, a ne kao
+    kapital: da li i dalje hoces da pitamo hello@colosseum.com o "znacajnom
+    spoljnom kapitalu" (#30), ili je to reseno ovim?
+
+## Za researcher-a
+
+R1. Bottom-up za kosnice: broj pcelinjih kolonija (US, EU) i cena
+    usvajanja ili sponzorstva kosnice (pojedinac, firma), primarni izvori.
+    Bez toga slajd 7 ima TAM samo za med.
+R2. Da li 3Bee, Honeyverse ili iko drugi prodaje kosnice sa zapisom na
+    blockchainu, na bilo kom lancu (Colosseum Copilot je 28.09 nasao samo
+    nas)? Od toga zavisi da li slajd 8 sme da kaze "on any chain".
 
 ## Trziste i pravac
 
-10. Koji je drugi proizvod posle pcelinjih? Researcher predlaze maslinovo
+10. (Manje hitno od v3, nije vise na slajdu.) Koji je drugi proizvod posle pcelinjih? Researcher predlaze maslinovo
     ulje (vece trziste, dokumentovane prevare u EU, preklapanje sa
     Hrvatskom), rezerva javorov sirup za Montreal. (slajd 7)
-23. Koje kupce ciljamo prvo? Researcher predlaze US kupce i teksaske
+23. (Manje hitno od v3, nije vise na slajdu.) Koje kupce ciljamo prvo? Researcher predlaze US kupce i teksaske
     pcelare (jedino trziste sa kupcem i razmakom cene iz istog primarnog
     izvora; Brazil ka US nosi carinu 50%; Hrvatska ima drzavnu kapu cene
     u lancima). Ti biras. (slajd 7)
@@ -64,13 +91,11 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
 13. Da li je Eduardo pcelar u Brazilu, i koja mu je uloga sad? (slajd 11)
 14. Sta se radi sa $250K iz akceleratora, u jednoj recenici, bez rokova?
     (slajd 12)
-19. Da li je "Know what you eat." dobar slogan ili zelis svoj?
-29. Da li je recenica kategorije dobra: "HiveBits is the global farmers'
-    market for honey: you know the beekeeper behind every jar, and he gets
-    almost three times more for it."? (cover, prva recenica govora)
+19. Da li na kraju ide "Know what you eat." ili ponavljamo "We sell hives,
+    not honey."? (slajd 12; govor sad zavrsava sa drugim)
 18. Da li je ok da na slajdu 11 kazemo "third Colosseum entry, the first
-    two pitched the farm"?
-20. Smemo li da kazemo "raised on futard.io" ili samo "raised on MetaDAO"?
+    two pitched the farm. We sold it. This is the platform."?
+20. Smemo li da kazemo "sold on futard.io" ili samo "sold on MetaDAO"?
 30. FAQ kaze da je hakaton za startape "bez znacajnog spoljnog kapitala".
     $140K prijavljujemo otvoreno. Hoces li da pitamo hello@colosseum.com
     da li je to problem, ili idemo bez pitanja?
@@ -79,6 +104,17 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
 
 ## Reseno (trag)
 
+- 29 (28.09): recenica kategorije je Nemanjina, doslovno: "HiveBits: the
+  platform where beekeepers sell hives, not honey. We sold the first 300
+  in 27 hours." Na coveru i u prvoj recenici govora.
+- 21 (28.09): "sta radi do 12.10 / built during the hackathon" vise ne
+  vazi. Colosseum je startup takmicenje, zuri ocenjuje startap. Ostaje
+  samo #8 (sta radi danas, za demo).
+- 24 (28.09): prva prodaja se vec desila: 300 kosnica za 27 sati. Sledeca
+  brojka je prvi pcelar iz mreze ili prva firma (#34, #37).
+- 28 (28.09): kupac dobija kosnicu (senzor, identitet, zapis, med ili
+  prinos). Ostaje samo #31 (med ili prinos na platformi).
+- $140K (28.09): predstavlja se kao prodaja 300 kosnica, ne kao rejz.
 - 2 (22.09): $200K+ je javno, post od 5.09, na slajdu 6.
 - 5 (22.09): $140K, 27 sati, oversubscribed su javni, na naslovnom i slajdu 6.
 - 3 (24.09): bottom-up ide sa US brojkama iz NielsenIQ (46,2M x $18,15),

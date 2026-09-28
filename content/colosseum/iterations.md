@@ -79,3 +79,50 @@ za spajanje.
 - Najslabiji: i dalje slajd 6 (traction platforme je nula dok Nemanja ne
   da prvu brojku) i slajd 4 (zuri gleda rad tokom takmicenja, a demo jos
   ne postoji). Deck to kaze posteno umesto da sakriva.
+
+## v3 - 2026-09-28
+
+Fajl: `content/colosseum/Colosseum 2026 - v3 - 2026-09-28.pptx` (Nemanja
+prevlaci u decks folder). v1 i v2 nisu na Drive-u (pretraga decks foldera
+28.09), pa nema rucnih izmena za spajanje.
+
+Sve po Nemanjinim ispravkama od 2026-09-28 (what-it-takes.md, vrh).
+
+- Recenica kategorije je Nemanjina, doslovno: "HiveBits: the platform where
+  beekeepers sell hives, not honey. We sold the first 300 in 27 hours."
+  Cover i prva recenica govora. v2 "global farmers' market for honey"
+  izbacena.
+- Naslov price je prodaja, ne rejz: "300 hives sold in 27 hours", $140K na
+  MetaDAO, oversubscribed. "Pre-seed raised" nema nigde. Ostali dokazi
+  ($200K+, sell out) ostaju sa istim izvorima.
+- Proizvod je kosnica, ne tegla (slajd 4): senzor, identitet, zapis na
+  Solani, med ili prinos kupcu, novac pcelaru pre sezone.
+- Slajd 3: nova mana F3 "money comes last" (pcelar placa sezonu unapred,
+  naplacuje posle berbe); v2 F3 "proof is for experts" spojen u A1. Par
+  A3 "hive sold before the season" ima dokaz (300 za 27 sati).
+- Slajd 6: traction vise nije podeljen na firmu i platformu. Prodaja 300
+  kosnica JE prodaja proizvoda koji platforma prodaje. Izbaceno "built
+  during the hackathon" i "what works by 12.10" (startup takmicenje).
+- Slajd 7: skala je isti proizvod, tri kupca: sledeci kontejner (one
+  container, one sale), firme (3Bee: 500+ brendova, 10.000 pcelara, €5M
+  Series A), pcelari iz mreze; med ($839M US, 5% = $42M) kao proizvod
+  tih kosnica; AgriDex B2B kao horizont. Maslinovo ulje i EU uvoz skinuti
+  sa slajda, u rezervi.
+- Slajd 8: konkurencija su sad adopt-a-hive firme van lanca (3Bee,
+  Pollenity, Honeyverse $249) i nijedan drugi projekat na Colosseum-u koji
+  prodaje kosnice (Copilot 28.09, samo `hivebits`; najblizi `agrotoken`).
+  "On any chain" skinuto dok researcher ne proveri (R2).
+- Slajd 9: 5% na prodaju na platformi, nase kosnice (mi smo prodavac),
+  cena kosnice za firme kao placeholder.
+- Slajd 10: prvi argument je da je prodaja vec prosla na Solani.
+- Slajd 11-12: "sold", ne "raised"; ask trazi pcelare koji prodaju kosnice
+  i firme koje hoce kosnicu.
+- `demo-video.md` v2: kosnica uzivo i kupovina kosnice na lancu; tegla, QR
+  i serija izbaceni.
+- `pitch-video.md` v3: isti tok, bez "built during this hackathon".
+- `open-questions.md`: reseni #21, #24, #28, #29; novi #31-#38 i #30b;
+  pitanja za researcher-a R1 (bottom-up za kosnice) i R2 (kosnice na
+  drugim lancima).
+- Najslabiji: slajd 7. Skala kroz kosnice nema bottom-up brojku (fali broj
+  kolonija i cena kosnice), pa TAM stoji na medu, a kosnica je dokazana
+  samo jednom prodajom (nasom) plus 3Bee kao tudji dokaz modela.

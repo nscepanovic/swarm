@@ -1,128 +1,130 @@
-# Demo video - scenario v1 (2026-09-24)
+# Demo video - scenario v2 (2026-09-28)
 
 INTERNO. Colosseum trazi **demo video do 3 minuta** koji pokazuje
-proizvod (colosseum.com/hackathon, hackathon.md). Zuri ocenjuje
-Functionality (kriterijum (a) iz pravila: koliko dobro radi, kvalitet
-koda) i UX (kriterijum (d): kako blockchain pravi bolji UX). Od 23
-slicnih prijava na Colosseum-u nijedna nije dala link na radnu aplikaciju
-(competition.md); radna aplikacija sa linkom nas izdvaja.
+proizvod (colosseum.com/hackathon, hackathon.md). Zuri ocenjuje startap,
+ne kod napisan u roku (Nemanja, 2026-09-28): demo je dokaz da proizvod
+postoji, ne dokaz rada tokom takmicenja. Kriterijumi iz pravila koje demo
+pokriva: (a) Functionality i (d) UX (kako blockchain pravi bolji UX).
 
-**Pravilo za ovaj video: sve sto se vidi mora da radi.** Nema mockupa,
-nema Figme, nema "ovo ce raditi". Ako neki korak ne postoji do snimanja,
-taj korak se izbacuje iz videa, ne glumi se.
+**Proizvod u demo-u je kosnica, ne tegla** (v3). Demo pokazuje ono sto
+postoji: kosnice sa farme uzivo i tok kupovine kosnice na lancu.
+
+**Pravilo: sve sto se vidi mora da radi.** Nema mockupa, nema Figme, nema
+"ovo ce raditi". Ako neki korak ne postoji do snimanja, izbacuje se iz
+videa, ne glumi se.
 
 Ciljna duzina: 2:30. Bez muzike preko glasa. Ekran plus Nemanjin glas;
-Nemanja u kadru samo na pocetku i kraju.
+Nemanja u kadru samo na pocetku i kraju. Kadar sa farme (kosnice, senzor
+ispod kosnice) samo ako snimak postoji na Drive-u i zaveden je u
+`materials/index.md`.
 
 ---
 
 ## Sta video pokazuje, redom
 
-### 0:00-0:15 Uvod (Nemanja u kadru)
+### 0:00-0:15 Uvod (Nemanja u kadru, ako moze kod kosnica)
 
-"This is the HiveBits marketplace. I will show you the full loop: a
-beekeeper lists a batch, a buyer scans the jar and buys it, the beekeeper
-gets paid in USDC, and the record is on Solana. Everything you see here
-is running."
+"This is HiveBits. Beekeepers sell hives, not honey. I will show you a
+real hive, live, and how you buy one. Everything you see here is running."
 
-### 0:15-0:55 Pcelar dodaje seriju
+### 0:15-0:55 Kosnica uzivo
 
-Ekran: nalog pcelara (nas sopstveni, farma HiveBits, ili Nemanjin licni
-pcelinjak; ne tudji dok taj pcelar ne pristane).
+Ekran: stranica jedne kosnice sa nase farme, bez logovanja.
 
 Koraci koji se vide:
-1. Pcelar ulogovan, vidi svoj profil: ime, region, status "verified".
-2. "New batch": vrsta meda, kolicina, berba (mesec, godina), cena po tegli.
-3. Pcelar bira: 5% na njegov teret ili dodato na cenu. Ekran pokazuje
-   koliko dobija po tegli u oba slucaja.
-4. "Publish": zapis serije ide na Solanu. Prikazati potpis transakcije i
-   link na explorer.
-5. Aplikacija vraca QR kod za tu seriju (za nalepnicu na tegli).
+1. Kosnica ima identitet: ID, pcelinjak, pcelar, datum postavljanja.
+   `[lokacija se ne prikazuje dok Nemanja ne kaze]`
+2. Zivi podaci sa senzora: tezina, temperatura, vlaga, sa grafikom za
+   poslednje dane. Vreme poslednjeg ocitavanja se vidi.
+3. Link na zapis kosnice na Solani (explorer).
+4. Kratak rez: ista kosnica na terenu, senzor ispod nje (ako snimak
+   postoji).
 
-Glas: "The beekeeper adds a batch: what honey, how much, which harvest,
-his price. He chooses who pays the 5%. When he publishes, the batch record
-goes on Solana, here is the transaction. And he gets a QR code for the
-jar."
+Glas: "This is one hive from our farm. It has an ID, a beekeeper and a
+record on Solana. The sensor under it sends weight, temperature and
+humidity. You see the colony working, right now. No wallet needed to
+look."
 
-### 0:55-1:35 Kupac skenira i kupuje
+`[koje kosnice imaju ziv senzor danas, i gde je dashboard: Nemanja, #8]`
 
-Ekran: telefon (snimak ekrana telefona ili kamera preko ramena).
+### 0:55-1:45 Kupovina kosnice
 
-Koraci koji se vide:
-1. Kamera telefona skenira QR sa tegle (prava tegla, prava nalepnica).
-2. Otvara se stranica serije bez logovanja i bez novcanika: pcelar,
-   region, berba, vrsta meda, link na zapis na Solani. Za seriju sa nase
-   farme: i podaci iz kosnice (temperatura, vlaga, tezina), ako su vezani.
-3. "Buy": kolicina, adresa, placanje. `[Nemanja: kako kupac placa u
-   demo-u: novcanik (Phantom Connect), kartica, ili oba]`
-4. Potvrda kupovine.
-
-Glas: "The buyer scans the jar. No app to install, no wallet to look. He
-sees who made it, where, which harvest, and the record on Solana. On
-honey from our own farm he also sees the hive data. He buys."
-
-### 1:35-2:05 Isplata pcelaru u USDC
-
-Ekran: nazad na nalog pcelara, pa explorer.
+Ekran: telefon ili laptop.
 
 Koraci koji se vide:
-1. Nalog pcelara pokazuje prodaju i iznos u USDC (cena minus 5%, ili puna
-   cena ako je 5% dodato kupcu).
-2. Transakcija isplate na Solana exploreru: USDC stigao na adresu
-   pcelara. Vreme transakcije se vidi.
-3. Kratko: 5% HiveBits-a na posebnoj adresi, da se vidi da model radi.
+1. Lista kosnica na prodaju (nase, ili pcelar iz mreze koji je pristao).
+2. Kupac bira kosnicu: vidi cenu, sta dobija (med ili prinos), pcelara.
+3. Placanje. `[kako kupac placa: novcanik (Phantom Connect), kartica,
+   oba - #25]`
+4. Potvrda: kupljena kosnica se pojavljuje u nalogu kupca, sa istim ID-jem
+   i istim zivim podacima.
+5. Transakcija na Solana exploreru: vlasnistvo ili zapis kupovine na
+   lancu.
 
-Glas: "The moment the buyer pays, the beekeeper gets USDC. Here is the
-transaction. No bank in between. Here is our 5%."
+Glas: "Now you buy it. Pick a hive, see the price, the beekeeper and what
+you get. Pay. The hive is yours, same ID, same live data, and the
+purchase is on Solana. Here is the transaction."
 
-`[ako isplata ide sa zadrskom (escrow do isporuke), tako i reci; ne
-glumiti "instant" ako nije]`
+### 1:45-2:10 Novac pcelaru
 
-### 2:05-2:25 Zapis na Solani
-
-Ekran: explorer ili nas prikaz on-chain podataka.
+Ekran: nalog pcelara, pa explorer.
 
 Koraci koji se vide:
-1. Zapis serije: koja polja su na lancu (pcelar, region, berba, kolicina,
-   hash podataka), a koja van lanca (slike, opis).
-2. Ista serija, isti ID, na tegli, u aplikaciji i na exploreru.
+1. Nalog pcelara pokazuje prodatu kosnicu i iznos u USDC (cena minus 5%,
+   ili puna cena ako je 5% dodato kupcu).
+2. Transakcija isplate na exploreru.
+3. 5% HiveBits-a na posebnoj adresi.
 
-Glas: "This is the batch record on Solana. The same ID is on the jar, in
-the app and on chain. Anyone can check it, without us."
+Glas: "The beekeeper gets USDC for the hive, before the season. Here is
+the transaction. Here is our 5%."
+
+`[ako isplata ide kroz escrow, tako i reci; ne glumiti "instant" - #26]`
+`[ako 5% ne vazi za kosnice, izbaciti tacku 3 - #33]`
+
+### 2:10-2:25 Dokaz da je ovo vec prodato
+
+Ekran: javni post ili futard.io stranica prodaje 300 kosnica.
+
+Glas: "We did this first with our own 300 hives. Sold on MetaDAO in 27
+hours. Now it is a platform, for every beekeeper."
+
+Ovo nije demo koda, nego 10-15 sekundi dokaza. Ako zuri trazi demo
+proizvoda samo, ovaj deo se skracuje na jednu recenicu.
 
 ### 2:25-2:40 Zavrsetak (Nemanja u kadru)
 
-"That is the loop. Beekeeper, jar, buyer, USDC, Solana. Code is at
+"A real hive, live data, bought on Solana, beekeeper paid. Code is at
 [repo]. Thank you."
 
-`[repo javan ili ne: Nemanja odlucuje, open-questions #22]`
+`[repo javan ili ne: #22]`
 
 ---
 
-## Sta mora da postoji u kodu za ovaj video
+## Sta mora da postoji za ovaj video
 
-Minimum, bez koga se video ne snima u ovom obliku:
-
-| # | Funkcija | Kriterijum koji pokriva | Mora do 12.10? |
+| # | Funkcija | Kriterijum | Uslov za snimanje? |
 |---|---|---|---|
-| 1 | Nalog pcelara sa statusom "verified" (moze rucno postavljen) | (a) Functionality | da |
-| 2 | Kreiranje serije i zapis serije na Solanu (program ili makar memo/NFT sa hash-om podataka) | (a), (c) Novelty | da |
-| 3 | QR kod po seriji i javna stranica serije bez logovanja | (d) UX | da |
-| 4 | Kupovina sa placanjem (bilo koji nacin koji radi) | (a), (f) Business Plan | da |
-| 5 | Isplata pcelaru u USDC na Solani, transakcija vidljiva na exploreru | (d) UX, (b) Impact | da |
-| 6 | Podela 5% na nasu adresu | (f) | pozeljno |
-| 7 | Podaci iz kosnice vezani za seriju sa nase farme | dokaz (DePIN), ne uslov | pozeljno |
-| 8 | Phantom Connect za prijavu kupca | (e) kompozabilnost | pozeljno |
-| 9 | Javan repo | (e) Open-source | odluka Nemanje |
+| 1 | Javna stranica kosnice sa ID-jem i zivim podacima sa senzora (tezina, temperatura, vlaga) | (a), (d) | da |
+| 2 | Zapis kosnice na Solani (NFT, program ili hash podataka), link na explorer | (a), (c) | da |
+| 3 | Lista kosnica na prodaju i izbor jedne | (a) | da |
+| 4 | Placanje koje radi (bilo koji nacin) | (a), (f) | da |
+| 5 | Kupljena kosnica u nalogu kupca, zapis kupovine na lancu | (a), (d) | da |
+| 6 | Isplata pcelaru u USDC, vidljiva na exploreru | (d), (b) | pozeljno |
+| 7 | Podela 5% na nasu adresu | (f) | pozeljno, ako 5% vazi za kosnice |
+| 8 | Phantom Connect za prijavu kupca | (e) | pozeljno |
+| 9 | Javan repo | (e) | odluka Nemanje |
 
-Ako 2, 4 ili 5 ne rade do snimanja, video pokazuje ono sto radi i u
+Ako 1, 2 ili 4 ne rade do snimanja, video pokazuje ono sto radi i u
 prijavi se posteno pise sta je gotovo. Ne snima se korak koji ne postoji.
+
+Izbaceno iz v1 (2026-09-24): pcelar dodaje seriju meda, QR na tegli,
+kupac skenira teglu. Tegla dolazi posle kosnice (deck v3, slajd 7).
 
 ## Pitanja za Nemanju (i u open-questions.md)
 
-- Sta od tabele iznad vec postoji u kodu, danas? (#8)
-- Kako kupac placa u demo-u: novcanik, kartica, oba? (#25)
-- Da li isplata pcelaru ide odmah ili posle isporuke? (#26)
-- Koja serija se snima: nasa farma, tvoj pcelinjak, ili pcelar koji je
-  pristao? (#27)
-- Da li repo ide javno pre 12.10? (#22)
+- Sta od tabele vec radi danas: stranica kosnice sa zivim senzorom,
+  zapis na Solani, kupovina? (#8, #21)
+- Kako kupac placa? (#25)
+- Isplata pcelaru odmah ili escrow? (#26)
+- Oblik zapisa kosnice na lancu? (#32)
+- Repo javan? (#22)
