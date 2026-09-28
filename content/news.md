@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-09-28 · pcelinjak sa ogradom protiv medveda
+- Nemanja: za sutra video naseg pcelinjaka koji ima mrezu protiv medveda, uz salu "how you fight against bear (like bear market), we put electric fence".
+- potvrdjeno: elektricna ograda oko pcelinjaka. Medvedi su vec dolazili, zato i ima ograda.
+- nije potvrdjeno: gde je pcelinjak, kad i koliko puta su medvedi dolazili, da li je bilo stete.
+- materijal: video, jos nije na Drive-u
+- status: u draftu (content/posts/drafts/hivebits-medved-ograda.md)
+
+---
+
 ## 2026-09-24 · Colosseum: hakaton je Crypto World's Fair, rok 12.10.2026
 - Provereno na colosseum.com i u zvanicnim pravilima (PDF). Jesenji hakaton je "Crypto World's Fair", traje 14.09 do 12.10.2026 23:59 PT. Tvit @SuperteamBLKN sa 28.09 do 02.11 nije tacan za ovaj hakaton.
 - potvrdjeno (izvor u content/colosseum/hackathon.md): track-ovi su po ekosistemu, ne po nameni. Solana track: $100K na 10 proizvoda po $10K. Opsti fond: Grand Champion $30K, sledecih 20 po $15K. Akcelerator: $250K pre-seed, 12 nedelja SF, nije obavezan. Zuri gleda rad tokom takmicenja; raniji rad se prijavljuje. FAQ: "za nove startape koji nisu podigli znacajan spoljni kapital".
