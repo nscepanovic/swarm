@@ -109,7 +109,7 @@ Spec: 4.1 do 4.5, 4.8.
 
 Uradi:
 1. Pocetna: mapa sa tackama pcelinjaka (samo javne tacke), kartice
-   "Hives you can take now", "From the beekeepers", "How it works", traka
+   "Hives you can rent now", "From the beekeepers", "How it works", traka
    poverenja iz Content (admin), podnozje.
 2. Explore: mapa + lista, prekidac, filteri, sortiranje, URL cuva
    filtere.
@@ -128,7 +128,7 @@ mapa ne prikazuje nijednu tacnu lokaciju.
 Spec: 3, 5.2, 5.3, 5.4 (Orders, Addresses).
 
 Uradi:
-1. Tok "Take this hive" i "Buy": prijava ako treba, ekran pregleda,
+1. Tok "Rent this hive" i "Buy": prijava ako treba, ekran pregleda,
    ime na kosnici, adresa (obavezna za proizvod, opciona za kosnicu),
    provera regiona, rezervacija mesta na 15 minuta.
 2. Stripe: kartica, Apple Pay, Google Pay. Webhook potvrde. Racun (PDF).

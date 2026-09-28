@@ -65,7 +65,7 @@ naslova, 1 telo, 1 sitno. Ne vise.
 - **Opasno** (crveni okvir, crvena pozadina tek u dijalogu potvrde):
   "Refund", "Unpublish", "Delete".
 - Visina 48px na telefonu, 44px na desktopu. Tekst je glagol + objekat,
-  kratko: "Take this hive", ne "Proceed to hive acquisition".
+  kratko: "Rent this hive", ne "Proceed to hive acquisition".
 - Dugme koje ceka pokazuje spinner u sebi i ne moze dva puta da se
   klikne. Posle uspeha: promena teksta ili prelaz na sledeci ekran, ne
   oba.

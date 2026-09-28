@@ -19,6 +19,13 @@ bira kosnicu na mapi, gleda je uzivo, plati karticom ili na Solani, i
 dobija med sa te kosnice. Pcelar dobija skoro tri puta vise nego od otkupa.
 Mi uzimamo 5%.
 
+Pcelar na platformi radi dve stvari, i obe su ravnopravne (Nemanja,
+28.09):
+1. **daje kosnicu u zakup** (na godinu ili sezonu; to je ono sto pitch
+   zove "sell hives"), i
+2. **prodaje proizvode** (med, vosak, propolis, polen, matice, nukleuse).
+Moze jedno, drugo ili oba. Nijedno nije uslov za drugo.
+
 Prvi pcelar na platformi je nasa farma (300 kosnica, vec prodatih). Drugi
 su pcelari iz mreze (Brazil, Teksas, Montreal, Hrvatska). Firme kupuju istu
 kosnicu sa svojim imenom.
@@ -40,9 +47,9 @@ se dodaje na nalog, ne pravi se drugi nalog.
 
 Tri vrste stvari. Prve dve su u prvoj verziji, treca kao zahtev za ponudu.
 
-### 2.1 Kosnica (Hive)
+### 2.1 Kosnica u zakup (Hive)
 
-Ono sto je vec prodato 300 puta. Kupac "uzima" kosnicu na godinu dana
+Ono sto je vec prodato 300 puta. Kupac zakupi kosnicu na godinu dana
 (ili na sezonu, pcelar bira) i dobija:
 - stranicu svoje kosnice sa podacima uzivo ako kosnica ima senzor
   (tezina, temperatura, vlaga), fotografijama i porukama pcelara;
@@ -102,7 +109,7 @@ adminu. Bez cena na sajtu. Prodaja ide rucno.
 Prvo sto se vidi je **mapa sveta sa pcelinjacima**, ne tekst o nama.
 Iznad mape jedna recenica i jedno dugme:
 
-> **Buy the hive, not the jar.**
+> **Rent the hive, not the jar.**
 > Pick a hive, watch it live, get its honey.
 > [ Explore hives ]
 
@@ -111,7 +118,7 @@ dostupne i da li pcelinjak ima senzore (ikona "live"). Klik na tacku
 otvara karticu: ime pcelara, fotografija, region, "3 hives available,
 2 products", dugme "See apiary".
 
-Ispod mape, jedan red kartica: **"Hives you can take now"** (najvise 6),
+Ispod mape, jedan red kartica: **"Hives you can rent now"** (najvise 6),
 zatim red **"From the beekeepers"** (najnovije poruke sa kosnica, sa
 fotografijom), zatim **"How it works"** u tri koraka sa jednom recenicom
 svaki:
@@ -151,7 +158,7 @@ URL sa imenom pcelara. Sadrzaj, redom:
   pcelari, oznake: "Verified beekeeper" (admin odobrio), "Live data".
 - Prica pcelara u njegovim recima (do 600 znakova, on pise).
 - **Hives** (kartice): ime kosnice, fotografija, cena, "2 of 3 spots
-  left" ili "Sold out", "Live" ikona ako ima senzor, dugme "Take this hive".
+  left" ili "Sold out", "Live" ikona ako ima senzor, dugme "Rent this hive".
 - **Products** (kartice): naziv, fotografija, cena, "In stock" ili "Sold
   out", dugme "Buy".
 - **Updates**: poruke pcelara sa fotografijama, najnovija gore, javne su
@@ -170,7 +177,7 @@ Ovo je najvaznija strana. Redom:
 - **What you get**, kako je pcelar napisao, kao lista (npr. "3 kg of honey
   in two deliveries", "Your name on the hive", "Updates from the beekeeper").
 - **Price** i period ("$249 for one year", "Season 2027"), broj mesta.
-- **Dugme "Take this hive"** (jedina primarna akcija na strani). Ako je
+- **Dugme "Rent this hive"** (jedina primarna akcija na strani). Ako je
   sold out: "Sold out" i link "See other hives from this beekeeper".
 - Pcelar (mala kartica sa linkom na pcelinjak).
 - **On Solana**: link na zapis kosnice na lancu ("Hive record"), jedna
@@ -191,7 +198,7 @@ samo ako je fajl okacen.
 
 Svaka serija dobija javni link i QR kod koji pcelar stampa na etiketu.
 Skeniranje otvara stranu serije: koja kosnica, koji pcelar, kad je
-vrcano, zapis na lancu, dugme "Take this hive" ili "Buy more from this
+vrcano, zapis na lancu, dugme "Rent this hive" ili "Buy more from this
 beekeeper". Ovo je ulaz za kupca koji nas ne zna.
 
 ### 4.7 For beekeepers (javna strana)
@@ -222,7 +229,7 @@ poveze novcanik, i obrnuto (u Settings).
 
 ### 5.2 Kupovina kosnice (tok)
 
-1. Na strani kosnice klik "Take this hive".
+1. Na strani kosnice klik "Rent this hive".
 2. Ako nije prijavljen: ekran prijave (email ili wallet), pa nazad na tok.
 3. **Ekran "Your hive"**: pregled (kosnica, pcelar, sta dobija, period,
    cena, provizija ako je na kupcu, ukupno). Polje "Name on the hive"
@@ -374,7 +381,7 @@ za citanje, radi podrske).
 
 ### 8.3 Listings
 Sve kosnice i proizvodi, filter po statusu i pcelaru. Akcije: Unpublish
-(sa razlogom koji pcelar vidi), Feature (ide u "Hives you can take now"
+(sa razlogom koji pcelar vidi), Feature (ide u "Hives you can rent now"
 na pocetnoj), Edit (admin moze da ispravi tekst i cenu; trag ostaje).
 
 ### 8.4 Sensors
@@ -471,7 +478,7 @@ mora biti dokumentovan na jednoj strani da farma moze da ga poveze.
 Kupac: potvrda kupovine, racun, "Update from your beekeeper" (odmah ili
 dnevni zbir, kupac bira), "Honey shipped" sa pracenjem, podsetnik da doda
 adresu ako je nije dao pre berbe, istek perioda kosnice 30 dana pre sa
-"Take it again".
+"Rent it again".
 Pcelar: nova narudzbina, podsetnik za slanje (rok koji je sam napisao),
 podsetnik za update (14 dana tisine), isplata poslata, zahtev odobren ili
 odbijen.
@@ -513,7 +520,7 @@ Svi emailovi kratki, tekstualni, sa jednim dugmetom. Tekst u adminu (8.9).
 ## 14. Merenje uspeha
 
 Aplikacija belezi (bez trecih strana koje prate korisnika): posete strane
-kosnice, klik na "Take this hive", zapoceta placanja, uspesna placanja
+kosnice, klik na "Rent this hive", zapoceta placanja, uspesna placanja
 po nacinu, vreme od prijave pcelara do prve objavljene kosnice, broj
 update-a po pcelaru mesecno, koliko kupaca otvori svoju kosnicu u nedelji.
 Admin Overview ovo pokazuje kao brojeve.
