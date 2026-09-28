@@ -1,5 +1,29 @@
 # Sta nam treba da pobedimo (v2, 2026-09-24)
 
+## Ispravke od Nemanje (2026-09-28), vaze iznad svega dole
+
+1. **Colosseum je startup takmicenje, ne hakaton u smislu "kod za dve
+   nedelje".** Zuri ocenjuje startap: tim, trziste, proizvod, traction.
+   Ne graditi pitch ni plan oko "sta je uradjeno tokom takmicenja" i ne
+   pisati da "zuri trazi aplikaciju napravljenu za dve nedelje". Radna
+   aplikacija pomaze, ali ne kao dokaz rada u roku nego kao dokaz proizvoda.
+2. **$140K nije klasican rejz, to je prodaja 300 kosnica za 27 sati,
+   oversubscribed.** U decku i govoru se predstavlja kao prodaja i
+   traction ("we sold 300 hives in 27 hours"), ne kao "podigli smo
+   kapital". Prava prodaja se vec desila; ne trazimo je tek u hakatonu.
+3. **Model "prodaj kosnice, pa izgradi kontejner" je dokazan i on je
+   osnova pitcha.** Ne izbegavati kontejner po rejzu, korporativnu kosnicu
+   ni B2B kao "finansijski RWA" ili "spor ciklus". To je isti proizvod
+   (kosnica sa senzorom i medom) prodat razlicitim kupcima, i vec je
+   prodat jednom.
+
+Sta iz toga sledi za deck: naslov je prodaja (300 kosnica, 27 sati), proizvod
+je kosnica kao proizvod (senzor, zapis na lancu, med ili prinos kupcu),
+skala je: svaki sledeci kontejner se prodaje isto, firme kupuju istu
+kosnicu, pcelari iz mreze prodaju svoje kosnice kroz platformu, pa tegle.
+Stavke dole koje govore o "radu tokom hakatona" citati kroz ovu ispravku.
+
+
 Mapa kriterijuma zurija na nase stanje. Cinjenice o hakatonu su u
 `hackathon.md`, pobednici u `winners.md` i `winners-full.md`, propali u
 `competition.md`, trziste u `market.md`. Ovaj fajl ne ponavlja izvore, on
