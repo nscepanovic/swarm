@@ -542,3 +542,49 @@ nema standarda.
 - Velicina trzista biodiverzitetskih kredita (razlike medju agencijama).
 - Trziste oprasivanja u Evropi (nije istrazeno).
 - Da li je "Baci nesto lepo" ta inicijativa na koju Nemanja misli.
+
+---
+
+## 12. Brainstorm (2026-09-28): najbrzi put do zarade i veliki potezi
+
+Nemanja: "radimo brainstorming, ne skacemo odmah na sta imamo ili
+nemamo". Ovo je odgovor bez pitanja o stanju.
+
+**Najbrzi put: prodati sledecu sezonu sada.** Publika je vec platila
+unapred ($140K za 27 sati). Tri proizvoda, jedna stranica, jedan link:
+1. Kosnica za firmu (Solana projekti, DAO-i, firme iz raida): godisnji
+   paket, ime na kosnici, zivi podaci u njihovom Discord-u, med sa
+   njihovom etiketom, bilje u njihovo ime.
+2. Pretplata na kosnicu za pojedince (Honeyverse $249/god kao sidro), za
+   investitore iz rejza: "sad mozes i da jedes ono sto si finansirao".
+3. Poklon paket za kraj godine od meda koji vec postoji, sa QR kodom, za
+   kripto firme koje salju poklone u decembru.
+Naplata sada, isporuka kad stigne med, svaki korak je sadrzaj.
+
+**U sezoni:** matice i nukleusi (trziste rasprodato, nukleus sa istorijom
+senzora); vosak i propolis linija (svece, balzami, visoka marza, ne kvari
+se); HoReCa (restorani i hoteli sa poreklom na meniju).
+
+**Veliki potezi za VC:**
+- Jedan kontejner, jedan rejz: svaki novi kontejnerski pcelinjak je svoj
+  rejz na MetaDAO-u; HiveBits je operater i platforma, kapital dolazi po
+  jedinici. Ponovljivost je prica.
+- Kontejner kao proizvod: pcelar u mrezi ulaze u kontejner sa senzorima,
+  HiveBits uzima postavku, softver i procenat prodaje.
+- Verifikacija kao usluga: EU direktiva 2024/1438 (od 14.6.2026) trazi
+  zemlju porekla i procenat na tegli; punioci i brendovi kupuju sloj
+  dokaza kao API.
+- Med kao prinos: pretplata na kosnicu je obveznica sa kuponom u medu;
+  terminski ugovor na berbu, tokenizovan, RWA sa pravom robom.
+- Oprasivanje sa dokazom: ugovor po verifikovanoj snazi kosnice,
+  isplata u escrow-u (BeeHero na lancu).
+
+**Vidici:** apiturizam (Slovenija kao model: api-kuce, radionice, retreat
+na farmi za kripto zajednicu); igra kao skola (prodaje se skoli i
+roditelju, Prodigy model, ali sa pravim podacima sa farme); HiveBits Pass
+(jedna godisnja clanarina: med, predmeti u igri, popust, glas, sve vezano
+za $NECTAR).
+
+**Redosled:** sledecih nedelja predprodaja (tri proizvoda), u sezoni
+matice/vosak/HoReCa, za deck kontejner po rejzu, kontejner kao proizvod,
+verifikacija kao usluga.
