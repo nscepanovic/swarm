@@ -14,10 +14,10 @@ Pravila za agenta koji ovo izvrsava:
 - Tekstove sa ekrana uzimaj doslovno iz `spec.md`. Ne izmisljaj brojke
   na sajtu (broj pcelara, kupaca); traka poverenja koristi samo tekst
   koji Nemanja da.
-- Tehnologiju bira agent u koraku 1 i zapisuje u `progress.md` sa
-  razlogom u jednoj recenici po izboru. Uslovi: web, radi na telefonu,
-  moze da se hostuje na nasem serveru ili na uobicajenom hostingu, Stripe
-  i Solana biblioteke postoje za nju, ima gotov nacin za mapu.
+- Tehnologija je u `stack.md` (Go server, SvelteKit front, admin bez
+  npm-a). Agent je prati; odstupanje trazi razlog u `progress.md`.
+  Bezbednosna pravila iz `stack.md` vaze od koraka 1 (lockfile,
+  ignore-scripts, cooldown paketa, tajne samo u env, non-root Docker).
 - Svaki korak zavrsava sa: `npm run build` (ili ekvivalent) prolazi,
   osnovni testovi prolaze, screenshot glavnih ekrana u `screenshots/`.
 
@@ -47,7 +47,9 @@ telefonu i desktopu, i svaki element ima ime koje se posle koristi.
 Spec: sekcije 1, 5.1, 13.
 
 Uradi:
-1. Izbor tehnologije, zapisan u `progress.md`.
+1. Postavka po `stack.md`: Go servis, SvelteKit front, Postgres,
+   Docker; `.npmrc` sa `ignore-scripts=true`, Renovate sa cooldown-om,
+   CI sa govulncheck i npm audit. Zapisano u `progress.md`.
 2. Model podataka za sve iz speca (User, Role, Beekeeper, Apiary, Hive,
    HiveSpot, Product, Batch, Order, OrderItem, Delivery, Payment, Payout,
    Update, Sensor, Reading, OnChainRecord, BusinessRequest, Problem,
