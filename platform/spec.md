@@ -14,21 +14,23 @@ na strani kupca; novcanik je opcija, ne uslov.
 
 ## 0. Jedna recenica
 
-**HiveBits je platforma na kojoj pcelari prodaju kosnice, ne med.** Kupac
-bira kosnicu na mapi, gleda je uzivo, plati karticom ili na Solani, i
-dobija med sa te kosnice. Pcelar dobija skoro tri puta vise nego od otkupa.
-Mi uzimamo 5%.
+**HiveBits je platforma na kojoj pcelari daju kosnice u zakup i prodaju
+svoje proizvode, direktno kupcu.** Kupac bira na mapi: ili zakupi
+kosnicu, gleda je uzivo i dobija njen med, ili samo kupi 5 kila meda od
+pcelara kog vidi. Plati karticom ili na Solani. Pcelar dobija skoro tri
+puta vise nego od otkupa. Mi uzimamo 5%.
 
-Pcelar na platformi radi dve stvari, i obe su ravnopravne (Nemanja,
-28.09):
+Dva kupca, oba jednako vazna (Nemanja, 28.09): jedan hoce kosnicu,
+podatke i pricu; drugi ("moja baba") nece kosnicu, hoce 5 kila meda.
+Platforma mora da radi za oba bez da jedan smeta drugom. Pitch recenica
+"sell hives, not honey" je za zuri i investitore; u proizvodu se med
+prodaje ravnopravno.
+
+Pcelar na platformi radi dve stvari, i obe su ravnopravne:
 1. **daje kosnicu u zakup** (na godinu ili sezonu; to je ono sto pitch
    zove "sell hives"), i
 2. **prodaje proizvode** (med, vosak, propolis, polen, matice, nukleuse).
 Moze jedno, drugo ili oba. Nijedno nije uslov za drugo.
-
-Prvi pcelar na platformi je nasa farma (300 kosnica, vec prodatih). Drugi
-su pcelari iz mreze (Brazil, Teksas, Montreal, Hrvatska). Firme kupuju istu
-kosnicu sa svojim imenom.
 
 ## 1. Ko koristi aplikaciju
 
@@ -107,24 +109,29 @@ adminu. Bez cena na sajtu. Prodaja ide rucno.
 ### 4.1 Pocetna strana
 
 Prvo sto se vidi je **mapa sveta sa pcelinjacima**, ne tekst o nama.
-Iznad mape jedna recenica i jedno dugme:
+Iznad mape jedna recenica i dva dugmeta, jednako velika:
 
-> **Rent the hive, not the jar.**
-> Pick a hive, watch it live, get its honey.
-> [ Explore hives ]
+> **Honey from a beekeeper you can see.**
+> Rent a hive and watch it live, or just buy the honey.
+> [ Rent a hive ]  [ Buy honey ]
+
+"Rent a hive" vodi na Explore sa filterom Hives, "Buy honey" na Explore
+sa filterom Honey. Baba koja hoce 5 kila meda ne sme da prodje kroz
+kosnice da bi stigla do tegle.
 
 Na mapi: jedna tacka po pcelinjaku. Tacka pokazuje broj kosnica koje su
 dostupne i da li pcelinjak ima senzore (ikona "live"). Klik na tacku
 otvara karticu: ime pcelara, fotografija, region, "3 hives available,
 2 products", dugme "See apiary".
 
-Ispod mape, jedan red kartica: **"Hives you can rent now"** (najvise 6),
+Ispod mape, jedan red kartica **"Hives you can rent now"** (najvise 6),
+odmah zatim red **"Honey and more"** (proizvodi na stanju, najvise 6),
 zatim red **"From the beekeepers"** (najnovije poruke sa kosnica, sa
 fotografijom), zatim **"How it works"** u tri koraka sa jednom recenicom
 svaki:
-1. Pick a hive on the map.
-2. Pay with card or USDC.
-3. Watch it live and get its honey.
+1. Pick a beekeeper on the map.
+2. Rent a hive or buy honey. Pay with card or USDC.
+3. The beekeeper ships it to you.
 
 Zatim traka poverenja sa javnim cinjenicama (samo one koje su javne i sa
 izvorom; tekst daje Nemanja): "300 hives sold in 27 hours", "Beekeepers
