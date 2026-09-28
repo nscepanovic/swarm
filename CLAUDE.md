@@ -40,6 +40,11 @@ posebnu kratku liniju za efekat. Primer koji je odbio (22.09): "This is just
 one of our apiaries. We have more." Dobro: "Sinisa is checking the colonies
 at one of our apiaries."
 
+Kad Nemanja da tekst posta, to JE post. Ispravi samo gramatiku, ne dodaj
+recenice, objasnjenja ni poentu. Sala radi zato sto je kratka. (Pogresio sam
+28.09: "how you fight bear. we put electric fence" pretvorio sam u cetiri
+recenice sa objasnjenjem vica.)
+
 **Jezik: engleski.** Publika su investitori i medjunarodni Solana/RWA svet.
 
 **Dva naloga, dve uloge:**

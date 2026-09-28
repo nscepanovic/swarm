@@ -13,9 +13,9 @@ title: "Ograda protiv medveda (bear market)"
 Ideja je Nemanjina (28.09): video pcelinjaka sa elektricnom ogradom +
 kalambur "how you fight against bear (like bear market)".
 
-## POST (predlog, 169 znakova)
+## POST (Nemanjin tekst, 50 znakova)
 
-Bears already came to this apiary. That is why we put an electric fence around it. Bears love honey, but they don't like this fence. Bear market is harder to stop.
+How do you fight a bear? We put an electric fence.
 
 ## Potvrdjeno
 
