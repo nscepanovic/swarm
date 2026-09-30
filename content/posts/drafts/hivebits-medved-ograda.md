@@ -2,7 +2,7 @@
 date: "2026-09-29"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "published"
 media: "video pcelinjaka sa elektricnom ogradom (Nemanja, jos nije na Drive-u)"
 tweet_id: ""
 title: "Ograda protiv medveda (bear market)"

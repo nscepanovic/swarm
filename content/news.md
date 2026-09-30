@@ -26,7 +26,7 @@ nisu izgovorena.
 - potvrdjeno: elektricna ograda oko pcelinjaka. Medvedi su vec dolazili, zato i ima ograda.
 - nije potvrdjeno: gde je pcelinjak, kad i koliko puta su medvedi dolazili, da li je bilo stete.
 - materijal: video, jos nije na Drive-u
-- status: u draftu (content/posts/drafts/hivebits-medved-ograda.md)
+- status: objavljeno 29.09 (tweet_id nije zaveden)
 
 ---
 
