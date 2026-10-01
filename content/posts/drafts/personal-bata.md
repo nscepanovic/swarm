@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2026-10-01"
 time: ""
 account: "0xbeesmart"
 status: "draft"
@@ -17,7 +17,7 @@ Format: pocetak threada + video
 Mr Bata came to our center with hip inflammation. Bee venom on two points,
 six stings, twenty seconds each.
 
-He called us last week. The fluid in his hip is gone, his doctors are
+He called us later. The fluid in his hip is gone, his doctors are
 surprised, and the surgery is off.
 
 This is what I do when I am not building HiveBits. 🐝
@@ -77,3 +77,17 @@ ovog pacijenta, a ne uopstavanje.
   drugacijeg registra.
 - **Bez em dasha, bez izmisljenih brojki.** Svaka brojka (dva mesta, sest
   uboda, dvadeset sekundi) je iz transkripta.
+
+---
+
+## Azurirano 01.10: ide danas, hb quote-uje
+
+"last week" je pisano 18.09, sad nije tacno. Zamenjeno sa "later".
+
+@hivebits_io quote-uje Nemanjin post, saljivo (Nemanjina ideja):
+
+1. You think it is easy to be a HiveBits founder? Look what skills you need. 🐝  (preporuka, Nemanjine reci)
+2. You think it is easy to be a HiveBits founder? First you need to learn how to sting people. 🐝
+
+Quote ide sat-dva posle licnog posta. Sala ne sme da se cita kao da se
+smejemo lecenju; zato je o "vestinama" foundera, ne o pacijentu.
