@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-02 · treci update: cetiri kompanije na terenu, dve ponude
+- Nemanja: danas snima treci update. Ukupno smo cetiri kompanije izveli na teren, dve ponude su na stolu, cekamo jos dve koje ce stici iduce nedelje. U video ubacuje 10 sekundi "novog lika u kontejneru" i 10 sekundi kako on radi sa pcelama, ostalo je on u kadru.
+- potvrdjeno: cetiri kompanije su bile na terenu. Dve ponude su stigle. Cekaju se jos dve.
+- nije potvrdjeno: sta te kompanije rade (pretpostavka iz klipa 10: vendori za kontejnere, nije receno), imena kompanija, ko je covek u kontejneru i da li je ok da mu se vidi lice, iznosi ponuda. "Iduce nedelje" je rok koji zavisi od drugih, ne ide u post ni u govor bez izricite potvrde.
+- materijal: jos nije snimljeno, nije na Drive-u
+- status: u draftu (content/posts/drafts/hivebits-update-3.md)
+
+---
+
 ## 2026-09-28 · pcelinjak sa ogradom protiv medveda
 - Nemanja: za sutra video naseg pcelinjaka koji ima mrezu protiv medveda, uz salu "how you fight against bear (like bear market), we put electric fence".
 - potvrdjeno: elektricna ograda oko pcelinjaka. Medvedi su vec dolazili, zato i ima ograda.
