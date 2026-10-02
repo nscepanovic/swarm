@@ -12,7 +12,7 @@ title: "Treci update: cetiri kompanije na terenu, dve ponude"
 
 Format: samostalan post + video. Bez nastavka u threadu.
 
-## POST (159 znakova)
+## POST (138 znakova)
 
 Third update since the raise closed.
 
