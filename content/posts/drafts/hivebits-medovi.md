@@ -3,7 +3,7 @@ date: "2026-10-05"
 time: ""
 account: "hivebits_io"
 status: "draft"
-media: "nije receno"
+media: "predlog: fotka tegli sa tim medovima jedna pored druge (ceka Nemanju)"
 tweet_id: ""
 title: "Koje medove cemo proizvoditi"
 ---
@@ -21,6 +21,6 @@ First acacia and false indigo. Then chestnut and linden. And at the end, meadow 
 
 ## Napomena
 
-- "kesren" procitano kao kesten (chestnut), ceka potvrdu.
+- Kesten potvrdjen (Nemanja, 05.10).
 - Bagremac = Amorpha fruticosa, engleski "false indigo".
 - Bez meseci, kolicina i mesta. Nije receno.
