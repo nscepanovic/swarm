@@ -2,7 +2,7 @@
 date: "2026-09-30"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "published"
 media: "Nemanja Clip #5 (livestream, 1m15s) - content/materials/inbox/HiveBits Superteam Livestream/Clips/Nemanja Clip #5.mp4"
 tweet_id: ""
 title: "DAO je bio plan od pocetka"

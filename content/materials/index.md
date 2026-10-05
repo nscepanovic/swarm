@@ -119,7 +119,7 @@ temperatura, tezina), demo u Beogradu. I podatak: **30% manje pcela nego pre
 → Najduzi klip, verovatno ga treba seci. Podatak o 30% je samostalna
   jedinica sadrzaja.
 
-**Klip 5 — kako je doslo do MetaDAO/futarchy (1m15s)** [u draftu: 2026-09-30 posts/drafts/hivebits-dao-put.md]
+**Klip 5 — kako je doslo do MetaDAO/futarchy (1m15s)** [iskorisceno: prosle nedelje (Nemanja 05.10, tacan dan i link nisu zavedeni), posts/drafts/hivebits-dao-put.md]
 Jurassic Finance (Sora i Vukan) je pokazao put; DAO je bio plan od pocetka
 ali namerno nije guran rano; MetaDAO daje investitorima sigurnost od rug-a.
 → Pomen @JurassicFi, @MetaDAOProject i @futarddotio u jednom klipu.
