@@ -2,7 +2,7 @@
 date: "2026-10-05"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "published"
 media: "predlog: fotka tegli sa tim medovima jedna pored druge (ceka Nemanju)"
 tweet_id: ""
 title: "Koje medove cemo proizvoditi"
