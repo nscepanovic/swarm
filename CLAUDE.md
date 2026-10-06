@@ -45,6 +45,13 @@ recenice, objasnjenja ni poentu. Sala radi zato sto je kratka. (Pogresio sam
 28.09: "how you fight bear. we put electric fence" pretvorio sam u cetiri
 recenice sa objasnjenjem vica.)
 
+**Klip se ne cepka van konteksta.** Klip ide ceo i tekst posta prati ono o
+cemu klip stvarno govori. Ne izvlaci se jedna recenica iz klipa da bi se od
+nje napravila druga tema, i ne predlaze se secenje na komad koji bez ostatka
+nema smisla. (Pogresio sam 06.10 dva puta: iz klipa 7, koji je o tome zasto
+smo rejzovali, izvukao sam "vazduh iz kosnice", pa iz klipa 2 samo kraj sa
+"30% manje pcela".)
+
 **Jezik: engleski.** Publika su investitori i medjunarodni Solana/RWA svet.
 
 **Dva naloga, dve uloge:**
