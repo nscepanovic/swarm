@@ -16,15 +16,18 @@ i mislimo da je idealan momentum da ga testiramo (nadji bolju rec)".
 
 Ovim marketplace prestaje da bude interan (odluka Nemanje, 06.10).
 
-## POST (~170 znakova)
+## POST (~225 znakova)
 
 We are entering the @colosseum arena with our marketplace.
 
-It is a natural step for HiveBits, and we think this is the right moment to try it. 🐝
+It is a natural step for HiveBits, and we think this is the right moment to try it. This way we can bring more value to our investors. 🐝
 
 https://marketplace.hivebits.io/
 
 ## Napomena
+
+- Recenica o investitorima je Nemanjin dodatak (06.10): "na ovaj nacin mozemo
+  nasim investitorima da donesemo vecu vrednost". Bez brojki i bez obecanja zarade.
 
 - "testiramo" -> "try it". Druga opcija: "show it".
 - Sajt je "Coming Soon". Nista sa sajta (zemlje, pcelari) nije preneto u tekst.
