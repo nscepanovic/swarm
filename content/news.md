@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-07 · Lumia pravi verziju igre za pcelarstvo
+- Nemanja: founder Lumie (@lumiagame, lumia.game, Mighty Study, Beograd) je njegov prijatelj i napravice izdvojenu verziju aplikacije za beekeeping. Ideja: da se zajednica zabavi, nauci o pcelama i pcelarenju, i da sirimo svest o znacaju pcele. Founder danas objavljuje post, mi ga quote-ujemo.
+- potvrdjeno: samo gore navedeno. Founder je verovatno @art_lumia (iz nasih odgovora), nije receno izricito.
+- nije potvrdjeno: kad izlazi, platforma, da li je besplatno, za koji uzrast, da li je ovo igra iz game/design.md, da li se pominje $NECTAR ili HiveBits kao partner.
+- materijal: njihov post (jos nije objavljen)
+- status: u draftu (content/posts/drafts/hivebits-lumia-quote.md)
+
+---
+
 ## 2026-10-02 · treci update: cetiri kompanije na terenu, dve ponude
 - Nemanja: danas snima treci update. Ukupno smo cetiri kompanije izveli na teren, dve ponude su na stolu, cekamo jos dve koje ce stici iduce nedelje. U video ubacuje 10 sekundi "novog lika u kontejneru" i 10 sekundi kako on radi sa pcelama, ostalo je on u kadru.
 - potvrdjeno: cetiri kompanije su bile na terenu. Dve ponude su stigle. Cekaju se jos dve.
