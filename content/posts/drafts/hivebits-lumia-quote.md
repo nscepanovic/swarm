@@ -12,13 +12,13 @@ title: "Lumia: igra o pcelarstvu (quote)"
 
 ## POST (~170 znakova)
 
-We are making a beekeeping game together with our friends from @lumiagame. 🐝
+We are partnering with our friends from @lumiagame on a beekeeping game. 🐝
 
 The idea is that people have fun and learn about bees, beekeeping, and why bees are so important.
 
 ## Napomena
 
-- Igra se radi u saradnji sa nama, ne odvojeno (Nemanja, 07.10). Cilj: promovisemo njih i dajemo vise vrednosti nasoj zajednici.
+- Igra se radi u saradnji sa nama: Lumia kodira, mi smo logistika i marketing (Nemanja, 07.10). Zato "partnering", ne "making". Cilj: promovisemo njih i dajemo vise vrednosti nasoj zajednici.
 
 - Bez datuma izlaska, platforme, cene i uzrasta. Nije receno.
 - Tekst moze da se prilagodi kad vidimo njihov post, da ne ponavlja isto.
