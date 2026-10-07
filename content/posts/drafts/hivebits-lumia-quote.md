@@ -12,7 +12,7 @@ title: "Lumia: igra o pcelarstvu (quote)"
 
 ## POST (~170 znakova)
 
-We are partnering with our friends from @lumiagame on a beekeeping game. 🐝
+We are partnering with our friends from @lumiagame. They will make a special beekeeping version of their game. 🐝
 
 The idea is that people have fun and learn about bees, beekeeping, and why bees are so important.
 
