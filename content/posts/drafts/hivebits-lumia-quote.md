@@ -16,6 +16,8 @@ We are partnering with our friends from @lumiagame. They will make a special bee
 
 The idea is that people have fun and learn about bees, beekeeping, and why bees are so important.
 
+Stay tuned for more.
+
 ## Napomena
 
 - Igra se radi u saradnji sa nama: Lumia kodira, mi smo logistika i marketing (Nemanja, 07.10). Zato "partnering", ne "making". Cilj: promovisemo njih i dajemo vise vrednosti nasoj zajednici.
