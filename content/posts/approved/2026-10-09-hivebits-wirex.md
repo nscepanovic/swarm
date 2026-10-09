@@ -12,7 +12,7 @@ title: "Razgovor sa Wirex-om"
 
 ## POST A (bez reci marketplace)
 
-We are ending this week with a talk with Georgy, co-founder of @wirexapp. We talked about how farmers can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝
+We are ending this week with a talk with Georgy, co-founder of @wirexapp. We talked about how the farmers we will onboard on our marketplace can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝
 
 ## POST B (ako je marketplace sad javan)
 

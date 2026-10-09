@@ -24,9 +24,9 @@ nisu izgovorena.
 ## 2026-10-09 · razgovor sa Georgy-jem, co-founderom Wirex-a
 - Nemanja: pricao sa co-founderom Wirex-a, Georgy-jem, o resenjima za nas marketplace, kako farmeri mogu da koriste sredstva. Ideja je partnerstvo sa njihovim karticama. Ima fotku sa njim, hoce post danas.
 - potvrdjeno: razgovor se desio, tema farmeri i sredstva, ideja o partnerstvu sa Wirex karticama.
-- nije potvrdjeno: da je partnerstvo dogovoreno (ideja, ne ugovor), prezime i tacna uloga Georgy-ja, X handle Wirex-a, pristanak za ime i fotku. Marketplace je od 22.09 oznacen kao INTERNO dok Nemanja ne kaze da je javan (pitano 09.10).
+- nije potvrdjeno: da je partnerstvo dogovoreno (ideja, ne ugovor), prezime i tacna uloga Georgy-ja, X handle Wirex-a, pristanak za ime i fotku. Marketplace je od 22.09 oznacen kao INTERNO dok Nemanja ne kaze da je javan (pitano 09.10). Nemanja 09.10: marketplace ide u Wirex post, sme javno.
 - materijal: fotka kod Nemanje (jos nije poslata)
-- status: zakazano 09.10 18:00 CEST, @hivebits_io, post A bez marketplace-a (content/posts/approved/2026-10-09-hivebits-wirex.md)
+- status: zakazano 09.10 18:00 CEST, @hivebits_io, sa marketplace-om (content/posts/approved/2026-10-09-hivebits-wirex.md)
 
 ---
 
