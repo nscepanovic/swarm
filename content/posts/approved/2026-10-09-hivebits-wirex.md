@@ -10,15 +10,16 @@ title: "Razgovor sa Wirex-om"
 
 # @hivebits_io, petak 09.10
 
-## POST A (bez reci marketplace)
+## POST
 
-We are ending this week with a talk with Georgy, co-founder of @wirexapp. We talked about how the farmers we will onboard on our marketplace can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝
-
-## POST B (ako je marketplace sad javan)
-
-We are ending this week with a talk with Georgy, co-founder of @wirexapp. We talked about our marketplace and how farmers can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝
+Nemanja met Georgy, co-founder of @wirexapp. We are building a marketplace for bee products, and farmers who sell there get paid on-chain. The question is how they spend that money in real life. One idea is Wirex cards. 🐝
 
 ## Pre objave
 
 - Partnerstvo je ideja, ne dogovor. Tekst kaze "one idea is", ne "we are partnering".
 - Proveriti handle @wirexapp i da je Georgy ok sa imenom i fotkom.
+- "farmers", ne "beekeepers": marketplace kasnije onborduje i druge proizvodjace (npr. mlekare). Nemanja, 09.10.
+
+## Prethodna verzija (zamenjena 09.10)
+
+We are ending this week with a talk with Georgy, co-founder of @wirexapp. We talked about our marketplace and how farmers can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝

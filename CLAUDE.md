@@ -54,6 +54,10 @@ smo rejzovali, izvukao sam "vazduh iz kosnice", pa iz klipa 2 samo kraj sa
 
 **Jezik: engleski.** Publika su investitori i medjunarodni Solana/RWA svet.
 
+**Prodavci na marketplace-u su "farmers", ne "beekeepers".** Marketplace pocinje
+sa pcelinjim proizvodima, ali ce kasnije onbordovati i druge proizvodjace (npr.
+mlekare). Rec "beekeepers" bi to javno suzila. (Nemanja, 09.10.)
+
 **Dva naloga, dve uloge:**
 - `@hivebits_io` — proizvod, milestones, brojke, $NECTAR.
 - `@0xbeesmart` — licni nalog osnivaca. Nemanja **mora** da objavljuje;
