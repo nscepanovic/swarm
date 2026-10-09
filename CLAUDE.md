@@ -54,12 +54,12 @@ smo rejzovali, izvukao sam "vazduh iz kosnice", pa iz klipa 2 samo kraj sa
 
 **Jezik: engleski.** Publika su investitori i medjunarodni Solana/RWA svet.
 
-**Prodavci na marketplace-u su uvek "farmers", ne "beekeepers".** Interno:
-marketplace ce kasnije onbordovati i druge proizvodjace (npr. mlekare), pa
-"beekeepers" ne sme da se zapise. Ali to sirenje je INTERNO: javno je
-marketplace samo za pcelinje proizvode i ne sme se ni nagovestiti da ce biti
-nesto drugo osim meda. Samo rec "farmers", bez objasnjenja zasto. (Nemanja,
-09.10.)
+**Marketplace se javno opisuje samo kroz "farmers you can trust".** Ne
+pominju se proizvodi: ni "bee products", ni "honey", ni bilo koji drugi.
+Ni "beekeepers". Interno: marketplace ce onbordovati i druge proizvodjace
+(npr. mlekare), ali to se javno ne nagovestava, a ni pcelinji proizvodi se
+ne forsiraju kao jedini. Neutralno: farmeri kojima moze da se veruje.
+(Nemanja, 09.10.)
 
 **Dva naloga, dve uloge:**
 - `@hivebits_io` — proizvod, milestones, brojke, $NECTAR.

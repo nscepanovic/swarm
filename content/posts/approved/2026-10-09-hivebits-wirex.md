@@ -12,7 +12,7 @@ title: "Razgovor sa Wirex-om"
 
 ## POST
 
-Nemanja met Georgy, co-founder of @wirexapp. We are building a marketplace for bee products, and farmers who sell there get paid on-chain. The question is how they spend that money in real life. One idea is Wirex cards. 🐝
+Nemanja met Georgy, co-founder of @wirexapp. We are building a marketplace where you buy from farmers you can trust. They get paid on-chain. The question is how they spend that money in real life. One idea is Wirex cards. 🐝
 
 ## Pre objave
 
