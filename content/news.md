@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-09 · panel na Startitu sa Vukanom iz Jurassic-a
+- Nemanja je 08.10 bio na panelu na Startitu u Beogradu sa Vukanom (@vukan0x) iz @JurassicFi. Pricali su kako su rejzovali od zajednice preko MetaDAO i odgovarali na pitanja publike.
+- potvrdjeno: panel se desio, i HiveBits i Jurassic su rejzovali preko MetaDAO, Superteam Balkan je pomogao obojici.
+- nije potvrdjeno: u cemu je tacno Superteam Balkan pomogao, sta je publika pitala, da li postoji snimak ili fotke.
+- materijal: nema na Drive-u
+- status: objavljeno na @0xbeesmart 09.10, tweet_id nije upisan (content/posts/published/2026-10-09-personal-startit-panel.md)
+
+---
+
 ## 2026-10-09 · razgovor sa Georgy-jem, co-founderom Wirex-a
 - Nemanja: pricao sa co-founderom Wirex-a, Georgy-jem, o resenjima za nas marketplace, kako farmeri mogu da koriste sredstva. Ideja je partnerstvo sa njihovim karticama. Ima fotku sa njim, hoce post danas.
 - potvrdjeno: razgovor se desio, tema farmeri i sredstva, ideja o partnerstvu sa Wirex karticama.
