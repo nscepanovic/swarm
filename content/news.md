@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-09 · razgovor sa Georgy-jem, co-founderom Wirex-a
+- Nemanja: pricao sa co-founderom Wirex-a, Georgy-jem, o resenjima za nas marketplace, kako farmeri mogu da koriste sredstva. Ideja je partnerstvo sa njihovim karticama. Ima fotku sa njim, hoce post danas.
+- potvrdjeno: razgovor se desio, tema farmeri i sredstva, ideja o partnerstvu sa Wirex karticama.
+- nije potvrdjeno: da je partnerstvo dogovoreno (ideja, ne ugovor), prezime i tacna uloga Georgy-ja, X handle Wirex-a, pristanak za ime i fotku. Marketplace je od 22.09 oznacen kao INTERNO dok Nemanja ne kaze da je javan (pitano 09.10).
+- materijal: fotka kod Nemanje (jos nije poslata)
+- status: u draftu (content/posts/drafts/hivebits-wirex.md)
+
+---
+
 ## 2026-10-07 · Lumia pravi verziju igre za pcelarstvo
 - Nemanja: founder Lumie (@lumiagame, lumia.game, Mighty Study, Beograd) je njegov prijatelj i napravice izdvojenu verziju aplikacije za beekeeping. Ideja: da se zajednica zabavi, nauci o pcelama i pcelarenju, i da sirimo svest o znacaju pcele. Founder danas objavljuje post, mi ga quote-ujemo.
 - Nemanja ispravio: igra se radi u saradnji sa nama, ne odvojeno. Ideja je da ih tako promovisemo i da damo vise vrednosti nasoj zajednici.
