@@ -10,9 +10,15 @@ title: "Razgovor sa Wirex-om"
 
 # @hivebits_io, petak 09.10
 
-## POST
+## POST (zakazano u X-u, quote posta @hivebits_io od 06.10)
 
-Nemanja met Georgy, co-founder of @wirexapp. We are building a marketplace where you buy from farmers you can trust. They get paid on-chain. The question is how they spend that money in real life. One idea is Wirex cards. 🐝
+.@0xBeeSmart met Georgy, co-founder of @wirexapp.
+
+We are building a marketplace where you buy from farmers you can trust.
+
+The question is how farmers spend their earnings in real life.
+
+One idea is Wirex cards. 🐝
 
 ## Pre objave
 
