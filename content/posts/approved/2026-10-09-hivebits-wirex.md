@@ -1,9 +1,9 @@
 ---
 date: "2026-10-09"
-time: ""
+time: "18:00"
 account: "hivebits_io"
-status: "draft"
-media: "fotka Nemanje i Georgy-ja (kod Nemanje)"
+status: "scheduled"
+media: "fotka Nemanje i Georgy-ja, Nemanja dodaje rucno"
 tweet_id: ""
 title: "Razgovor sa Wirex-om"
 ---
