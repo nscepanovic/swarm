@@ -12,11 +12,11 @@ title: "Razgovor sa Wirex-om"
 
 ## POST A (bez reci marketplace)
 
-We talked with Georgy, co-founder of @wirexapp, about how farmers can use their funds. One idea is a partnership with Wirex cards. 🐝
+We talked with Georgy, co-founder of @wirexapp, about how farmers can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝
 
 ## POST B (ako je marketplace sad javan)
 
-We talked with Georgy, co-founder of @wirexapp, about our marketplace and how farmers can use their funds. One idea is a partnership with Wirex cards. 🐝
+We talked with Georgy, co-founder of @wirexapp, about our marketplace and how farmers can use their earnings. Our infrastructure is on the blockchain, so one idea is a partnership with Wirex cards. 🐝
 
 ## Pre objave
 
