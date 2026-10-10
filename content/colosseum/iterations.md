@@ -253,3 +253,38 @@ Izmene istog dana, po Nemanjinim ispravkama (10.10, posle prve v7):
   obecanje platforme; "novac zakljucan do isporuke" nema smisla za
   ulaganje, skinuto sa slajda, u A1 samo za rentanje i kupovinu. Umesto
   toga: vlasnistvo i prihod na Solani, otvoreno svima (post 07.09).
+
+## v8 - 2026-10-10
+
+Fajl: `content/colosseum/Colosseum 2026 - v8 - 2026-10-10.pptx`, pravi ga
+`infra/deck_build_v8.py`. `deck.md` i `pitch-video.md` uskladjeni.
+
+Nemanja (10.10): "nisam siguran da mogu da ti verujem dalje jer vidim da
+mesas ono sto je bio rejz, ono sto radimo i ono sto treba da bude iduci
+korak." Odatle pravilo tri kolone (A desilo se, B radi danas, C sledece),
+upisano u deck.md i u `.claude/agents/deck.md`. Nemanja izabrao pravac 1
+(platforma, skaliranje ulaganja na profitabilne grane poljoprivrede, plus
+rentanje i prodaja) umesto pravca 2 (samo rentanje i prodaja).
+
+- 1: recenica kategorije "The platform where people own the farm. We did
+  it first." Rejz ispod kao dokaz.
+- 4: samo sto se desilo, proslo vreme: "150 people own our farm. What it
+  makes goes to them, on Solana." Luk je "150 owners", "Done. September
+  2026, on MetaDAO."
+- 5: platforma kao C: "We are building the platform that repeats it."
+  Own, rent, buy. "Step 1 is done once, with our farm. Steps 2 and 3 come
+  next."
+- 6: zasto mi, ne launchpad: biramo farme koje zaradjuju i proveravamo
+  ih; dokaz su cinjenice iz A (rasprodato svake sezone, $200K+ od kosnica,
+  sopstveni senzori napravljeni). Skinuto: "sensors show you the farm
+  live", "Solana shows who owns it" kao obecanje platforme.
+- 8: "Then other farms that make money" (pravac 1), ne "anything that
+  produces".
+- 9: upotreba novca jedna recenica, bez iznosa: platforma i druga farma
+  kroz proces. Predlog agenta, ceka potvrdu (#46).
+- Dodatak dobio A1 "Done, and next": tri kolone na slajdu, ujedno
+  prijava ranijeg rada koju FAQ trazi.
+- Kolona B je prazna dok Nemanja ne odgovori na pet pitanja (#45, #8).
+  Kad odgovori, delovi slajda 5 i 6 prelaze u sadasnje vreme.
+- Najslabiji: slajd 5. Platforma je buducnost i deck to kaze. Popravlja se
+  demo videom i kolonom B, ne tekstom.

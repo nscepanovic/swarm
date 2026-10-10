@@ -1,60 +1,59 @@
-# HiveBits - Colosseum Crypto World's Fair deck, v7 (2026-10-10)
+# HiveBits - Colosseum Crypto World's Fair deck, v8 (2026-10-10)
 
 INTERNO. Ne ide na X, u Press folder ni u press kit dok Nemanja ne kaze.
 
-Izvor istine za tekst i izvore. Fajl pravi `infra/deck_build_v7.py`
+Izvor istine za tekst i izvore. Fajl pravi `infra/deck_build_v8.py`
 (tekst slajdova je i u skripti; kad se menja tekst, menjaju se oba):
-`content/colosseum/Colosseum 2026 - v7 - 2026-10-10.pptx` (.pptx je u
-`.gitignore`, Nemanja ga prevlaci u decks folder na Drive-u).
+`content/colosseum/Colosseum 2026 - v8 - 2026-10-10.pptx` (.pptx je u
+`.gitignore`; Nemanja ga stavlja u decks folder na Drive-u).
 
 Hakaton: Crypto World's Fair, rok 12.10.2026 23:59 PT (hackathon.md).
-Colosseum je startup takmicenje (Nemanja, 28.09): zuri ocenjuje startap,
-ne kod napisan za dve nedelje. Raniji rad se prijavljuje otvoreno: dve
-ranije prijave pitchovale su farmu. Ta farma je sad finansirana i u
-vlasnistvu 150 ljudi, i ona je prvi slucaj platforme koju pitchujemo.
+Zuri ocenjuje startap (tim, trziste, proizvod, traction). Cilj: pobeda u
+opstem fondu, akcelerator (winners-full.md: u kohortu ulazi vrh plasmana).
 
-Publika: zuri koji gleda sve lance i bira 21 najbolji proizvod ukupno, pa
-Solana track. Pobeda daje intervju za akcelerator ($250K). Cilj decka:
-pobediti i uci u akcelerator (winners-full.md).
+## Pravac i tri kolone (Nemanja, 10.10)
 
-**Prica (Nemanja, 10.10):** poceli smo kao community owned farm i nasli
-nacin da to ponovimo. Najjaci adut je da smo ubedili 150 ljudi da uloze.
-Platforma: (1) isto to za druge farme, uz proveru i licenciranje farmi, ne
-samo skupljanje novca; (2) rentanje kosnice, krave i slicnog sa farmi koje
-onbordujemo, ne mora farma da bude finansirana preko nas; (3) prodaja
-pojedinacnih proizvoda. U sustini: zajednicko vlasnistvo nad proizvodnjom,
-farma je prvi slucaj, ne granica. Sirina ide u jednu recenicu, bez
-nabrajanja.
+**Pravac 1:** platforma gde ljudi poseduju farmu. Skaliranje ulaganja
+zajednice na druge profitabilne grane poljoprivrede, plus rentanje
+(kosnica, krava) i obican marketplace proizvoda kao korak 2 i 3. Pravac 2
+(samo rentanje i prodaja) odbacen: baca rejz kao glavnu kartu i zavrsava
+medju 23 agri marketplace projekta od kojih nijedan nije prosao
+(competition.md).
 
-**Stil:** YC (Kevin Hale, "How to design a better pitch deck"): jedna ideja
-po slajdu, ideja je recenica u naslovu, krupan tekst, bez sitnih redova na
-slajdu. Izvori i ograde su u beleskama (speaker notes) i ovde. Redosled:
-Pixar (startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars).
-Dizajn: tamna pozadina, zuti naslovi, po Nemanjinom Google Slides decku
-"Colosseum Deck V1 - Marketplace". 9 slajdova za video, dodatak od 3.
+**Tri kolone, obavezno za svaku recenicu na slajdu** (ispravka 10.10,
+Nemanja: "mesas ono sto je bio rejz, ono sto radimo i ono sto treba da
+bude sledeci korak"):
+- **A. Desilo se.** Samo sa izvorom. Proslo vreme, sa brojkom.
+- **B. Radi danas.** Samo ono sto Nemanja potvrdi. Sadasnje vreme.
+- **C. Sledeci korak.** "We are building", "next". Bez roka.
 
-**Pixar tok:** kupac ne zna sta jede (2) -> lanac krije farmera i uzima
-mu cenu (3) -> bilo ko moze da ulozi u farmu i poseduje je, vlasnici znaju
-sta jedu jer je farma njihova (4), na platformi u tri koraka (5) -> zasto
-verovati farmi: provera i licenca, vlasnistvo i prihod na lancu, kod nas i
-senzori (6) -> dokaz: 150 ljudi, $243K, 27 sati, $103K bez farme (7) ->
-med, mleko, sve sto proizvodi (8).
+Kolona B je u ovoj verziji skoro prazna jer Nemanja jos nije odgovorio na
+pet pitanja (open-questions #45 i #8). Zato platforma, provera farmi,
+rentanje i prodaja pisu kao C. Senzori pisu kao "we built our own hive
+sensors" (hardver postoji, javni post), ne kao "senzori rade na farmi".
 
-Par mana i odgovora: kupac nikad ne vidi farmera (3) -> vlasnik farme zna
-sta jede (4); cenu odredjuje otkupljivac (3) -> nema otkupljivaca, prihod
-ide vlasnicima (4); kome verovati (2) -> provera farme i lanac (6).
+**Recenica kategorije (cover):** "HiveBits: the platform where people own
+the farm. We did it first." Jacina kao BORE.FI / Pencil (winners.md), bez
+funkcija.
 
-**Ispravke od Nemanje posle prve verzije v7 (10.10):** (a) mi ne prodajemo
-vlasnicima, oni su vlasnici farme; ideja HiveBits-a od pocetka je da bilo
-ko moze da ulozi u proizvodnju meda ili hrane. (b) Senzore ima nasa farma;
-za druge farme ne znamo kako ce to ici, pa senzori nisu obecanje platforme.
-(c) Novac zakljucan do isporuke nema smisla za ulaganje, vazi samo za
-rentanje i kupovinu; skinuto sa slajda 6, u dodatku A1.
+**Stil:** YC (jedna ideja po slajdu, recenica u naslovu, krupno; izvori i
+ograde u beleskama). Redosled: Pixar. Dizajn kao v6/v7. 9 slajdova za
+video, dodatak od 4 (ukljucuje "Done, and next" koji je i prijava ranijeg
+rada koju FAQ trazi).
 
-Sto NE pise nigde: "pre-seed raised" kao glavna poruka, CrowdFarming i
-slicni kao konkurencija (Nemanja 10.10: ne idu na slajd), $250K, rokovi,
-lokacija farme, broj pcelara u mrezi, procenat naknade pri finansiranju
-ili rentanju, Eduardo (nije deo tima, Nemanja 10.10).
+**Pixar tok:** ne znas sta jedes (2) -> lanac krije farmera i uzima mu
+cenu (3) -> mi smo pustili ljude da poseduju nasu farmu, 150 jeste (4, A)
+-> gradimo platformu koja to ponavlja: own, rent, buy (5, C) -> zasto mi:
+farmeri smo, biramo farme koje zaradjuju i proveravamo ih, dokaz je nas
+rad (6, A) -> $243K, $103K bez farme (7, A) -> med pa druge farme koje
+zaradjuju (8).
+
+**Sto NE pise:** "sensors show you the farm live" (B nepoznato), "money
+locked until delivery" na glavnim slajdovima (vazi samo za rent i buy, u
+A2), "we check every farm" u sadasnjem vremenu (C), "the farm sells to
+them" (netacno, oni su vlasnici), procenti naknada osim 5%, $250K,
+rokovi, lokacija, CrowdFarming, Eduardo, "anything that produces" (pravac
+1 je farme, ne sve).
 
 ---
 
@@ -62,25 +61,23 @@ ili rentanju, Eduardo (nije deo tima, Nemanja 10.10).
 
 **Na slajdu**
 - HiveBits
-- We started as the first community owned farm.
-- We found a way to repeat it.
-- 150 people offered $243K in 27 hours.
+- The platform where people own the farm.
+- We did it first. 150 people, $243K offered in 27 hours.
+- We asked for $140K.
 
 **Nemanja govori**
-"Hi, I am Nemanja, and we are HiveBits. We started as the first community
-owned farm. We asked for 140 thousand dollars, and in 27 hours 150 people
-offered 243 thousand. Now we found a way to repeat that for other farms."
+"Hi, I am Nemanja, and we are HiveBits. HiveBits is the platform where
+people own the farm. We did it first. We asked for 140 thousand dollars
+for our own farm, and in 27 hours 150 people offered 243 thousand."
 
-**Izvori**
-- $140K cilj, $243K ponudjeno, 173%, 150 funders: screenshot HiveBits
-  stranice na MetaDAO launchpadu, status COMPLETE (news.md 10.10.2026).
-- 27 sati: javni post @hivebits_io 08.09.2026 ("1 day and 3 hours").
-- "The first community owned farm": Nemanjine reci (10.10). "First" nije
-  provereno (open-questions #41).
+**Izvori (A)**
+- $140K cilj, $243K ponudjeno, 173%, 150 funders: screenshot MetaDAO,
+  status COMPLETE (news.md 10.10.2026).
+- 27 sati: post @hivebits_io 08.09.2026 ("1 day and 3 hours").
 
 ---
 
-## 2. Once upon a time: do you know what you eat
+## 2. Once upon a time
 
 **Na slajdu**
 - Do you know what you eat?
@@ -92,13 +89,12 @@ it comes from and what is inside. Most people know only two kinds.
 Conventional food and organic food. Do you know what you eat?"
 
 **Izvori**
-- Nemanjin slajd 2 iz "Colosseum Deck V1 - Marketplace" (09.10), doslovno.
-- "Safe food" je zdravstveno ispravna hrana: proverljivo poreklo, ne
-  lekovitost (deck agent, pravilo 8).
+- Nemanjin slajd 2 iz "Colosseum Deck V1 - Marketplace" (09.10).
+- "Safe food" = zdravstveno ispravna hrana, bez zdravstvenih tvrdnji.
 
 ---
 
-## 3. And every day: you never see the farmer
+## 3. And every day
 
 **Na slajdu**
 - You never see the farmer. And he does not set his price.
@@ -114,108 +110,91 @@ the dairy is the only one who pays him. When cheap milk comes from import,
 the dairy pays him less. This year his price went down 25 percent, and he
 has nobody else to sell to."
 
-**Izvori**
-- Otkupna cena $0.34 i pad od 25%: Viteski.ba, 29.09.2026 (iz Nemanjinog
-  decka 09.10).
-- Cena na polici $1.09: 072info, 29.07.2026 (isto).
-- Dva izvora, dva datuma. Sirovo mleko naspram preradjenog: deo razlike je
-  prerada, pakovanje i dostava. Zato se govori "od $1.09 farmeru stigne
-  $0.34", ne "mlekara uzima dve trecine". Srednja cena ($0.73) je nasa
-  procena i skinuta je sa slajda u v6.
-- Slajd nosi obe strane problema u jednoj slici lanca: kupac ne vidi
-  farmera (odgovor na pitanje sa slajda 2), farmer ne bira cenu. Slajd 4
-  resava oboje.
+**Izvori (A)**
+- Otkupna cena $0.34 i pad 25%: Viteski.ba, 29.09.2026 (Nemanjin deck).
+- Cena na polici $1.09: 072info, 29.07.2026.
+- Dva izvora, dva datuma; sirovo naspram preradjenog. Govori se "od $1.09
+  farmeru stigne $0.34", ne "mlekara uzima dve trecine". Srednja cena
+  ($0.73) je procena, nije na slajdu.
 
 ---
 
-## 4. Until one day: anyone can invest in a farm and own it
+## 4. Until one day: sta smo uradili (A)
 
 **Na slajdu**
-- Anyone can invest in a farm and own it.
-- Lanac Farmer -> Food company -> Store -> Customer precrtan (X), ispod luk
-  "HiveBits" od farmera do kupca
-- We did this with our own farm first.
+- 150 people own our farm. What it makes goes to them, on Solana.
+- Lanac precrtan, luk "150 owners" od farmera do kupca
+- Done. September 2026, on MetaDAO.
 
 **Nemanja govori**
-"We did it the other way. We did not go to a dairy or a bank. We let
-anyone invest in our farm and own it. 150 people did. They own the farm
-with 300 smart hives. What the farm makes goes to them, on Solana. They
-know exactly what they eat, because they own the farm. HiveBits lets
-anyone do this with other farms. That was the idea from day one: anyone
-can invest in food production."
+"We are beekeepers. Last month we did it the other way. We did not go to a
+bank or a buyer. We let anyone invest in our farm and own it. 150 people
+did. They own a farm with 300 smart hives, and what the farm makes goes to
+them, on Solana. They know what they eat, because the farm is theirs."
 
-**Izvori**
-- 300 kosnica, $140K, MetaDAO: javni postovi @hivebits_io 07.09 i
-  08.09.2026. 150 ulagaca: screenshot MetaDAO (news.md 10.10).
-- "They own the farm", "mi im ne prodajemo, oni su vlasnici", "ideja je
-  bila dozvoliti bilo kome da investira u proizvodnju meda/hrane": Nemanja
-  10.10. Javni post od 07.09: prihod ide u trezor kojim upravljaju vlasnici
-  tokena. Ako zuri pita "token ili
-  farma": 150 ljudi je kupilo $NECTAR na MetaDAO, prihod farme ide u trezor
-  kojim oni upravljaju.
+**Izvori (A)**
+- 300 kosnica, $140K, MetaDAO: postovi @hivebits_io 07.09 i 08.09.2026
+  ("All revenue goes back to the onchain-governed, tokenholder-owned
+  treasury").
+- 150 ulagaca: screenshot MetaDAO (news.md 10.10).
+- "They own the farm": Nemanja 10.10. Tacna formulacija vlasnistva (farma
+  ili token cija blagajna dobija prihod): open-questions #43.
+- "Last month": rejz zatvoren septembra 2026 (postovi 07. i 08.09).
 
 ---
 
-## 5. Until one day: one platform, three ways
+## 5. Until one day: platforma (C)
 
 **Na slajdu**
-- One platform. Own, rent, or buy.
-- 1. Invest in the farm and own a part of it.
+- We are building the platform that repeats it.
+- 1. Invest in a farm and own a part of it.
 - 2. Rent a hive or a cow for a season.
 - 3. Buy the product.
-- We did step 1 first, with our own farm.
+- Step 1 is done once, with our farm. Steps 2 and 3 come next.
 
 **Nemanja govori**
-"On HiveBits you pay the farmer directly, in three ways. You invest in the
-farm and own a part of it. That is what 150 people did with ours. You rent
-a hive or a cow for a season, and you get what it makes. Or you simply buy
-the product, like in any shop."
+"That is what HiveBits makes repeatable. We are building the platform
+where this works for other farms, not only ours. You invest in a farm and
+own a part of it. You rent a hive or a cow for a season and get what it
+makes. Or you simply buy the product."
 
-**Izvori**
-- Tri koraka i redosled: Nemanja 10.10 (1 skaliranje finansiranja na druge
-  farme, 2 rentanje, 3 prodaja proizvoda).
-- Korak 1 je dokazan (nasa farma). Korak 2 i 3 nemaju prodaju na platformi;
-  slajd 7 kaze sta je dokazano, ovo se ne krije.
-- Rentanje vazi za svaku farmu koju onbordujemo, ne mora da bude
-  finansirana preko nas (Nemanja 10.10). Na slajdu to ne pise, u dodatku A2.
+**Izvori (C)**
+- Tri koraka i redosled: Nemanja 10.10. Pravac 1: Nemanja 10.10.
+- Platforma kao proizvod ne postoji jos (open-questions #8 bez odgovora),
+  zato "we are building". Ako Nemanja potvrdi da nesto radi danas, taj deo
+  prelazi u sadasnje vreme.
 
 ---
 
-## 6. And because of that: why trust the farm
+## 6. And because of that: zasto mi (A)
 
 **Na slajdu**
-- We check the farm. Solana shows who owns it and where the money goes.
-- We check and license every farm.
-- Ownership and revenue are on Solana.
-- Our farm goes further: every hive has a live sensor.
+- We are farmers. We pick the farms that make money, and we check them.
+- We sell out every season.
+- We sold $200K+ of hives before this raise.
+- We built our own hive sensors.
 
 **Nemanja govori**
-"Why would you trust a farm you never saw? First, we check the farm and
-license it. We are farmers, we know what to look for. We do not just
-collect the money. Second, the ownership and the money are on Solana.
-Everyone can see who owns the farm and where the revenue goes. On our own
-farm we go one step further. Every hive has a sensor, and you see the
-weight, the temperature and the humidity live."
+"Why us, and not a launchpad? Because a launchpad takes anyone. We pick
+farms that make money, and we check them before people put money in. We
+can do that because we are farmers. We sell out every season. We sold more
+than 200 thousand dollars of hives before this raise. And we built our own
+hive sensors."
 
 **Izvori**
-- Provera i licenciranje farmi kao posao platforme: Nemanja 10.10 ("ne
-  samo da se prikuplja novac"). Ovo je i odgovor na pitanje "sta radite vi,
-  a sta MetaDAO": launchpad su sine, mi smo farmer, provera, senzor i
-  isporuka.
-- Vlasnistvo i prihod na lancu: javni post @hivebits_io 07.09 ("onchain-
-  governed, tokenholder-owned treasury").
-- Senzori samo na nasoj farmi (Nemanja 10.10: za druge farme ne znamo kako
-  ce to ici, pa nije obecanje platforme):
-  https://x.com/hivebits_io/status/2096269121751220404. Tezina,
-  temperatura, vlaga: Nemanjini transkripti (CLAUDE.md).
-- Novac zakljucan u stablecoinu do isporuke vazi samo za rentanje i
-  kupovinu, ne za ulaganje (Nemanja 10.10). Skinuto sa slajda, u A1.
-- Kako tacno izgleda provera i licenca (sta se proverava, ko izdaje): nije
-  receno, na slajdu je samo princip (open-questions #42).
+- $200K+ od kosnica: post @hivebits_io 05.09.2026 (A).
+- Rasprodato svake sezone: Nemanja (deck.md v3) (A).
+- Sopstveni senzori: post x.com/hivebits_io/status/2096269121751220404
+  ("every colony monitored by our own hardware") (A: hardver napravljen).
+  Da li rade danas ili tek na novoj farmi: #45 (B).
+- "Pick farms that make money, and check them": pravac 1 i "provera je nas
+  posao, ne samo skupljanje novca", Nemanja 10.10. Ovo je nacin rada, ne
+  tvrdnja da je neka farma vec proverena. Kako izgleda provera: #42.
+- Ovo je odgovor na "sta radite vi, a sta MetaDAO".
 
 ---
 
-## 7. And because of that: traction
+## 7. And because of that: traction (A)
 
 **Na slajdu**
 - We asked for $140K. 150 people offered $243K.
@@ -226,99 +205,100 @@ weight, the temperature and the humidity live."
 **Nemanja govori**
 "We asked for 140 thousand dollars to build a farm with 300 smart hives. In
 27 hours, 150 people offered 243 thousand. We could take only 140. The
-other 103 thousand had no farm to go to. That is the demand for the
-platform. That is why we build it."
+other 103 thousand had no farm to go to. That is the demand we build the
+platform for."
 
-**Izvori**
-- $140K, $243K, 173%, 150 funders: screenshot MetaDAO (news.md 10.10).
-- 27 sati: post @hivebits_io 08.09.2026.
-- $103K = 243 - 140, racun. "Had no farm to go to": nasa formulacija za
-  visak ponude koji nije primljen.
+**Izvori (A)**
+- Screenshot MetaDAO (news.md 10.10): $140K, $243K, 173%, 150 funders.
+- 27 sati: post 08.09.2026. $103K = 243 - 140.
 
 ---
 
-## 8. Until finally: market
+## 8. Until finally: trziste
 
 **Na slajdu**
-- Honey first. Then milk. Then anything that produces.
+- Honey first. Then other farms that make money.
 - 46 million US households buy honey. $839M a year.
 - Our 5% of honey alone is $42M.
-- The same model works for anything that produces.
+- Every farm we add is a farm people can own.
 
 **Nemanja govori**
 "We start with honey, because that is our farm. 46 million households in
 the US buy honey. They spend 839 million dollars a year. Our 5 percent of
-that is 42 million, from honey alone. Milk is the same story, you saw the
-numbers. And the model does not care what the farm makes. Today it is
-farms. The same model works for anything that produces."
+that is 42 million, from honey alone. Then other farms that make money.
+Milk is one, you saw the numbers. Every one of them is a farm people can
+own."
 
 **Izvori**
-- 46,2M domacinstava (35,7% US) x $18,15 godisnje = $839M: NielsenIQ za
-  National Honey Board, 52 nedelje do 2.11.2024,
+- NielsenIQ za National Honey Board, 52 nedelje do 2.11.2024: 46,2M
+  domacinstava x $18,15 = $839M,
   https://honey.com/images/files/National-Honey-Board-Category-Review-Analysis-2024.pdf
-  (market.md).
-- 5% od prodaje: Nemanja 24.09.
-- Za trziste "vlasnistva nad farmama" ili rentanja nema brojke sa izvorom
-  koji bih branio pred zurijem, zato je sirina samo recenica. Ako Nemanja
-  hoce brojku, to je pitanje za researcher-a (R3).
+- 5%: Nemanja 24.09.
+- Trziste vlasnistva nad farmama: nema brojke sa izvorom (researcher R3).
 
 ---
 
-## 9. Team and ask
+## 9. Tim i ask
 
 **Na slajdu**
 - We are here to win and join the Colosseum accelerator.
 - Nemanja Šćepanović. CEO, beekeeper. 10 years in engineering and IoT.
 - Siniša Kežić. COO, chief beekeeper. Runs the farm build.
-- Next: the second farm.
-- hivebits.io
+- The accelerator builds the platform and puts the second farm through it.
 
 **Nemanja govori**
 "We are farmers and engineers. We are here to win and to join the
-Colosseum accelerator. Next is the second farm, funded the way we funded
-ours, and better ways to check the farms we bring."
+Colosseum accelerator. The accelerator builds the platform and puts the
+second farm through it. Not our farm. That one is paid for."
 
-**Izvori**
-- Tim: Nemanja i Sinisa (Nemanja 10.10, Eduardo nije deo tima).
-- Druga farma nije u razgovoru ni sa kim (Nemanja 10.10), zato je ask, ne
-  traction. $250K se ne pominje (Nemanja 10.10).
+**Izvori (C)**
+- Upotreba novca: predlog agenta 10.10 (platforma, druga farma kroz proces,
+  pravni okvir vlasnistva), Nemanja nije potvrdio (#46). Iznos se ne pise.
+- Druga farma nije u razgovoru ni sa kim (Nemanja 10.10).
+- Tim: Nemanja i Sinisa (Nemanja 10.10).
 
 ---
 
 ## Dodatak (nije deo videa)
 
-### A1. How we earn
+### A1. Done, and next
 
-- We earn when a farm is funded, rented, or sells.
-- A fee when a farm is funded. | A share of every rental. | 5% of every sale.
+Done: two Colosseum entries pitched the farm. 150 people funded it, it is
+being built. $200K+ of hives sold before that. Our own hive sensors, built.
+Next: the platform (other farms funded the same way), the check before a
+farm gets in, renting and product sales, the second farm.
 
-Govor, ako pitaju: za rentanje i kupovinu novac stoji zakljucan na
-Solani u stablecoinu dok farmer ne isporuci (Nemanja 10.10; ne vazi za
-ulaganje).
+Ovo je i prijava ranijeg rada koju FAQ trazi. Izvori: ranije prijave
+colosseum.com/projects/explore/hivebits i /hivebits-1; farma se gradi:
+postovi od 16.09 i klip 10. Kolona B ceka #45 i #8.
 
-Izvori: 5% od prodaje: Nemanja 24.09. Naknada pri finansiranju i deo od
-rentanja: Nemanja 10.10, bez procenta (open-questions #39, #40).
+### A2. How we earn
 
-### A2. Go to market
+A fee when a farm is funded, once. A share of every rental, every season.
+5% of every sale. Prvi placa dovodjenje farme, druga dva rastu sa brojem
+farmi. Za rentanje i kupovinu novac stoji zakljucan na Solani u
+stablecoinu do isporuke (Nemanja 10.10; ne vazi za ulaganje).
 
-- First our farm. Then farmers we know. Then the rest.
-- 1. Our own farm. Funded and owned by 150 people.
-- 2. A second farm, with a farmer we know.
-- 3. Any farm can join for renting and buying.
+Izvori: 5%: Nemanja 24.09. Naknada i deo od rentanja: Nemanja 10.10, bez
+procenta (#39, #40). Da li firma zaradjuje od nase farme kao operater:
+#44. Interno poredjenje: Etsy 6,5% + ~3%, Amazon Grocery 8-15%,
+CrowdFarming 16-32% (market.md); ne ide na slajd.
 
-Izvori: onboarding farme za rentanje bez finansiranja: Nemanja 10.10.
-"Farmer we know" je namera, bez imena i bez razgovora.
+### A3. Go to market
 
-### A3. Competition
+1. Our own farm, funded by 150 people. 2. A second farm, with a farmer we
+know. 3. Any farm that makes money, for owning, renting, or buying (za
+rentanje i kupovinu farma ne mora da bude finansirana preko nas, Nemanja
+10.10). "Farmer we know" je namera, bez imena.
 
-- No farm marketplace won here. They had no farm.
-- We have our own farm. | We have our own hardware. | 150 people already own a farm with us.
+### A4. Competition
 
-Izvori: Colosseum Copilot, cetiri hakatona od marta 2024 do septembra
-2025, provereno 10.10.2026 (competition.md: agrotoken, moofi, seedlot,
-pastora i drugi, nijedan sa nagradom). 3Bee, Pollenity, Honeyverse rentaju
-samo svoje kosnice, van lanca (competition.md). CrowdFarming i slicni se
-ne pominju (Nemanja 10.10).
+No farm marketplace won here. They had no farm. We have our own farm, our
+own hardware, and 150 people who already own a farm with us.
+
+Izvori: Colosseum Copilot, cetiri hakatona 2024-2025, provereno 10.10
+(competition.md). 3Bee, Pollenity, Honeyverse rentaju svoje kosnice, van
+lanca. CrowdFarming i slicni se ne pominju (Nemanja 10.10).
 
 ---
 
@@ -326,13 +306,18 @@ ne pominju (Nemanja 10.10).
 
 | # | Kriterijum | Slajd |
 |---|---|---|
-| 1 | Founder and market fit | 1 (poceli kao farma), 6 (mi smo farmeri, znamo sta proveravamo), 9 |
-| 2 | Unique insight / advantage | 3 (lanac krije farmera i uzima mu cenu), 4, 6 (provera + lanac), A3 |
-| 3 | Product quality and execution speed | 4, 7 (farma finansirana za 27 sati), 6 (senzori na nasoj farmi) |
-| 4 | TAM | 8 (med bottom-up), sirina u jednoj recenici |
-| 5 | Clarity of founder communication | ceo deck, jedna recenica po slajdu |
-| 6 | Business viability | A1 (tri izvora zarade), 5 |
-| 7 | Traction | 1, 7 ($243K, 150 ljudi, $103K visak) |
+| 1 | Founder and market fit | 4, 6 (farmeri, rasprodato, $200K+, senzori), 9 |
+| 2 | Unique insight / advantage | 3 (lanac krije farmera i uzima cenu), 6 (biramo i proveravamo, ne launchpad), A4 |
+| 3 | Product quality and execution speed | 4 i 7 (farma finansirana za 27 sati); platforma je C, posteno (5, A1) |
+| 4 | TAM | 8 (med bottom-up), druge farme bez brojke |
+| 5 | Clarity of founder communication | jedna recenica po slajdu |
+| 6 | Business viability | A2 (tri izvora, jedan procenat), 5 |
+| 7 | Traction | 1, 7, 6 ($200K+ pre rejza) |
 
-Najslabije: 4 (TAM je samo med) i 7 (jedna farma, nasa; rentanje i prodaja
-bez ijedne transakcije na platformi).
+Pravila (PDF): (a) funkcionalnost i (e) open source zavise od demo videa i
+repoa, ne od decka (open-questions #8, #22). (c) novelty: slajd 4 i A4.
+(d) UX zbog blockchaina: slajd 4 (vlasnistvo i prihod na lancu), bez vise
+od toga dok B nije poznato. (f) biznis plan: A2, A3, 9.
+
+Najslabije: 3 i 4 (platforma je buducnost, TAM je samo med). Oboje se
+popravlja samo odgovorima iz kolone B i demo videom, ne tekstom.

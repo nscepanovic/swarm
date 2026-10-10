@@ -1,4 +1,4 @@
-# Treba od Nemanje (v7, 2026-10-10)
+# Treba od Nemanje (v8, 2026-10-10)
 
 Svako pitanje ima odgovor u jednoj recenici. Dok nema odgovora, na slajdu
 stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
@@ -41,6 +41,29 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
     demo)
 27. Koja kosnica se snima za demo: sa nase farme, tvoj pcelinjak, ili
     pcelar koji je pristao?
+
+## Kolona B: sta radi danas (v8, 10.10). Bez ovoga deck ne sme u sadasnje vreme.
+
+45. Senzori: da li danas na nekoj tvojoj kosnici radi senzor i salje
+    tezinu, temperaturu i vlagu, ili tek na novoj farmi kad se napravi?
+    (slajd 6 kaze samo "we built our own hive sensors")
+8b. Aplikacija ili sajt: postoji li nesto sto moze da se otvori i pokaze
+    (farma, kosnica, podaci)? (demo video, slajd 5)
+8c. Ulaganje u farmu: moze li neko danas da ulozi preko nas, ili je to
+    bilo jednom kroz MetaDAO i zatvoreno je? (slajd 5, korak 1)
+8d. Rentanje: moze li neko danas da zakupi kosnicu, ili je ideja? (korak 2)
+8e. Prodaja: moze li neko danas da kupi med preko nas online, ili samo
+    uzivo? (korak 3)
+
+## Zarada (v8, 10.10)
+
+44. Da li HiveBits kao firma zaradjuje od nase farme (naknada za vodjenje),
+    ili sav prihod ide u trezor vlasnika tokena kako kaze post od 07.09?
+    (A2; ako je drugo, firma od svoje farme ne zaradjuje i to treba znati
+    reci)
+46. Upotreba novca iz akceleratora: predlog je platforma, druga farma kroz
+    proces, pravni okvir vlasnistva. Da ili ne? (slajd 9, jedna recenica,
+    bez iznosa)
 
 ## Novo u v7 (zajednicko vlasnistvo, 10.10)
 
@@ -127,6 +150,10 @@ R2. Da li 3Bee, Honeyverse ili iko drugi prodaje kosnice sa zapisom na
 
 ## Reseno (trag)
 
+- Pravac (10.10): pravac 1, platforma gde ljudi poseduju farmu; rentanje i
+  prodaja su korak 2 i 3, ne naslov.
+- 14 (10.10, drugi put): $250K se ne pise; upotreba novca jedna recenica
+  ako Nemanja potvrdi #46.
 - 11 i 37 (10.10): nije bilo razgovora ni sa jednom drugom farmom ni B2B
   kupcem. Druga farma je ask (slajd 9), ne traction.
 - 12 i 13 (10.10): tim za prijavu su Nemanja i Sinisa. Eduardo nije deo

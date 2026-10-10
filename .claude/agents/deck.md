@@ -54,6 +54,28 @@ opis, blockchain integracije, biografije tima, lokacija, logo, GitHub repo
 minuta se preporucuje. To se poklapa sa Nemanjinim obecanjem iz klipa 10 da
 snima svaki korak: isti snimci sluze i za X i za Colosseum update.
 
+## Tri kolone, pre svakog slajda (ispravka 2026-10-10)
+
+Nemanja, 10.10: "nisam siguran da mogu da ti verujem dalje jer vidim da
+mesas ono sto je bio rejz, ono sto radimo i ono sto treba da bude iduci
+korak." Greska: recenice tipa "we check and license every farm", "sensors
+show you the farm live", "your money is locked until delivery", "the farm
+sells to them" pisane u sadasnjem vremenu iako su bile namera ili moja
+dopuna mehanizma.
+
+Pravilo: svaka recenica na slajdu stane u tacno jednu kolonu, i kolona
+odredjuje glagolsko vreme.
+- **A. Desilo se.** Samo sa izvorom (post, screenshot, Nemanjina poruka).
+  Proslo vreme, sa brojkom.
+- **B. Radi danas.** Samo ono sto je Nemanja izricito potvrdio da postoji.
+  Sadasnje vreme. Ako nije potvrdio, nije B.
+- **C. Sledeci korak.** "We are building", "next". Bez roka.
+
+Pre nove verzije: napisi A/B/C listu i daj je Nemanji na pregled umesto
+decka. Ne izmisljaj mehanizam da bi slajd zvucao gotovo. Beleska na slajdu
+kaze kojoj koloni recenica pripada. Nemanjina ideja iz razgovora je C dok
+ne kaze da postoji.
+
 ## Ton: iz snage, nikad kao molba
 
 Ispravka 2026-09-22: v1 je izostavio pre-seed i zvucao "kao da smo jadnici
