@@ -1,4 +1,4 @@
-"""Colosseum deck v8 (2026-10-10): pravac 1, platforma gde ljudi poseduju farmu. Tri kolone: desilo se (proslo vreme, izvor), radi danas (samo potvrdjeno), sledece ("next").
+"""Colosseum deck v8 (2026-10-10, dopuna: zarada i konkurencija u glavnom delu): pravac 1, platforma gde ljudi poseduju farmu. Tri kolone: desilo se (proslo vreme, izvor), radi danas (samo potvrdjeno), sledece ("next").
 Poceli kao community owned farm, platforma to ponavlja za druge farme. Stil kao v6 (YC: jedna
 ideja po slajdu, recenica u naslovu; redosled po Pixar strukturi), tamna pozadina, zuti naslovi.
 Tekst je i u content/colosseum/deck.md (izvor istine za tekst i izvore).
@@ -151,7 +151,26 @@ big(s,2.5,'46 million US households buy honey. $839M a year.',32)
 big(s,3.7,'Our 5% of honey alone is $42M.',32,Y)
 big(s,4.9,'Every farm we add is a farm people can own.',32)
 
-# 9 team and ask
+# 9 how we earn
+s=slide('We earn in three places. A fee when a farm is funded, once. A share of every rental, every season. And 5 percent of every sale.\n\n'
+        'The first pays for bringing a farm in. The other two grow with the number of farms.\n\n'
+        'For renting and buying, the money is locked on Solana in stablecoins until the farmer delivers.\n\n'
+        'IZVOR: 5%: Nemanja 24.09 (farmer bira ko snosi). Naknada pri finansiranju i deo od rentanja: Nemanja 10.10, bez procenta (#39, #40). Da li firma zaradjuje od nase farme kao operater: #44. Escrow samo za rent i buy: Nemanja 10.10.')
+head1(s,'We earn when a farm is funded, rented, or sells.')
+big(s,2.5,'A fee when a farm is funded. Once.',34)
+big(s,3.7,'A share of every rental. Every season.',34)
+big(s,4.9,'5% of every sale.',34)
+
+# 10 competition
+s=slide('Many teams tried a farm marketplace here. None of them won. They were all software with no farmer behind it.\n\n'
+        'We are farmers. We have our farm, our sensors, and 150 people who already own a farm with us.\n\n'
+        'IZVOR: Colosseum Copilot, cetiri hakatona od marta 2024 do septembra 2025, provereno 10.10.2026 (competition.md). 3Bee, Pollenity, Honeyverse rentaju samo svoje kosnice, van lanca.')
+head1(s,'No farm marketplace won here. They had no farm.')
+big(s,2.5,'We have our own farm.',34)
+big(s,3.7,'We have our own hardware.',34)
+big(s,4.9,'150 people already own a farm with us.',34)
+
+# 11 team and ask
 s=slide('We are farmers and engineers. We are here to win and to join the Colosseum accelerator.\n\n'
         'The accelerator builds the platform and puts the second farm through it. Not our farm, that one is paid for.\n\n'
         'KOLONA C. Upotreba novca: predlog agenta 10.10, Nemanja nije potvrdio (open-questions #46). Druga farma nije u razgovoru ni sa kim (Nemanja 10.10). Iznos se ne pise (Nemanja 10.10).')
@@ -174,17 +193,7 @@ big(s,2.3,'Done',26,Y,True,0.8,5.6); big(s,2.3,'Next',26,Y,True,7.0,5.6)
 tb(s,0.8,2.9,5.6,3.6,'Two Colosseum entries pitched the farm.\n\n150 people funded it. It is being built.\n\n$200K+ of hives sold before that.\n\nOur own hive sensors, built.',22,W,False,Lf)
 tb(s,7.0,2.9,5.6,3.6,'The platform: other farms funded the same way.\n\nThe check before a farm gets in.\n\nRenting and product sales.\n\nThe second farm.',22,W,False,Lf)
 
-# A2 how we earn
-s=slide('We earn in three places. A fee when a farm is funded, once. A share of every rental, every season. And 5 percent of every sale.\n\n'
-        'The first pays for bringing a farm in. The other two grow with the number of farms.\n\n'
-        'For renting and buying, the money is locked on Solana in stablecoins until the farmer delivers.\n\n'
-        'IZVOR: 5%: Nemanja 24.09 (farmer bira ko snosi). Naknada pri finansiranju i deo od rentanja: Nemanja 10.10, bez procenta (#39, #40). Da li firma zaradjuje od nase farme kao operater: #44. Escrow samo za rent i buy: Nemanja 10.10.')
-head1(s,'We earn when a farm is funded, rented, or sells.')
-big(s,2.5,'A fee when a farm is funded. Once.',34)
-big(s,3.7,'A share of every rental. Every season.',34)
-big(s,4.9,'5% of every sale.',34)
-
-# A3 go to market
+# A2 go to market
 s=slide('We start with what we know. Our own farm is funded. Next is a second farm, with a farmer we know, funded the same way. '
         'For renting and buying, a farm can join without being funded first. Then other farms that make money.\n\n'
         'IZVOR: Nemanja 10.10. "Farmer we know" je namera, bez imena i bez razgovora.')
@@ -192,14 +201,5 @@ head1(s,'First our farm. Then a farmer we know. Then the rest.')
 big(s,2.5,'1.  Our own farm. Funded by 150 people.',30)
 big(s,3.7,'2.  A second farm, with a farmer we know.',30)
 big(s,4.9,'3.  Any farm that makes money, for owning, renting, or buying.',30)
-
-# A4 competition
-s=slide('Many teams tried a farm marketplace here. None of them won. They were all software with no farmer behind it.\n\n'
-        'We are farmers. We have our farm, our sensors, and 150 people who already own a farm with us.\n\n'
-        'IZVOR: Colosseum Copilot, cetiri hakatona od marta 2024 do septembra 2025, provereno 10.10.2026 (competition.md). 3Bee, Pollenity, Honeyverse rentaju samo svoje kosnice, van lanca.')
-head1(s,'No farm marketplace won here. They had no farm.')
-big(s,2.5,'We have our own farm.',34)
-big(s,3.7,'We have our own hardware.',34)
-big(s,4.9,'150 people already own a farm with us.',34)
 
 prs.save(sys.argv[1]); print(len(prs.slides._sldIdLst),'slides')

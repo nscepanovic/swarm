@@ -288,3 +288,8 @@ rentanje i prodaja) umesto pravca 2 (samo rentanje i prodaja).
   Kad odgovori, delovi slajda 5 i 6 prelaze u sadasnje vreme.
 - Najslabiji: slajd 5. Platforma je buducnost i deck to kaze. Popravlja se
   demo videom i kolonom B, ne tekstom.
+
+Dopuna istog dana (Nemanja 10.10): zarada i konkurencija moraju u pitch
+od 3 minuta. Slajdovi A2 i A4 prebaceni u glavni deo kao 9 i 10, tim je
+11, dodatak su "Done, and next" i go to market. Scenario je oko 2:55;
+trziste skraceno na 15 sekundi.

@@ -4,8 +4,9 @@ INTERNO. Prati `deck.md` v8 i istih sest Pixar koraka. Ograde iz beleski se
 ne izgovaraju.
 
 Duzina: **2 do 3 minuta** (colosseum.com/hackathon, hackathon.md). Ovaj
-scenario je oko 2:30 normalnim tempom. Ako je preko 3:00, prvo se skracuje
-korak 6 (trziste), pa korak 2.
+scenario je oko 2:55 normalnim tempom, sa zaradom i konkurencijom u
+videu (Nemanja 10.10: moraju u pitch od 3 minuta). Ako je preko 3:00,
+prvo se skracuje slajd 8 (trziste), pa slajd 2.
 
 Otvaranje: ko smo i sta smo uradili (iz snage), pa Nemanjino pitanje o
 zdravstveno ispravnoj hrani. Frontier pitch (https://youtu.be/denQhkGyNjs)
@@ -32,7 +33,7 @@ where it comes from and what is inside.
 Most people know only two kinds. Conventional food and organic food.
 Do you know what you eat?"
 
-## 0:35-1:00 And every day (slajd 3)
+## 0:35-0:55 And every day (slajd 3)
 
 "Between you and the farmer there are two companies. You never see him.
 Take milk in Bosnia. You pay one dollar and nine cents for a liter. The
@@ -42,7 +43,7 @@ only one who pays him.
 When cheap milk comes from import, the dairy pays him less. This year his
 price went down 25 percent, and he has nobody else to sell to."
 
-## 1:00-1:35 Until one day (slajdovi 4 i 5)
+## 0:55-1:30 Until one day (slajdovi 4 i 5)
 
 "We are beekeepers. Last month we did it the other way. We did not go to
 a bank or a buyer. We let anyone invest in our farm and own it.
@@ -54,7 +55,7 @@ where this works for other farms, not only ours.
 You invest in a farm and own a part of it. You rent a hive or a cow for a
 season and get what it makes. Or you simply buy the product."
 
-## 1:35-2:00 And because of that: why us (slajd 6)
+## 1:30-1:50 And because of that: why us (slajd 6)
 
 "Why us, and not a launchpad? Because a launchpad takes anyone. We pick
 farms that make money, and we check them before people put money in.
@@ -62,14 +63,14 @@ We can do that because we are farmers. We sell out every season. We sold
 more than 200 thousand dollars of hives before this raise. And we built
 our own hive sensors."
 
-## 2:00-2:15 And because of that: traction (slajd 7)
+## 1:50-2:05 And because of that: traction (slajd 7)
 
 "We asked for 140 thousand dollars to build a farm with 300 smart hives.
 In 27 hours, 150 people offered 243 thousand.
 We could take only 140. The other 103 thousand had no farm to go to.
 That is the demand we build the platform for."
 
-## 2:15-2:35 Until finally: market (slajd 8)
+## 2:05-2:20 Until finally: market (slajd 8)
 
 "We start with honey, because that is our farm. 46 million households in
 the US buy honey. They spend 839 million dollars a year. Our 5 percent of
@@ -77,13 +78,23 @@ that is 42 million, from honey alone.
 Then other farms that make money. Milk is one, you saw the numbers. Every
 one of them is a farm people can own."
 
-## 2:35-2:50 Team and ask (slajd 9)
+## 2:20-2:35 How we earn (slajd 9)
+
+"We earn in three places. A fee when a farm is funded, once. A share of
+every rental, every season. And 5 percent of every sale. The first pays
+for bringing a farm in. The other two grow with the number of farms."
+
+## 2:35-2:45 Competition (slajd 10)
+
+"Many teams tried a farm marketplace here. None of them won. They were
+all software with no farmer behind it. We are farmers, and 150 people
+already own a farm with us."
+
+## 2:45-2:55 Team and ask (slajd 11)
 
 "We are farmers and engineers. We are here to win and to join the
-Colosseum accelerator.
-The accelerator builds the platform and puts the second farm through it.
-Not our farm. That one is paid for.
-Thank you."
+Colosseum accelerator. The accelerator builds the platform and puts the
+second farm through it. Thank you."
 
 ---
 

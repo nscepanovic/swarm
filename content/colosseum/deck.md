@@ -37,9 +37,10 @@ the farm. We did it first." Jacina kao BORE.FI / Pencil (winners.md), bez
 funkcija.
 
 **Stil:** YC (jedna ideja po slajdu, recenica u naslovu, krupno; izvori i
-ograde u beleskama). Redosled: Pixar. Dizajn kao v6/v7. 9 slajdova za
-video, dodatak od 4 (ukljucuje "Done, and next" koji je i prijava ranijeg
-rada koju FAQ trazi).
+ograde u beleskama). Redosled: Pixar. Dizajn kao v6/v7. 11 slajdova za
+video (Nemanja 10.10: zarada i konkurencija moraju u pitch od 3 minuta),
+dodatak od 2 ("Done, and next" koji je i prijava ranijeg rada koju FAQ
+trazi, i go to market).
 
 **Pixar tok:** ne znas sta jedes (2) -> lanac krije farmera i uzima mu
 cenu (3) -> mi smo pustili ljude da poseduju nasu farmu, 150 jeste (4, A)
@@ -49,8 +50,8 @@ rad (6, A) -> $243K, $103K bez farme (7, A) -> med pa druge farme koje
 zaradjuju (8).
 
 **Sto NE pise:** "sensors show you the farm live" (B nepoznato), "money
-locked until delivery" na glavnim slajdovima (vazi samo za rent i buy, u
-A2), "we check every farm" u sadasnjem vremenu (C), "the farm sells to
+locked until delivery" na slajdu (vazi samo za rent i buy, u govoru za
+slajd 9 ako pitaju), "we check every farm" u sadasnjem vremenu (C), "the farm sells to
 them" (netacno, oni su vlasnici), procenti naknada osim 5%, $250K,
 rokovi, lokacija, CrowdFarming, Eduardo, "anything that produces" (pravac
 1 je farme, ne sve).
@@ -238,7 +239,56 @@ own."
 
 ---
 
-## 9. Tim i ask
+## 9. How we earn
+
+**Na slajdu**
+- We earn when a farm is funded, rented, or sells.
+- A fee when a farm is funded. Once.
+- A share of every rental. Every season.
+- 5% of every sale.
+
+**Nemanja govori**
+"We earn in three places. A fee when a farm is funded, once. A share of
+every rental, every season. And 5 percent of every sale. The first pays
+for bringing a farm in. The other two grow with the number of farms."
+
+**Izvori**
+A fee when a farm is funded, once. A share of every rental, every season.
+5% of every sale. Prvi placa dovodjenje farme, druga dva rastu sa brojem
+farmi. Za rentanje i kupovinu novac stoji zakljucan na Solani u
+stablecoinu do isporuke (Nemanja 10.10; ne vazi za ulaganje).
+
+Izvori: 5%: Nemanja 24.09. Naknada i deo od rentanja: Nemanja 10.10, bez
+procenta (#39, #40). Da li firma zaradjuje od nase farme kao operater:
+#44. Interno poredjenje: Etsy 6,5% + ~3%, Amazon Grocery 8-15%,
+CrowdFarming 16-32% (market.md); ne ide na slajd.
+
+---
+
+## 10. Competition
+
+**Na slajdu**
+- No farm marketplace won here. They had no farm.
+- We have our own farm.
+- We have our own hardware.
+- 150 people already own a farm with us.
+
+**Nemanja govori**
+"Many teams tried a farm marketplace here. None of them won. They were all
+software with no farmer behind it. We are farmers. We have our farm, our
+sensors, and 150 people who already own a farm with us."
+
+**Izvori**
+No farm marketplace won here. They had no farm. We have our own farm, our
+own hardware, and 150 people who already own a farm with us.
+
+Izvori: Colosseum Copilot, cetiri hakatona 2024-2025, provereno 10.10
+(competition.md). 3Bee, Pollenity, Honeyverse rentaju svoje kosnice, van
+lanca. CrowdFarming i slicni se ne pominju (Nemanja 10.10).
+
+---
+
+## 11. Tim i ask
 
 **Na slajdu**
 - We are here to win and join the Colosseum accelerator.
@@ -272,33 +322,12 @@ Ovo je i prijava ranijeg rada koju FAQ trazi. Izvori: ranije prijave
 colosseum.com/projects/explore/hivebits i /hivebits-1; farma se gradi:
 postovi od 16.09 i klip 10. Kolona B ceka #45 i #8.
 
-### A2. How we earn
-
-A fee when a farm is funded, once. A share of every rental, every season.
-5% of every sale. Prvi placa dovodjenje farme, druga dva rastu sa brojem
-farmi. Za rentanje i kupovinu novac stoji zakljucan na Solani u
-stablecoinu do isporuke (Nemanja 10.10; ne vazi za ulaganje).
-
-Izvori: 5%: Nemanja 24.09. Naknada i deo od rentanja: Nemanja 10.10, bez
-procenta (#39, #40). Da li firma zaradjuje od nase farme kao operater:
-#44. Interno poredjenje: Etsy 6,5% + ~3%, Amazon Grocery 8-15%,
-CrowdFarming 16-32% (market.md); ne ide na slajd.
-
-### A3. Go to market
+### A2. Go to market
 
 1. Our own farm, funded by 150 people. 2. A second farm, with a farmer we
 know. 3. Any farm that makes money, for owning, renting, or buying (za
 rentanje i kupovinu farma ne mora da bude finansirana preko nas, Nemanja
 10.10). "Farmer we know" je namera, bez imena.
-
-### A4. Competition
-
-No farm marketplace won here. They had no farm. We have our own farm, our
-own hardware, and 150 people who already own a farm with us.
-
-Izvori: Colosseum Copilot, cetiri hakatona 2024-2025, provereno 10.10
-(competition.md). 3Bee, Pollenity, Honeyverse rentaju svoje kosnice, van
-lanca. CrowdFarming i slicni se ne pominju (Nemanja 10.10).
 
 ---
 
@@ -306,18 +335,18 @@ lanca. CrowdFarming i slicni se ne pominju (Nemanja 10.10).
 
 | # | Kriterijum | Slajd |
 |---|---|---|
-| 1 | Founder and market fit | 4, 6 (farmeri, rasprodato, $200K+, senzori), 9 |
-| 2 | Unique insight / advantage | 3 (lanac krije farmera i uzima cenu), 6 (biramo i proveravamo, ne launchpad), A4 |
+| 1 | Founder and market fit | 4, 6 (farmeri, rasprodato, $200K+, senzori), 11 |
+| 2 | Unique insight / advantage | 3 (lanac krije farmera i uzima cenu), 6 (biramo i proveravamo, ne launchpad), 10 |
 | 3 | Product quality and execution speed | 4 i 7 (farma finansirana za 27 sati); platforma je C, posteno (5, A1) |
 | 4 | TAM | 8 (med bottom-up), druge farme bez brojke |
 | 5 | Clarity of founder communication | jedna recenica po slajdu |
-| 6 | Business viability | A2 (tri izvora, jedan procenat), 5 |
+| 6 | Business viability | 9 (tri izvora, jedan procenat), 5 |
 | 7 | Traction | 1, 7, 6 ($200K+ pre rejza) |
 
 Pravila (PDF): (a) funkcionalnost i (e) open source zavise od demo videa i
-repoa, ne od decka (open-questions #8, #22). (c) novelty: slajd 4 i A4.
+repoa, ne od decka (open-questions #8, #22). (c) novelty: slajd 4 i 10.
 (d) UX zbog blockchaina: slajd 4 (vlasnistvo i prihod na lancu), bez vise
-od toga dok B nije poznato. (f) biznis plan: A2, A3, 9.
+od toga dok B nije poznato. (f) biznis plan: 9, A2, 11.
 
 Najslabije: 3 i 4 (platforma je buducnost, TAM je samo med). Oboje se
 popravlja samo odgovorima iz kolone B i demo videom, ne tekstom.
