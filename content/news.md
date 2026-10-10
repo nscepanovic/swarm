@@ -21,6 +21,16 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-10 · brojke rejza sa MetaDAO stranice (screenshot)
+- Nemanja je poslao screenshot HiveBits stranice na MetaDAO launchpadu, status COMPLETE.
+- potvrdjeno (pise na screenshotu): cilj $140k, ponudjeno $243k, 173%, 150 ulagaca (funders), ICO cena $0.014, FDV $181K, supply 12.9M, token $NECTAR.
+- ovim je potvrdjeno "173% oversubscribed" iz transkripta nize, koje je do sada vodjeno kao nepotvrdjeno.
+- nije potvrdjeno: Nemanja je u razgovoru rekao "$248k", na screenshotu je $243k. U tekst ide $243k. Nije receno da li screenshot sme javno.
+- materijal: nema na Drive-u (screenshot je stigao u razgovoru)
+- status: novo
+
+---
+
 ## 2026-10-09 · panel na Startitu sa Vukanom iz Jurassic-a
 - Nemanja je 08.10 bio na panelu na Startitu u Beogradu sa Vukanom (@vukan0x) iz @JurassicFi. Pricali su kako su rejzovali od zajednice preko MetaDAO i odgovarali na pitanja publike.
 - potvrdjeno: panel se desio, i HiveBits i Jurassic su rejzovali preko MetaDAO, Superteam Balkan je pomogao obojici.

@@ -126,3 +126,75 @@ Sve po Nemanjinim ispravkama od 2026-09-28 (what-it-takes.md, vrh).
 - Najslabiji: slajd 7. Skala kroz kosnice nema bottom-up brojku (fali broj
   kolonija i cena kosnice), pa TAM stoji na medu, a kosnica je dokazana
   samo jednom prodajom (nasom) plus 3Bee kao tudji dokaz modela.
+
+## v4 - 2026-10-10
+
+Fajl: `content/colosseum/Colosseum 2026 - v4 - 2026-10-10.pptx`. Pravi ga
+`infra/deck_build_v4.py` (ne cita deck.md; tekst slajdova je u skripti).
+
+Nova struktura je Nemanjina (`MY-DECK-PROPOSAL`, 09.10): opsti marketplace,
+"Buy food from trusted farmers", primer mleko u Bosni. Stil prati njegov
+Google Slides "Colosseum Deck V1 - Marketplace" (tamna pozadina, zuti
+naslovi). deck.md i pitch-video.md NISU uskladjeni sa v4.
+
+- 1-5: kopija njegovih slajdova. Izmene: slajd 4 dobio "HiveBits, about
+  $0.75 per liter" na luku i "$0.51, not $0.34" / "$0.75, not $1.09";
+  slajd 5 dobio podnaslov "Our sensors track the farm".
+- 6-11 novi: prodaja 300 kosnica, go to market, konkurencija, trziste i
+  B2B, tim, ask.
+- Nepotvrdjeno: $0.73 (procena), $0.51 i $0.75 (racunica: dostava 2x
+  nedeljno, 400 l po turi); broj pcelara u mrezi; nijedan B2B kupac;
+  sta se radi sa $250K. Ikonice su Noto Emoji (Apache 2.0), u infra/deck_icons/.
+
+Izmene istog dana, po Nemanjinim odlukama (10.10): "raised", ne "sold"
+(slajd 6 je sad "$140K raised in 27 hours", za farmu od 300 kosnica);
+novac po isporuci, zakljucan na Solani u stablecoinu (slajd 5); "trusted
+farmer" nije definisan, na slajdu pise samo "We start with farmers we
+know"; $250K izbacen, ask kaze "more farmers, and better ways to check
+them"; slajd 8 kaze da nijedan farmerski marketplace nije dobio nagradu
+(Copilot, 10.10) umesto "11 projekata".
+
+## v5 - 2026-10-10
+
+Fajl: `content/colosseum/Colosseum 2026 - v5 - 2026-10-10.pptx`, pravi ga
+`infra/deck_build_v5.py`. v4 ostaje kao fajl. deck.md i pitch-video.md
+NISU uskladjeni.
+
+Nemanjin novi ugao (10.10): najjaci adut je rejz, a marketplace ima tri
+koraka: kupovina, zakup ili kupovina unapred, ulaganje u proizvodnju.
+
+- 1: "$243K offered by 150 people in 27 hours. We asked for $140K."
+  (brojke sa MetaDAO stranice, news.md 10.10). "The first community owned
+  farm" su Nemanjine reci, "first" nije provereno.
+- 2-4: njegovi slajdovi; "Buy food from trusted farmers." je sad naslov
+  slajda 4.
+- 5: tri koraka, treci nosi "We did this first".
+- 6: zasto verovati farmi (zajednica je vlasnik, senzor, novac zakljucan
+  na Solani u stablecoinu do isporuke).
+- 7: drugi korak GTM-a je druga farma finansirana preko nas.
+- 9: zarada (naknada pri finansiranju farme + 5% od prodaje), $103K
+  ponudjeno a neprimljeno, B2B.
+- 10: tim i ask zajedno.
+- Pretpostavke koje Nemanja nije potvrdio: naknada pri finansiranju farme
+  (bez procenta), "funded the same way we funded ours", "the community
+  owns the farm". Cene mleka $0.73, $0.51, $0.75 su i dalje procena.
+- Eduardo Rigon izbacen sa slajda o timu u v4 i v5 (Nemanja, 10.10: nije deo tima).
+
+## v6 - 2026-10-10
+
+Fajl: `content/colosseum/Colosseum 2026 - v6 - 2026-10-10.pptx`, pravi ga
+`infra/deck_build_v6.py`. v5 ostaje. Nemanja je trazio da deck prati dva
+teksta: Kevin Hale (YC), "How to design a better pitch deck", i
+"Nail your startup pitch: use Pixar's story structure".
+
+- YC: jedna ideja po slajdu, ideja pise kao recenica u naslovu na vrhu,
+  krupan bold tekst, bez sitnih sivih redova i fusnota. Izvori i ograde
+  su u beleskama. 9 slajdova za video plus dodatak od 3.
+- Pixar: 2 Once upon a time (Do you know what you eat?), 3 And every day
+  (farmer dobija trecinu), 4-5 Until one day (resenje i tri koraka),
+  6 because of that (zasto je bolje), 7 because of that (traction),
+  8 Until finally (trziste, $839M x 5% = $42M).
+- Rejz je i na naslovnom (pitch iz snage) i kao korak 5; Pixar ga stavlja
+  samo na 5.
+- Sa slajda 3 skinuta srednja cena $0.73 (procena). Na slajdu 4 cene nose
+  "about". GTM, konkurencija i zarada su u dodatku.

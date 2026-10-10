@@ -1,0 +1,103 @@
+1. slajd: - one liner
+
+buy/get food directly from trusted source
+
+2. slajd: kontekst
+
+"safe food -> prvi tekst i kazem da li ste culi za termin "safe food"
+
+i onda se pojavlju levo i desno
+
+"Conventional food" i "Organic food" i reterociko pitanje da li znate sta jedete
+
+3. slajd problem:
+
+every day farmers(mozda da kazem zeljo) produce a food - levo grafika farmera
+
+food companyes byus it under price  - strelica pa sliak mlekarse kompanjie
+
+food companies sell proceesd food to markets/shops/retais hops - strelica pa retail ikonica
+
+onda pircam ja: on this way farmers get pnots end customer get processed convetional food
+
+in honey case 6 of 10 jars in retalis is fake honey
+
+4. slajd resenje:
+
+grafika kao gore samo prekizeni food comanies i reatils tores, ide jedna polukruzna linija ispod koja spaja famera sa.
+
+ide narativ: u moderno doba ljudi znaju da je hrana od farmera bolje ali ne znaju kako da nadju puzdanoh faremta i oducuju se za markete, hivebits resava taj problem
+
+5. slajd how it works
+
+na nasu platformu onborudjemo pouzdane famere, kupic mogu da kupe proizvod ili da zakupe konsicu, kravu....
+
+iznos se stejkuje na platofrim i otpusta se farmerima kad dostave hranu.
+
+u ovom slucaju famreri mogu tacno da planiraju kad dostavljaju i koje kolicine bez rizika od otakzivanja.
+---
+ne znam kava grafika bi bila
+
+6. slajd team
+
+we are team of 2 beekepers and eniges and we sucusfly sold 300 smart beehies on metada and raised $140k for it
+
+[CLAUDE] 7. slajd go to market  (predlog od Claude-a, 2026-10-09)
+
+na slajdu tri koraka:
+
+1. Our own hives. 300 smart hives, funded in 27 hours.
+2. Beekeepers we know. Brazil, Texas, Montreal, Croatia.
+3. Other farmers.
+
+narativ:
+
+We start with what we know. Our own farm with 300 smart hives is funded.
+Next are beekeepers from our network. They sell their hives on the same platform.
+When this works for hives, we bring other farmers.
+
+FALI: koliko pcelara je izricito reklo da. bez toga je korak 2 samo spisak zemalja.
+
+[CLAUDE] 8. slajd konkurencija  (predlog od Claude-a, 2026-10-09)
+
+na slajdu dve kolone, levo Others, desno HiveBits:
+
+Others: Farm marketplaces entered Colosseum many times. None won a prize.
+HiveBits: We have our own farm and our own hardware.
+
+Others: CrowdFarming takes 16 to 32 percent.
+HiveBits: We take 5 percent.
+
+Others: 3Bee, Pollenity, Honeyverse sell only their own hives, off chain.
+HiveBits: Any farmer can sell. The payment is on Solana.
+
+narativ:
+
+Many teams tried a farm marketplace here. None of them is alive. They were all software with no farmer behind it.
+We are farmers. We have our hives and our sensors, and people already backed us.
+
+NAPOMENA: ovo je najvazniji od tri. opsti marketplace za farmere je kategorija koja je na Colosseum-u propala svaki put, pa odgovor mora da stoji na slajdu pre nego sto ziri pita.
+izvor: content/colosseum/competition.md (provereno 23.09 i 24.09), CrowdFarming 16-32% iz market.md.
+
+9. treba da bude slajd koliki maket cemo da zahvatimo, to jos nemam
+
+[CLAUDE] predlog za 9: B2B i trziste na jednom slajdu  (predlog od Claude-a, 2026-10-09)
+
+na slajdu:
+
+Today: farmer to customer.
+Next: the same farmers sell to shops and restaurants.
+AgriDex does this on Solana in bulk. $9M+ in trades, $5M raised.
+Agriculture is a $2.7T market.
+
+narativ:
+
+Today the farmer sells to one customer. Tomorrow the same farmer sells to a shop or a restaurant, with the same proof.
+AgriDex already does farm trade on Solana. They start from bulk. We start from the farm.
+
+FALI:
+- nijedan poslovni kupac (prodavnica, restoran, uvoznik) sa kojim je bio razgovor. bez toga je B2B samo plan.
+- trziste odozdo. $2.7T je cela svetska poljoprivreda. za med imamo $839M godisnje u SAD, za hranu direktno od farmera nemamo nista.
+izvor: The Defiant (AgriDex $9M+, $2.7T), CoinDesk 29.10.2024 (AgriDex $5M).
+
+[CLAUDE] sta jos fali u decku: ask (poslednji slajd), i recenica zasto Solana (predlog: u slajd 5, kroz zakljucan novac).
