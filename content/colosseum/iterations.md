@@ -241,3 +241,15 @@ farma je prvi slucaj.
 - Najslabiji: slajd 8. Prica je o vlasnistvu nad proizvodnjom, a jedina
   brojka trzista je med. Druga slabost: korak 2 i 3 na slajdu 5 nemaju
   nijednu transakciju.
+
+Izmene istog dana, po Nemanjinim ispravkama (10.10, posle prve v7):
+- Slajd 3 naslov nosi obe strane: "You never see the farmer. And he does
+  not set his price." (zatvara skok sa slajda 2 na 3).
+- Slajd 4: "Anyone can invest in a farm and own it." Mi ne prodajemo
+  vlasnicima, oni su vlasnici; prihod farme ide njima na lancu; "they know
+  what they eat because they own the farm". Ideja od prvog dana: bilo ko
+  moze da ulozi u proizvodnju hrane.
+- Slajd 6: senzori su samo nasa farma (za druge ne znamo kako), pa nisu
+  obecanje platforme; "novac zakljucan do isporuke" nema smisla za
+  ulaganje, skinuto sa slajda, u A1 samo za rentanje i kupovinu. Umesto
+  toga: vlasnistvo i prihod na Solani, otvoreno svima (post 07.09).

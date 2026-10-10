@@ -84,13 +84,13 @@ tb(s,4.72,3.3,3.9,1.6,'Safe food',32,Y,True)
 tb(s,8.63,3.3,3.9,1.6,'Organic food',32,W,True)
 
 # 3 and every day
-s=slide('[And every day]\n\nTake milk in Bosnia. You pay $1.09 for a liter. The farmer gets $0.34.\n\n'
+s=slide('[And every day]\n\nBetween you and the farmer there are two companies. You never see him. Take milk in Bosnia. You pay $1.09 for a liter. The farmer gets $0.34.\n\n'
         'He does not set his price. The dairy sets it, because the dairy is the only one who pays him. '
         'When cheap milk comes from import, the dairy pays him less. This year his price went down 25 percent, and he has nobody else to sell to.\n\n'
         'IZVOR: otkupna cena Viteski.ba 29.09.2026 ($0.34, pad 25%), cena na polici 072info 29.07.2026 ($1.09). Dva izvora, dva datuma. '
         'Sirovo mleko naspram preradjenog na polici: deo razlike je prerada i dostava, zato se govori "od $1.09 farmeru stigne $0.34", ne "mlekara uzima dve trecine". '
         'Srednja cena ($0.73) je nasa procena i nije na slajdu.')
-head1(s,'The farmer does not set his price. The one who pays him does.',34)
+head1(s,'You never see the farmer. And he does not set his price.',34)
 Y3=2.3
 chain(s,Y3)
 tb(s,NODES[0][0]-1.4,Y3+1.9,2.8,0.7,'$0.34',34,Y,True)
@@ -99,12 +99,12 @@ tb(s,3.2,Y3+2.0,6.9,0.6,'one liter of milk in Bosnia',22,W,False)
 tb(s,0.8,5.9,11.7,0.8,[('His price is ',W),('25% lower',R),(' than last year.',W)],28,W,True)
 
 # 4 until one day: solution
-s=slide('[Until one day]\n\nWe did it the other way. We did not go to a dairy or a bank. We asked people to fund our farm and own it.\n\n'
-        '150 people did. They own the farm with 300 smart hives, and the farm sells to them directly. Nobody in the middle sets the price.\n\n'
-        'HiveBits is the platform that does this for other farms too.\n\n'
+s=slide('[Until one day]\n\nWe did it the other way. We did not go to a dairy or a bank. We let anyone invest in our farm and own it.\n\n'
+        '150 people did. They own the farm with 300 smart hives. What the farm makes goes to them, on Solana. They know exactly what they eat, because they own the farm.\n\n'
+        'HiveBits lets anyone do this with other farms. That was the idea from day one: anyone can invest in food production.\n\n'
         'IZVOR: 300 kosnica, $140K, MetaDAO: javni postovi @hivebits_io 07.09 i 08.09.2026; 150 ulagaca: screenshot MetaDAO (news.md 10.10). '
-        '"They own the farm": Nemanjine reci (10.10); prihod ide u trezor vlasnika tokena (post 07.09).')
-head1(s,'People fund the farm and own it. The farmer sells to them.',34)
+        '"They own the farm" i "oni su vlasnici, mi im ne prodajemo": Nemanja 10.10; prihod ide u trezor vlasnika tokena na lancu (javni post @hivebits_io 07.09).')
+head1(s,'Anyone can invest in a farm and own it.',38)
 Y4=2.1
 chain(s,Y4); xs(s,Y4)
 x1,x2,y0,depth=NODES[0][0],NODES[3][0],Y4+2.55,1.3
@@ -133,14 +133,15 @@ big(s,5.9,'We did step 1 first, with our own farm.',28,Y)
 # 6 and because of that: why trust
 s=slide('[And because of that]\n\nWhy would you trust a farm you never saw?\n\n'
         'First, we check the farm and license it. We are farmers, we know what to look for. We do not just collect the money.\n\n'
-        'Second, the farm has sensors. On our farm every hive has one. We track the weight, the temperature and the humidity, and you see it live.\n\n'
-        'Third, your money is locked on Solana, in stablecoins. The farmer gets it when he delivers.\n\n'
-        'IZVOR: provera i licenciranje farmi: Nemanja 10.10 ("ne samo da se prikuplja novac"). Senzori: x.com/hivebits_io/status/2096269121751220404. '
-        'Novac zakljucan do isporuke: Nemanja 10.10.')
-head1(s,'We check the farm. Sensors watch it. Solana holds the money.',34)
+        'Second, the ownership and the money are on Solana. Everyone can see who owns the farm and where the revenue goes.\n\n'
+        'On our own farm we go one step further. Every hive has a sensor, and you see the weight, the temperature and the humidity live.\n\n'
+        'IZVOR: provera i licenciranje farmi: Nemanja 10.10 ("ne samo da se prikuplja novac"). Vlasnistvo i prihod na lancu: javni post @hivebits_io 07.09 (onchain-governed, tokenholder-owned treasury). '
+        'Senzori samo za nasu farmu (Nemanja 10.10: za druge farme ne znamo kako): x.com/hivebits_io/status/2096269121751220404. '
+        'Novac zakljucan do isporuke vazi samo za rentanje i kupovinu, ne za ulaganje (Nemanja 10.10), zato nije na slajdu; ide u dodatak A1.')
+head1(s,'We check the farm. Solana shows who owns it and where the money goes.',32)
 big(s,2.5,'We check and license every farm.',34)
-big(s,3.7,'Sensors show you the farm live.',34)
-big(s,4.9,'Your money is locked on Solana until delivery.',34)
+big(s,3.7,'Ownership and revenue are on Solana.',34)
+big(s,4.9,'Our farm goes further: every hive has a live sensor.',34)
 
 # 7 and because of that: traction
 s=slide('[And because of that]\n\nWe asked for $140K to build a farm with 300 smart hives. In 27 hours, 150 people offered $243K.\n\n'
@@ -179,6 +180,7 @@ tb(s,0.8,3.0,11.7,1.2,'Appendix',54,W,True,Lf)
 
 # A1 how we earn
 s=slide('We earn in three places. A fee when a farm is funded. A share of every rental. And 5 percent of every sale.\n\n'
+        'For renting and buying, the money is locked on Solana in stablecoins until the farmer delivers.\n\n'
         'IZVOR: 5% od prodaje: Nemanja 24.09. Naknada pri finansiranju i deo od rentanja: Nemanja 10.10, bez procenta (open-questions #39, #40).')
 head1(s,'We earn when a farm is funded, rented, or sells.')
 big(s,2.5,'A fee when a farm is funded.',34)

@@ -33,16 +33,23 @@ Pixar (startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars).
 Dizajn: tamna pozadina, zuti naslovi, po Nemanjinom Google Slides decku
 "Colosseum Deck V1 - Marketplace". 9 slajdova za video, dodatak od 3.
 
-**Pixar tok:** kupac ne zna sta jede (2) -> farmer ne bira cenu, bira je
-onaj ko ga placa (3) -> ljudi finansiraju farmu i poseduju je, farmer
-prodaje njima (4), na platformi u tri koraka (5) -> zasto verovati farmi:
-provera, senzori, Solana (6) -> dokaz: 150 ljudi, $243K, 27 sati, $103K
-bez farme (7) -> med, mleko, sve sto proizvodi (8).
+**Pixar tok:** kupac ne zna sta jede (2) -> lanac krije farmera i uzima
+mu cenu (3) -> bilo ko moze da ulozi u farmu i poseduje je, vlasnici znaju
+sta jedu jer je farma njihova (4), na platformi u tri koraka (5) -> zasto
+verovati farmi: provera i licenca, vlasnistvo i prihod na lancu, kod nas i
+senzori (6) -> dokaz: 150 ljudi, $243K, 27 sati, $103K bez farme (7) ->
+med, mleko, sve sto proizvodi (8).
 
-Par mana i odgovora: cena koju odredjuje otkupljivac (3) -> kupac placa
-direktno, bez posrednika (4, 5); novac stize posle isporuke i po tudjoj
-ceni (3) -> novac zakljucan na Solani, farmer ga dobija pri isporuci (6);
-kupac ne zna sta jede (2) -> provera farme i senzori (6).
+Par mana i odgovora: kupac nikad ne vidi farmera (3) -> vlasnik farme zna
+sta jede (4); cenu odredjuje otkupljivac (3) -> nema otkupljivaca, prihod
+ide vlasnicima (4); kome verovati (2) -> provera farme i lanac (6).
+
+**Ispravke od Nemanje posle prve verzije v7 (10.10):** (a) mi ne prodajemo
+vlasnicima, oni su vlasnici farme; ideja HiveBits-a od pocetka je da bilo
+ko moze da ulozi u proizvodnju meda ili hrane. (b) Senzore ima nasa farma;
+za druge farme ne znamo kako ce to ici, pa senzori nisu obecanje platforme.
+(c) Novac zakljucan do isporuke nema smisla za ulaganje, vazi samo za
+rentanje i kupovinu; skinuto sa slajda 6, u dodatku A1.
 
 Sto NE pise nigde: "pre-seed raised" kao glavna poruka, CrowdFarming i
 slicni kao konkurencija (Nemanja 10.10: ne idu na slajd), $250K, rokovi,
@@ -91,16 +98,17 @@ Conventional food and organic food. Do you know what you eat?"
 
 ---
 
-## 3. And every day: the farmer does not set his price
+## 3. And every day: you never see the farmer
 
 **Na slajdu**
-- The farmer does not set his price. The one who pays him does.
+- You never see the farmer. And he does not set his price.
 - Farmer $0.34 -> Food company -> Store -> Customer $1.09
 - one liter of milk in Bosnia
 - His price is 25% lower than last year.
 
 **Nemanja govori**
-"Take milk in Bosnia. You pay one dollar and nine cents for a liter. The
+"Between you and the farmer there are two companies. You never see him.
+Take milk in Bosnia. You pay one dollar and nine cents for a liter. The
 farmer gets 34 cents. He does not set his price. The dairy sets it, because
 the dairy is the only one who pays him. When cheap milk comes from import,
 the dairy pays him less. This year his price went down 25 percent, and he
@@ -114,31 +122,35 @@ has nobody else to sell to."
   prerada, pakovanje i dostava. Zato se govori "od $1.09 farmeru stigne
   $0.34", ne "mlekara uzima dve trecine". Srednja cena ($0.73) je nasa
   procena i skinuta je sa slajda u v6.
-- Poenta slajda u v7 nije kupac nego farmer: cenu odredjuje onaj ko ga
-  finansira i otkupljuje. To vodi direktno u slajd 4.
+- Slajd nosi obe strane problema u jednoj slici lanca: kupac ne vidi
+  farmera (odgovor na pitanje sa slajda 2), farmer ne bira cenu. Slajd 4
+  resava oboje.
 
 ---
 
-## 4. Until one day: people fund the farm and own it
+## 4. Until one day: anyone can invest in a farm and own it
 
 **Na slajdu**
-- People fund the farm and own it. The farmer sells to them.
+- Anyone can invest in a farm and own it.
 - Lanac Farmer -> Food company -> Store -> Customer precrtan (X), ispod luk
   "HiveBits" od farmera do kupca
 - We did this with our own farm first.
 
 **Nemanja govori**
-"We did it the other way. We did not go to a dairy or a bank. We asked
-people to fund our farm and own it. 150 people did. They own the farm with
-300 smart hives, and the farm sells to them directly. Nobody in the middle
-sets the price. HiveBits is the platform that does this for other farms
-too."
+"We did it the other way. We did not go to a dairy or a bank. We let
+anyone invest in our farm and own it. 150 people did. They own the farm
+with 300 smart hives. What the farm makes goes to them, on Solana. They
+know exactly what they eat, because they own the farm. HiveBits lets
+anyone do this with other farms. That was the idea from day one: anyone
+can invest in food production."
 
 **Izvori**
 - 300 kosnica, $140K, MetaDAO: javni postovi @hivebits_io 07.09 i
   08.09.2026. 150 ulagaca: screenshot MetaDAO (news.md 10.10).
-- "They own the farm": Nemanjine reci (10.10). Javni post od 07.09: prihod
-  ide u trezor kojim upravljaju vlasnici tokena. Ako zuri pita "token ili
+- "They own the farm", "mi im ne prodajemo, oni su vlasnici", "ideja je
+  bila dozvoliti bilo kome da investira u proizvodnju meda/hrane": Nemanja
+  10.10. Javni post od 07.09: prihod ide u trezor kojim upravljaju vlasnici
+  tokena. Ako zuri pita "token ili
   farma": 150 ljudi je kupilo $NECTAR na MetaDAO, prihod farme ide u trezor
   kojim oni upravljaju.
 
@@ -172,27 +184,32 @@ the product, like in any shop."
 ## 6. And because of that: why trust the farm
 
 **Na slajdu**
-- We check the farm. Sensors watch it. Solana holds the money.
+- We check the farm. Solana shows who owns it and where the money goes.
 - We check and license every farm.
-- Sensors show you the farm live.
-- Your money is locked on Solana until delivery.
+- Ownership and revenue are on Solana.
+- Our farm goes further: every hive has a live sensor.
 
 **Nemanja govori**
 "Why would you trust a farm you never saw? First, we check the farm and
 license it. We are farmers, we know what to look for. We do not just
-collect the money. Second, the farm has sensors. On our farm every hive has
-one. We track the weight, the temperature and the humidity, and you see it
-live. Third, your money is locked on Solana, in stablecoins. The farmer
-gets it when he delivers."
+collect the money. Second, the ownership and the money are on Solana.
+Everyone can see who owns the farm and where the revenue goes. On our own
+farm we go one step further. Every hive has a sensor, and you see the
+weight, the temperature and the humidity live."
 
 **Izvori**
 - Provera i licenciranje farmi kao posao platforme: Nemanja 10.10 ("ne
   samo da se prikuplja novac"). Ovo je i odgovor na pitanje "sta radite vi,
   a sta MetaDAO": launchpad su sine, mi smo farmer, provera, senzor i
   isporuka.
-- Senzori na svakoj kosnici: https://x.com/hivebits_io/status/2096269121751220404.
-  Tezina, temperatura, vlaga: Nemanjini transkripti (CLAUDE.md).
-- Novac zakljucan u stablecoinu do isporuke: Nemanja 10.10.
+- Vlasnistvo i prihod na lancu: javni post @hivebits_io 07.09 ("onchain-
+  governed, tokenholder-owned treasury").
+- Senzori samo na nasoj farmi (Nemanja 10.10: za druge farme ne znamo kako
+  ce to ici, pa nije obecanje platforme):
+  https://x.com/hivebits_io/status/2096269121751220404. Tezina,
+  temperatura, vlaga: Nemanjini transkripti (CLAUDE.md).
+- Novac zakljucan u stablecoinu do isporuke vazi samo za rentanje i
+  kupovinu, ne za ulaganje (Nemanja 10.10). Skinuto sa slajda, u A1.
 - Kako tacno izgleda provera i licenca (sta se proverava, ko izdaje): nije
   receno, na slajdu je samo princip (open-questions #42).
 
@@ -275,6 +292,10 @@ ours, and better ways to check the farms we bring."
 - We earn when a farm is funded, rented, or sells.
 - A fee when a farm is funded. | A share of every rental. | 5% of every sale.
 
+Govor, ako pitaju: za rentanje i kupovinu novac stoji zakljucan na
+Solani u stablecoinu dok farmer ne isporuci (Nemanja 10.10; ne vazi za
+ulaganje).
+
 Izvori: 5% od prodaje: Nemanja 24.09. Naknada pri finansiranju i deo od
 rentanja: Nemanja 10.10, bez procenta (open-questions #39, #40).
 
@@ -306,8 +327,8 @@ ne pominju (Nemanja 10.10).
 | # | Kriterijum | Slajd |
 |---|---|---|
 | 1 | Founder and market fit | 1 (poceli kao farma), 6 (mi smo farmeri, znamo sta proveravamo), 9 |
-| 2 | Unique insight / advantage | 3 (cenu odredjuje ko placa), 4, 6 (provera + senzori + Solana), A3 |
-| 3 | Product quality and execution speed | 4, 7 (farma finansirana za 27 sati), 6 (senzori rade) |
+| 2 | Unique insight / advantage | 3 (lanac krije farmera i uzima mu cenu), 4, 6 (provera + lanac), A3 |
+| 3 | Product quality and execution speed | 4, 7 (farma finansirana za 27 sati), 6 (senzori na nasoj farmi) |
 | 4 | TAM | 8 (med bottom-up), sirina u jednoj recenici |
 | 5 | Clarity of founder communication | ceo deck, jedna recenica po slajdu |
 | 6 | Business viability | A1 (tri izvora zarade), 5 |

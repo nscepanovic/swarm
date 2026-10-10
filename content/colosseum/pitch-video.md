@@ -34,7 +34,8 @@ Do you know what you eat?"
 
 ## 0:35-1:00 And every day (slajd 3)
 
-"Take milk in Bosnia. You pay one dollar and nine cents for a liter. The
+"Between you and the farmer there are two companies. You never see him.
+Take milk in Bosnia. You pay one dollar and nine cents for a liter. The
 farmer gets 34 cents.
 He does not set his price. The dairy sets it, because the dairy is the
 only one who pays him.
@@ -43,11 +44,13 @@ price went down 25 percent, and he has nobody else to sell to."
 
 ## 1:00-1:35 Until one day (slajdovi 4 i 5)
 
-"We did it the other way. We did not go to a dairy or a bank. We asked
-people to fund our farm and own it.
-150 people did. They own the farm with 300 smart hives, and the farm sells
-to them directly. Nobody in the middle sets the price.
-HiveBits is the platform that does this for other farms too.
+"We did it the other way. We did not go to a dairy or a bank. We let
+anyone invest in our farm and own it.
+150 people did. They own the farm with 300 smart hives. What the farm
+makes goes to them, on Solana. They know exactly what they eat, because
+they own the farm.
+HiveBits lets anyone do this with other farms. That was the idea from day
+one: anyone can invest in food production.
 On HiveBits you pay the farmer directly, in three ways. You invest in the
 farm and own a part of it. That is what 150 people did with ours. You rent
 a hive or a cow for a season, and you get what it makes. Or you simply buy
@@ -58,10 +61,10 @@ the product, like in any shop."
 "Why would you trust a farm you never saw?
 First, we check the farm and license it. We are farmers, we know what to
 look for. We do not just collect the money.
-Second, the farm has sensors. On our farm every hive has one. We track the
-weight, the temperature and the humidity, and you see it live.
-Third, your money is locked on Solana, in stablecoins. The farmer gets it
-when he delivers."
+Second, the ownership and the money are on Solana. Everyone can see who
+owns the farm and where the revenue goes.
+On our own farm we go one step further. Every hive has a sensor, and you
+see the weight, the temperature and the humidity live."
 
 ## 2:00-2:15 And because of that: traction (slajd 7)
 
