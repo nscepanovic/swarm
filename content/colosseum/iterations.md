@@ -198,3 +198,46 @@ teksta: Kevin Hale (YC), "How to design a better pitch deck", i
   samo na 5.
 - Sa slajda 3 skinuta srednja cena $0.73 (procena). Na slajdu 4 cene nose
   "about". GTM, konkurencija i zarada su u dodatku.
+
+## v7 - 2026-10-10
+
+Fajl: `content/colosseum/Colosseum 2026 - v7 - 2026-10-10.pptx`, pravi ga
+`infra/deck_build_v7.py`. `deck.md` i `pitch-video.md` su ponovo
+uskladjeni (prvi put od v3). v6 ostaje kao fajl.
+
+Nemanjin pivot (10.10): "we started as a community owned farm but we found
+a way to expand". Najjaci adut je da smo ubedili ljude da uloze. Platforma:
+(1) isto to za druge farme, uz proveru i licenciranje farmi, ne samo
+skupljanje novca; (2) rentanje kosnice, krave i slicnog sa farmi koje
+onbordujemo, farma ne mora da bude finansirana preko nas; (3) prodaja
+pojedinacnih proizvoda. U sustini zajednicko vlasnistvo nad proizvodnjom,
+farma je prvi slucaj.
+
+- 1: cover po Nemanji ("cover je ok"): "We started as the first community
+  owned farm. We found a way to repeat it. 150 people offered $243K in 27
+  hours."
+- 3: isti primer mleka, nova poenta: "The farmer does not set his price.
+  The one who pays him does." To vezuje mleko za rejz bez novog slajda.
+- 4: resenje je nacin na koji smo finansirali nasu farmu: ljudi je
+  finansiraju i poseduju, farmer prodaje njima. Platforma to ponavlja.
+- 5: tri koraka u Nemanjinom redosledu: own, rent, buy. "We did step 1
+  first." (v6 je imao buy, rent, invest.)
+- 6: zasto verovati farmi: provera i licenca (novo, Nemanjin odgovor na
+  "sta radite vi, a sta MetaDAO"), senzori, Solana drzi novac.
+- 7: traction dobio "$103K had no farm to go to. Yet." (iz v5 beleski na
+  slajd): dokaz traznje za platformom, ne samo za nasom farmom.
+- 8: "Honey first. Then milk. Then anything that produces." Med bottom-up
+  ostaje jedina brojka; sirina je jedna recenica, bez nabrajanja.
+- 9: ask je druga farma (Nemanja 10.10: razgovora ni sa kim nije bilo).
+  $250K nema.
+- Dodatak: zarada u tri mesta (naknada pri finansiranju, deo od rentanja,
+  5% od prodaje), GTM sa "any farm can join for renting and buying",
+  konkurencija bez CrowdFarminga (Nemanja: ne idu na slajd).
+- Nepotvrdjeno i bez brojke: naknada pri finansiranju (#39), deo od
+  rentanja (#40), "first community owned farm" (#41), sta tacno znaci
+  provera i licenca (#42). Cene mleka $0.34 i $1.09 su iz dva izvora i dva
+  datuma, sirovo naspram preradjenog; beleska na slajdu 3 kaze kako se to
+  izgovara.
+- Najslabiji: slajd 8. Prica je o vlasnistvu nad proizvodnjom, a jedina
+  brojka trzista je med. Druga slabost: korak 2 i 3 na slajdu 5 nemaju
+  nijednu transakciju.

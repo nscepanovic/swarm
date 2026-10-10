@@ -1,4 +1,4 @@
-# Treba od Nemanje (v3, 2026-09-28)
+# Treba od Nemanje (v7, 2026-10-10)
 
 Svako pitanje ima odgovor u jednoj recenici. Dok nema odgovora, na slajdu
 stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
@@ -41,6 +41,29 @@ stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
     demo)
 27. Koja kosnica se snima za demo: sa nase farme, tvoj pcelinjak, ili
     pcelar koji je pristao?
+
+## Novo u v7 (zajednicko vlasnistvo, 10.10)
+
+39. Kolika je naknada kad se farma finansira preko platforme (procenat
+    ili iznos)? Do tada na slajdu A1 pise samo "a fee when a farm is
+    funded".
+40. Koliki deo od rentanja kosnice ili krave uzima platforma? Do tada "a
+    share of every rental".
+41. "The first community owned farm" je na coveru kao tvoja rec. Da li
+    "first" ostaje, i u kom smislu (prva na Solani, prva na MetaDAO, prva
+    uopste)? Ako zuri pita, treba jedna recenica.
+42. Sta tacno znaci "we check and license every farm": sta se proverava
+    (registracija, obilazak, senzori, uzorci) i ko izdaje licencu (mi ili
+    drzavni registar)? Na slajdu 6 je samo princip.
+43. Da li 150 ljudi "poseduje farmu" sme tako da se kaze na slajdu, ili
+    je tacnije "poseduju token cija blagajna dobija prihod farme"? Slajd 4
+    i 7 kazu "own the farm".
+
+## Za researcher-a
+
+R3. Da li postoji brojka sa primarnim izvorom za trziste zajednickog
+    finansiranja ili vlasnistva nad farmama (crowdfunding farmi, adopt-a-
+    hive, rentanje stoke), US ili EU? Bez nje slajd 8 ima TAM samo za med.
 
 ## Novo u v3 (kosnica kao proizvod)
 
@@ -104,6 +127,21 @@ R2. Da li 3Bee, Honeyverse ili iko drugi prodaje kosnice sa zapisom na
 
 ## Reseno (trag)
 
+- 11 i 37 (10.10): nije bilo razgovora ni sa jednom drugom farmom ni B2B
+  kupcem. Druga farma je ask (slajd 9), ne traction.
+- 12 i 13 (10.10): tim za prijavu su Nemanja i Sinisa. Eduardo nije deo
+  tima i nije na slajdu.
+- 14 (10.10): $250K se ne pominje u decku. Ask: druga farma i bolja
+  provera farmi.
+- 38 (10.10): 173% i 150 ulagaca potvrdjeni screenshotom MetaDAO stranice
+  (news.md 10.10). Na slajdu: $243K, 150 ljudi.
+- $140K (10.10): ponovo se predstavlja kao finansiranje farme od strane
+  zajednice ("raised", ne "sold"), jer je pitch sad zajednicko vlasnistvo.
+- 31-36 (10.10): v3 pitanja o kosnici kao proizvodu vise nisu na slajdu
+  (deck v7 je o vlasnistvu nad farmom, ne o prodaji kosnica). Ostaju u
+  tragu.
+- CrowdFarming, Steward, FarmTogether (10.10): ne idu na slajd kao
+  konkurencija (Nemanja).
 - 29 (28.09): recenica kategorije je Nemanjina, doslovno: "HiveBits: the
   platform where beekeepers sell hives, not honey. We sold the first 300
   in 27 hours." Na coveru i u prvoj recenici govora.

@@ -1,118 +1,93 @@
-# Pitch video - scenario v3 (2026-09-28)
+# Pitch video - scenario v7 (2026-10-10)
 
-INTERNO. Prati `deck.md` v3 i istih sest Pixar koraka. Placeholderi su isti
-kao u decku; izgovaraju se samo kad ih Nemanja potvrdi.
+INTERNO. Prati `deck.md` v7 i istih sest Pixar koraka. Ograde iz beleski se
+ne izgovaraju.
 
 Duzina: **2 do 3 minuta** (colosseum.com/hackathon, hackathon.md). Ovaj
-scenario je oko 2:45 normalnim tempom. Ako je preko 3:00, prvo se skracuje
-korak 6, pa korak 2.
+scenario je oko 2:30 normalnim tempom. Ako je preko 3:00, prvo se skracuje
+korak 6 (trziste), pa korak 2.
 
-Otvaranje: recenica kategorije, pa odmah Nemanjino pitanje o zdravstveno
-ispravnoj hrani ("health-safe food"). Frontier pitch
-(https://youtu.be/denQhkGyNjs) je bio o farmi; ovaj je o platformi na
-kojoj je farma prvi prodat proizvod.
+Otvaranje: ko smo i sta smo uradili (iz snage), pa Nemanjino pitanje o
+zdravstveno ispravnoj hrani. Frontier pitch (https://youtu.be/denQhkGyNjs)
+je bio o farmi; ovaj je o platformi koja ponavlja ono sto je farma vec
+uradila.
 
 Format: Nemanja u kadru, pa slajdovi. Kadrovi sa farme (kosnice, senzor)
 preko glasa samo ako postoje na Drive-u i zavedeni su u
-`materials/index.md`. Demo je poseban video (`demo-video.md`); ovde najvise
-10 sekundi zive kosnice na ekranu.
+`materials/index.md`. Demo je poseban video (`demo-video.md`).
 
 ---
 
-## 0:00-0:15 Cover: ko smo (slajd 1)
+## 0:00-0:15 Cover (slajd 1)
 
 "Hi, I am Nemanja, and we are HiveBits.
-HiveBits is the platform where beekeepers sell hives, not honey. We sold
-the first 300 in 27 hours.
-140 thousand dollars on MetaDAO, oversubscribed. Every hive has a sensor,
-an identity and a record on Solana. We are beekeepers, and now we open
-that sale to every beekeeper."
+We started as the first community owned farm. We asked for 140 thousand
+dollars, and in 27 hours 150 people offered 243 thousand.
+Now we found a way to repeat that for other farms."
 
-Kadar: Nemanja u kameru, idealno kod kosnica. Na ekranu recenica
-kategorije. Kriterijumi 1 (founder fit) i 7 (traction) u prvih 15 sekundi.
+## 0:15-0:35 Once upon a time (slajd 2)
 
-## 0:15-0:40 Korak 1, Once upon a time: problem (slajd 2)
+"Have you heard of the term safe food? It is food where you can check
+where it comes from and what is inside.
+Most people know only two kinds. Conventional food and organic food.
+Do you know what you eat?"
 
-"Have you heard the term health-safe food?
-It is food where you can check where it comes from, and what is inside.
-People buy honey because they want something natural. And they buy it
-from a label in a supermarket. In the US, 46 million households buy
-honey. Only 3% of it online.
-The EU tested imported honey at the border. Almost half of the samples
-were suspected of adulteration. Suspected, not proven.
-So the buyer pays for natural, and he does not know what he eats."
+## 0:35-1:00 And every day (slajd 3)
 
-Na ekranu: "46% suspected" i "3% online", izvor sitno.
+"Take milk in Bosnia. You pay one dollar and nine cents for a liter. The
+farmer gets 34 cents.
+He does not set his price. The dairy sets it, because the dairy is the
+only one who pays him.
+When cheap milk comes from import, the dairy pays him less. This year his
+price went down 25 percent, and he has nobody else to sell to."
 
-## 0:40-1:05 Korak 2, And every day: zasto danas ne radi (slajd 3)
+## 1:00-1:35 Until one day (slajdovi 4 i 5)
 
-"The buyer trusts the label, and nobody can check a label.
-The beekeeper gets 2 dollars 45 a pound from a packer. When he sells it
-himself, 7 dollars 15. Almost three times more.
-And the money comes last. He pays for the bees, the hives and a full
-season of work, and he gets paid after the harvest.
-He sells to people who know him, and nobody else.
-I know this, because I am that beekeeper."
+"We did it the other way. We did not go to a dairy or a bank. We asked
+people to fund our farm and own it.
+150 people did. They own the farm with 300 smart hives, and the farm sells
+to them directly. Nobody in the middle sets the price.
+HiveBits is the platform that does this for other farms too.
+On HiveBits you pay the farmer directly, in three ways. You invest in the
+farm and own a part of it. That is what 150 people did with ours. You rent
+a hive or a cow for a season, and you get what it makes. Or you simply buy
+the product, like in any shop."
 
-Na ekranu: "$2.45 vs $7.15 a pound. USDA, 2025."
-`[Nemanjina brojka iz prakse ako je ima]`
+## 1:35-2:00 And because of that: why trust (slajd 6)
 
-## 1:05-1:30 Korak 3, Until one day: resenje (slajd 4)
+"Why would you trust a farm you never saw?
+First, we check the farm and license it. We are farmers, we know what to
+look for. We do not just collect the money.
+Second, the farm has sensors. On our farm every hive has one. We track the
+weight, the temperature and the humidity, and you see it live.
+Third, your money is locked on Solana, in stablecoins. The farmer gets it
+when he delivers."
 
-"So we changed what the beekeeper sells. Not a jar at the end of the
-year. The hive, at the start.
-Every hive on HiveBits has a sensor, an identity and a record on Solana.
-Anyone can buy it. You watch it live: weight, temperature, humidity.
-You get what the hive makes, the honey or the revenue.
-The beekeeper gets the money before the season."
+## 2:00-2:15 And because of that: traction (slajd 7)
 
-Kadar: do 10 sekundi zive kosnice na ekranu (demo-video.md, deo 1), samo
-ako radi. Ako ne, slajd.
+"We asked for 140 thousand dollars to build a farm with 300 smart hives.
+In 27 hours, 150 people offered 243 thousand.
+We could take only 140. The other 103 thousand had no farm to go to.
+That is the demand for the platform. That is why we build it."
 
-## 1:30-1:50 Korak 4, And because of that: zasto bolje (slajd 5)
+## 2:15-2:35 Until finally: market (slajd 8)
 
-"Point by point.
-Trust: not a label, a live hive. The data is the proof.
-Price: the beekeeper sets his price. We take 5%.
-Money: the hive is sold before the season.
-Reach: one platform, buyers anywhere."
+"We start with honey, because that is our farm. 46 million households in
+the US buy honey. They spend 839 million dollars a year. Our 5 percent of
+that is 42 million, from honey alone.
+Milk is the same story, you saw the numbers. And the model does not care
+what the farm makes. Today it is farms. The same model works for anything
+that produces."
 
-## 1:50-2:10 Korak 5, And because of that: traction (slajd 6)
+## 2:35-2:50 Team and ask (slajd 9)
 
-"And it works. We sold 300 hives in 27 hours, oversubscribed. Before
-that, 200 thousand dollars from our hives, and we sell out every season.
-The 300 hives are being built now, with our hardware on every colony.
-Next are beekeepers in Brazil, Texas, Montreal and Croatia.
-[Prvi pcelar iz mreze, prva firma: samo ako Nemanja potvrdi.]
-We were on Colosseum twice, both times with the farm. Then we sold it
-ourselves. Now we pitch the platform."
-
-## 2:10-2:35 Korak 6, Until finally: trziste i skala (slajd 7)
-
-"It is the same hive, sold to three buyers.
-One: every next container apiary sells like the first. One container, one
-sale.
-Two: companies buy a hive with their name, live data and their own honey.
-3Bee in Italy does this with 500 brands.
-Three: beekeepers in our network sell their hives here. Their honey comes
-next, and in the US alone that is 839 million dollars a year.
-At the end, B2B trade on Solana, the AgriDex model."
-
-## 2:35-2:50 Posle koraka: Solana, ask (slajd 10 -> 12)
-
-"We already sold on Solana, so we know the rails work. Every hive has a
-record anyone can check. The beekeeper gets USDC when his hive sells.
-We want to win this and join the Colosseum accelerator.
-I am Nemanja, this is HiveBits. We sell hives, not honey."
+"We are farmers and engineers. We are here to win and to join the
+Colosseum accelerator.
+Next is the second farm, funded the way we funded ours, and better ways to
+check the farms we bring.
+Thank you."
 
 ---
 
-Napomene za snimanje
-- Nemanja govori svojim recima; tekst je okvir, ne tekst za citanje.
-- "Sold 300 hives", ne "raised" ni "ICO".
-- Nikad "built during the hackathon" ni "in two weeks".
-- Nikad "fake honey". Uvek "suspected".
-- Bez tvrdnji o lekovitosti meda.
-- Ne pominjati lokaciju farme ni rokove izgradnje.
-- Isti snimci sa terena sluze i za nedeljni jednominutni update na
-  Colosseum-u (preporucen, hackathon.md).
+Provera: svaka brojka u govoru ima izvor u `deck.md` na istom slajdu.
+Nema rokova, mesta, procenata naknade ni "$250K".
