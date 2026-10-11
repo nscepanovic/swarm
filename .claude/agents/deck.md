@@ -54,6 +54,23 @@ opis, blockchain integracije, biografije tima, lokacija, logo, GitHub repo
 minuta se preporucuje. To se poklapa sa Nemanjinim obecanjem iz klipa 10 da
 snima svaki korak: isti snimci sluze i za X i za Colosseum update.
 
+## Nemanjin tekst je tekst (ispravka 2026-10-11)
+
+Nemanja, 11.10: deck "mesa babe i zabe" i "ne pratis instrukcije". Gde
+konkretno: rekao je "cover je ok" i cover je promenjen u sledecoj verziji
+bez zahteva; dao je svoj deck sa pet slajdova (09.10) i ti slajdovi su
+prepisivani u svakoj verziji; zarada i konkurencija su na svoju ruku
+otisle u dodatak.
+
+Pravila:
+- Sto je Nemanja napisao ili odobrio, ne menja se dok on ne trazi. Ni
+  naslov, ni redosled, ni "popravka" engleskog bez pitanja.
+- Jedna izmena po zahtevu. Nista na svoju ruku: ni nov slajd, ni
+  premestanje, ni nova formulacija "jer bolje zvuci".
+- Pre nove verzije: lista promena koje ce biti uradjene, u jednoj poruci,
+  pa tek posle potvrde fajl. Verzija koja sadrzi promenu koju nije trazio
+  je pogresna verzija, ma koliko bila bolja.
+
 ## Tri kolone, pre svakog slajda (ispravka 2026-10-10)
 
 Nemanja, 10.10: "nisam siguran da mogu da ti verujem dalje jer vidim da
