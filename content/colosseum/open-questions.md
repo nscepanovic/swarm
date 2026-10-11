@@ -1,7 +1,43 @@
-# Treba od Nemanje (v9, 2026-10-11)
+# Treba od Nemanje (v10, 2026-10-11)
 
 Svako pitanje ima odgovor u jednoj recenici. Dok nema odgovora, na slajdu
 stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
+
+## Novo u v10 (drugi brief od 11.10: tri stuba, konkurencija, trziste)
+
+52. Drenio (drenio.rs): sajt je blokiran iz cloud sesije i web pretraga ne
+    nalazi nista o njemu. Na slajdu 5 stoji samo "local farmers to
+    consumers" iz tvog brief-a. Sta Drenio danas tacno nudi (samo
+    prodaja, ili i rezervacija ili pretplata)? Jedna recenica, ili link
+    koji ti vidis.
+53. Trziste (slajd 7): brojke su ukupna traznja kategorije po trzistu.
+    SAM i SOM nisu racunati jer brief kaze da se ne izmisljaju. Hoces li
+    pretpostavku za dostupan udeo (npr. koliko tegli godisnje po pcelaru
+    koga znamo, puta broj pcelara), da iz toga izvedemo SOM, ili slajd
+    ostaje "set after first sales"?
+54. Montreal: broj stanovnika CMA (4.29M, 2021) je sa sekundarnog sajta
+    koji citira Statistics Canada; broj domacinstava i maloprodajna cena
+    meda u Kanadi iz primarnog izvora nisu nadjeni. Ako imas pcelara u
+    Montrealu, njegova cena po tegli je bolji ulaz od statistike. Imas li je?
+55. Stub PARTICIPATE pise "Help fund real production", ne "own" ni
+    "invest", jer brief kaze da se prava i pravna struktura ne obecavaju.
+    Da li je "help fund" dobra rec za ono sto je 150 ljudi uradilo, ili
+    hoces drugu (backed, funded)?
+56. Stub RESERVE: "rent a hive or a cow for a season, or reserve part of a
+    future harvest". Da li je krava primer koji hoces na slajdu vec sad,
+    ili samo kosnica dok mleko ne bude bar u razgovoru?
+57. Slajd 6: Bosna je napisana jer je brief navodi kao potvrdjenu
+    cinjenicu. Potvrdi da sme na slajd i u video (CLAUDE.md pravilo o
+    mestima). Takodje: Futard screenshot dajes ti (brief).
+
+## Za researcher-a (v10)
+
+R5. Carinski i sanitarni rezim za uvoz meda u Kanadu (CFIA) i Brazil
+    (MAPA), i za slanje iz EU i Srbije ka US (FDA prior notice). Jedna
+    tabela: sta treba pcelaru da posalje teglu u svako od cetiri trzista.
+R6. Montreal CMA: broj privatnih domacinstava 2021 (StatCan Census
+    Profile, primarni) i maloprodajna cena meda u Kanadi (StatCan ili
+    AAFC). Bez toga Montreal na slajdu 7 nema vrednost.
 
 ## Novo u v9 (brief od 11.10, marketplace za pcelinje proizvode)
 

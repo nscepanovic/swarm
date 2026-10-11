@@ -325,3 +325,40 @@ farmu). v8 ostaje u istoriji.
 - Najslabiji: slajd 3 (marketplace tretiran kao postojeci, a interfejs
   nije vidjen) i slajd 6 (cetiri trzista bez brojke). Popravlja se
   odgovorima #47 i #50, ne tekstom.
+
+## v10 - 2026-10-11
+
+Fajl: `content/colosseum/Colosseum 2026 - v10 - 2026-10-11.pptx`, pravi
+ga `infra/deck_build_v10.py`. `deck.md` i `pitch-video.md` uskladjeni.
+
+Nemanja (11.10, drugi brief, "Complete Pitch Deck Creation Brief"):
+osam slajdova, tri stuba (participate, reserve, buy), obavezan slajd o
+konkurenciji sa sest imena, bottom-up trziste po cetiri trzista, sirenje
+na stoku i mleko kao vizija. Zamenjuje v9 (samo marketplace).
+
+- Naslovi po brief-u. Skraceni bez promene smisla: slajd 1 (dodat
+  podnaslov sa tri glagola), ostali doslovno.
+- Slajd 2: jedina brojka je USDA NASS 2025 ($2.45 pakeru, $7.15
+  direktno), jedna kategorija i zemlja, kako brief trazi. Mleko iz v8
+  nije koriscen (brief: bez "trecina cene" bez izvora po kategoriji).
+- Slajd 3: tri stuba sa statusom DONE ONCE / PLANNED / BUILDING. "Help
+  fund", ne "own" (#55). Krava i buduci prinos u RESERVE kao primer
+  (#56). 5% samo kod BUY.
+- Slajd 5: matrica sest konkurenata + HiveBits, pet kolona. Izvori:
+  web pretraga 11.10 (sajtovi blokirani). Drenio neproveren (#52).
+  Brojke konkurenata samo u beleskama. Ograda "as far as we found" na
+  slajdu i u govoru.
+- Slajd 6: $140K, Futard, MetaDAO, $NECTAR, Bosna (sve iz brief-a kao
+  potvrdjeno). $243K nije (brief ga ne navodi, #49).
+- Slajd 7: cetiri kartice sa bottom-up formulom. Teksas $71M (Census +
+  NielsenIQ, pretpostavka: nacionalni udeo), EU EUR 2.6-5.2B (CBI +
+  Warentest), Montreal 4,200 t bez cene, Brazil 12,000 t kao strana
+  ponude. SAM/SOM "not estimated" (#53).
+- Slajd 8: pet prioriteta, 5% kao jedino potvrdjeno pravilo, milestone
+  "repeat purchases in more than one market", tim, prijava ranijih
+  Colosseum ucesca.
+- Tabela "postoji danas / planirano" u deck.md (brief, izlaz 4).
+- Fotografije: mesta obelezena na 1, 4, 6, 8 (mreza blokira Drive,
+  futard.io, hivebits.io).
+- Najslabiji: slajd 5 (Drenio neproveren) i 7 (dva trzista bez vrednosti,
+  SAM/SOM bez brojke). Oboje posteno, brief to dozvoljava.
