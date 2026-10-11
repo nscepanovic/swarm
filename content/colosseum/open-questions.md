@@ -1,7 +1,38 @@
-# Treba od Nemanje (v8, 2026-10-10)
+# Treba od Nemanje (v9, 2026-10-11)
 
 Svako pitanje ima odgovor u jednoj recenici. Dok nema odgovora, na slajdu
 stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
+
+## Novo u v9 (brief od 11.10, marketplace za pcelinje proizvode)
+
+47. Marketplace: brief kaze da se za draft tretira kao postojeci proizvod,
+    ali i da se pravi interfejs potvrdi pre predaje. Postoji li stranica
+    koja moze da se otvori i snimi (pcelar, proizvod, kupovina)? Ako ne,
+    slajd 3 i scenario prelaze u "we are building". (slajd 3, demo)
+48. Fotografije: cloud sesija ne moze do Drive-a, futard.io ni
+    hivebits.io, pa su na slajdovima 1, 3, 5 i 7 obelezena mesta. Koje
+    fotke idu: pcelinjak (slajd 1), screenshot Futard stranice i farma ili
+    kosnice (slajd 5), osnivaci (slajd 7)? Mozes ih ubaciti sam u Slides-u
+    ili reci koji fajl sa Drive-a ide gde.
+49. Slajd 5 ima samo 150 / 300 / 27 sati, kako brief trazi. Hoces li i
+    $140K cilj i $243K ponudjeno (javno, screenshot MetaDAO)? Jedna rec:
+    da ili ne.
+50. Trziste (slajd 6): brief trazi bottom-up sa izvorom pre predaje.
+    Jedina brojka sa izvorom koju imamo je SAD: 46,2M domacinstava x
+    $18,15 = $839M godisnje (NielsenIQ za National Honey Board, 2024).
+    To je cela SAD, ne Teksas. Da li to ide na slajd kao "US honey
+    category", ili slajd ostaje bez brojke dok researcher ne nadje
+    ekvivalent za Brazil, Montreal i EU?
+51. Ask: brief kaze da iznos nije potvrdjen i nista nije napisano. Kad
+    budes imao iznos i namenu, jedna recenica, i ide na slajd 7.
+
+## Za researcher-a (v9)
+
+R4. Bottom-up po formuli iz brief-a (domacinstva x godisnja potrosnja
+    meda po domacinstvu) za Brazil, Quebec ili Montreal, i EU, sa
+    zvanicnim izvorom. Za SAD vec imamo NielsenIQ (market.md). Za Teksas
+    treba udeo domacinstava ili potrosnja po stanovniku iz primarnog
+    izvora, ne procena.
 
 ## Bez ovoga nema prijave (rok 12.10.2026 23:59 PT)
 

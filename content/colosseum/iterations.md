@@ -293,3 +293,35 @@ Dopuna istog dana (Nemanja 10.10): zarada i konkurencija moraju u pitch
 od 3 minuta. Slajdovi A2 i A4 prebaceni u glavni deo kao 9 i 10, tim je
 11, dodatak su "Done, and next" i go to market. Scenario je oko 2:55;
 trziste skraceno na 15 sekundi.
+
+## v9 - 2026-10-11
+
+Fajl: `content/colosseum/Colosseum 2026 - v9 - 2026-10-11.pptx`, pravi ga
+`infra/deck_build_v9.py`. `deck.md` i `pitch-video.md` uskladjeni.
+
+Nemanja (11.10) dao production brief: sedam slajdova, naslov i podnaslov
+za svaki, A/B/C tabela, vizuelni pravac, 13 pravila. Glavna ideja:
+"HiveBits connects buyers directly with bee products from beekeepers they
+can trust." Ovo zamenjuje pravac 1 iz v8 (platforma gde ljudi poseduju
+farmu). v8 ostaje u istoriji.
+
+- Naslovi i podnaslovi doslovno iz brief-a, nista promenjeno.
+- Agent dodao samo: govor (kratak, prost), redove koje brief trazi (tri
+  koraka, dve faze, cetiri trzista, cetiri prioriteta, dva clana tima),
+  izvore u beleskama.
+- Slajd 5: samo 150 / 300 / 27 sati, bez dolara (brief); $140K i $243K
+  ponudjeni kao pitanje (#49).
+- Slajd 6: bez TAM brojke (brief trazi izvor pre predaje); NielsenIQ US
+  brojka u beleskama i u pitanju #50. 5% na slajdu.
+- Slajd 7: prioriteti kao plan, tim samo potvrdjene dve recenice, bez
+  ask-a.
+- Fotografije: mreza u cloud sesiji blokira Drive, futard.io i
+  hivebits.io; Drive konektor pukne na fajlu od 9MB. Na slajdovima 1, 3,
+  5 i 7 su isprekidani okviri sa opisom sta ide. Spisak u deck.md i #48.
+- Marketplace pise u sadasnjem vremenu po Nemanjinoj instrukciji u
+  brief-u, sa obavezom da se interfejs potvrdi pre predaje (#47).
+- Nema: em dash, "jedini", lab test, escrow, verifikacija kao garancija,
+  lokacija farme, rokovi, prihod, TAM, ask.
+- Najslabiji: slajd 3 (marketplace tretiran kao postojeci, a interfejs
+  nije vidjen) i slajd 6 (cetiri trzista bez brojke). Popravlja se
+  odgovorima #47 i #50, ne tekstom.
