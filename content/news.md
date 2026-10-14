@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-14 · ideja: kuce za divlje oprasivace sa senzorima (DePIN)
+- Nemanja: ljudi stalno pitaju za indoor kosnice, to ne radimo. Ideja: outdoor "kosnice" za druge oprasivace, sa senzorima i meteo stanicom, kao dodatni DePIN sloj koji pomaze da se oprasivaci razumeju i zastite. Povod: dosta ljudi se zali da pcelarstvo ugrozava druge oprasivace. Hoce da pita Superteam da poguraju anketu i vide koliko bi se ljudi prijavilo.
+- potvrdjeno: samo ideja i namera da se anketa uradi kroz Superteam. Nista nije odluceno, nista nije javno.
+- nije potvrdjeno: da li ide javno, kad, koliko jedinica, cena, Kina. Ne pominjati na X dok Nemanja ne kaze.
+- materijal: research u content/strategy/pollinator-depin.md (nauka, konkurencija, cena iz Kine po nivoima, predlog ankete i faza)
+- status: novo
+
+---
+
 ## 2026-10-10 · brojke rejza sa MetaDAO stranice (screenshot)
 - Nemanja je poslao screenshot HiveBits stranice na MetaDAO launchpadu, status COMPLETE.
 - potvrdjeno (pise na screenshotu): cilj $140k, ponudjeno $243k, 173%, 150 ulagaca (funders), ICO cena $0.014, FDV $181K, supply 12.9M, token $NECTAR.
