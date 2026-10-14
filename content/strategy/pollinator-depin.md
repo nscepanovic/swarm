@@ -473,3 +473,85 @@ X", pretplata po lokaciji, godisnje, zivi prikaz + izvestaj na kraju sezone.
 Kupac: brend, vocar, firma. Kucice kod ljudi su mreza koja izvestaj pravi i
 dobija $NECTAR iz pretplate. Istrazivaci dobijaju podatke besplatno, to daje
 kredibilitet izvestaju.
+
+---
+
+## 15. Koliko nas kosta jedna kucica i po kojoj ceni se prodaje (14.10)
+
+Proizvod koji se racuna: kucica za Osmiu + kamera + brojac + senzor
+unutra + spoljni senzor (temp, vlaga, pritisak, svetlo) + kisomer + solar +
+WiFi/LoRa + kokoni + app. To je nivo B iz sekcije 6, sa kisomerom. Sve
+brojke su procena iz javnih listinga, ne iz ponuda.
+
+### Sta nas kosta po komadu, sa svim oko hardvera
+
+| Stavka | 20 kom, rucno, gotovi moduli | 500 kom, Kina | 2.000 kom, Kina |
+|---|---|---|---|
+| Hardver (kucica, elektronika, solar, baterija, kisomer) | 60-90 | 43-65 | 35-50 |
+| Prevoz i carina do Srbije | 0-5 | 5-10 | 4-8 |
+| CE/RED, uzorci, alat (jednokratno, podeljeno) | 0 (moduli vec sertifikovani) | 10-24 | 3-6 |
+| Kokoni Osmie, 25 kom po kucici | 5-8 | 5-8 | 3-5 |
+| Pakovanje, uputstvo, QR plocica | 3-5 | 3-5 | 2-3 |
+| Sklapanje, test, upis na lanac (rad u Srbiji) | 15-25 | 5-10 | 4-8 |
+| App, backend, podrska, prva godina (podeljeno) | ne moze se proceniti, tim | isto | isto |
+| **Ukupno po kucici, bez softvera** | **85-135** | **70-120** | **50-80** |
+
+Osnove: hardver iz sekcije 6; kokoni: BioDar (Poljska) 100 kokona €20 +
+€20 slanje + veterinarski sertifikat, prodaja oktobar do april
+([BioDar](https://www.shop.biodar.com.pl/red-mason-bee-osmia-rufa-l-osmia-bicornis-cocoons-100-pcs-p-1.html));
+Wildbiene+Partner daje 25 kokona besplatno uz kucu, sto je i nasa mera;
+CE/RED $3.000-8.000 iz sekcije 6; prevoz $70-200 po kubiku.
+
+Softver nije u tabeli. Deo app-a i backend-a se nasledjuje od senzora za
+kosnice, ali koliko, zna samo tim. To je jedina velika brojka koju ne mogu
+da dam.
+
+### Po kojoj ceni se slicne stvari prodaju
+
+| Proizvod | Sta je | Cena | Zasto je bitan |
+|---|---|---|---|
+| Bird Buddy 2 | hranilica za ptice sa kamerom i app-om, AI prepoznaje vrste | $199; Mini $129; Pro bio $299 ([TechCrunch](https://techcrunch.com/snippet/3080189/birdbuddy-launches-new-smart-bird-feeders/)) | najblizi potrosacki komp: kutija + kamera + app + zivotinje u dvoristu |
+| Nubila Marco | DePIN meteo stanica | $299 ([Passive Bites](https://passivebites.beehiiv.com/p/hyperlocal-weather-meets-depin-why-i-m-watching-nubila)); polovna €250 | DePIN kupac placa uredjaj sam, do $300 |
+| WeatherXM stanica | DePIN meteo stanica | od $400 ([The Block](https://www.theblock.co/post/277530/weatherxm-surpasses-1-5m-station-days-as-they-prepare-for-mainnet-rewards)) | gornja granica za DePIN uredjaj |
+| Helium hotspot | DePIN LoRa | $250-500 ([Sustainable Atlas](https://sustainableatlas.org/post/cost-depin-node-deployment-economics-roi-energy-sensing-networks-1665)) | isto |
+| Wildbiene+Partner BeeHome | kuca za Osmiu bez senzora, 25 kokona besplatno, servis na jesen | Classic €98, Observer €139 ([W+P DE](https://wildbieneundpartner.de/pages/wildbienen-biodiversitaet)) | donja granica: kuca bez elektronike se prodaje za €98-139 |
+| 3Bee Polly | kuca za Osmiu bez senzora | €59 | najjeftinija "brendirana" kuca |
+| BroodMinder | senzor temperature za kosnicu | €49,90 + €19,50/god | sta ljudi placaju za goli senzor |
+| Korporativna kosnica (Alvéole i slicni) | kosnica u firmi, pcelar, program za zaposlene | "preko $3.000 godisnje" (revenue-streams.md) | gornja granica za firmu po lokaciji |
+
+Zakljucak iz kompova: kuca bez senzora je €100-140, kamera sa app-om u
+dvoristu je $200, DePIN uredjaj je $300-400. Nasa kucica je sve troje
+zajedno, pa cena od €200 do €300 ima pokrice u trzistu.
+
+### Predlog cene
+
+| Kupac | Sta dobija | Cena | Marza na 500 kom (trosak 70-120) |
+|---|---|---|---|
+| Pojedinac, jednokratno | kucica + senzori + 25 kokona + app + mreza + nagrade | **€229** (raspon 199-249) | 48-69% bruto, bez softvera |
+| Pojedinac, godisnji servis | ciscenje bloka, novi kokoni, izvestaj za sezonu | **€39/god** | trosak servisa 10-15 po kucici, ostatak pokriva app |
+| Firma, po kucici godisnje, min. 5 | kucica ostaje nasa, mi je odrzavamo, zivi prikaz, ESG izvestaj, stranica za zaposlene | **€400-600 po kucici godisnje** (5 kucica: €2.000-3.000) | kucica se otplati u prvoj godini, od druge je skoro sve marza |
+| Vocar / brend hrane, po lokaciji | 10+ kucica na parceli, izvestaj o oprasivanju za sezonu | po ponudi, sidro je korporativni paket "preko $3.000" | |
+
+Zasto €229, a ne €149: na 500 komada trosak je do €120 bez softvera.
+Na €149 ostaje €30-80 po kucici, sto ne pokriva app i podrsku. Na €229
+ostaje €110-160, sto je normalna hardverska marza (oko 50%+) i jos
+pokriva deo softvera. Bird Buddy prodaje slicnu stvar bez pcela za $199, a
+W+P samo drvo za €98-139.
+
+Zasto firma placa 2-3 puta vise godisnje nego sto pojedinac placa jednom:
+firma ne kupuje kucicu, kupuje izvestaj, stranicu i to da je neko odrzava.
+Alvéole za kosnicu naplacuje preko $3.000; kucica za oprasivace na €400-600
+je jeftina ulaznica u istu stvar, bez pcelara.
+
+Gde se gubi novac: rucna serija od 20 kom (trosak 85-135 bez softvera)
+na €229 jedva pokriva rad. Prva serija je marketing i test, ne zarada. Zarada
+pocinje na 500 kom i kod firmi.
+
+### Sta Nemanja mora da potvrdi pre nego sto se cena objavi
+
+1. Koliko od app-a i backend-a za kosnice moze da se iskoristi (to odlucuje
+   da li je €229 dovoljno ili treba €249-279).
+2. Da li kokoni idu uz svaku kucicu (uvoz iz Poljske trazi veterinarski
+   sertifikat, ili sopstveni uzgoj od druge godine).
+3. Da li se pojedincu uopste prodaje, ili se prve kucice daju domacinima
+   besplatno, a placaju samo firme (sekcija 12, model 1).
