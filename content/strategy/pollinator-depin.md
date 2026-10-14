@@ -347,3 +347,40 @@ na solaru, koliko puta domacin promeni WiFi lozinku.
 - Hardver IoT troskovi, pregled: https://hubble.com/community/comparisons/the-real-cost-of-building-iot-hardware-a-breakdown/
 - South Downs biodiversity krediti, TNFD: https://www.southdowns.gov.uk/?p=72106
 - Alveole, kosnice i TNFD/GRESB (komercijalni izvor): https://www.alveole.com/blog/how-rooftop-beehives-support-esg-and-biodiversity-goals
+
+---
+
+## 11. Kako se predstavlja investitorima (14.10)
+
+Okvir: jedna recenica koju svako razume, i trazi se ucesce, ne novac.
+
+1. Problem koji vec znaju: pcelarstvo steti divljim oprasivacima, nauka to
+   potvrdjuje, mi smo pcelari.
+2. Sta radimo, bez tehnike: kucice za divlje pcele pored nasih kosnica, isti
+   senzori, javni podaci. Jedna slika: kosnica i kucica jedna pored druge.
+3. Zasto je dobro za njihov novac: vise uredjaja u mrezi za isti tim i
+   hardver; jeftiniji ulaz za firme nego cela kosnica; odgovor na najvecu
+   kritiku pcelarstva.
+
+Trazi se: anketa, prijava za drzanje kucice, deljenje. Ne govore se rokovi,
+brojevi, cene, "data marketplace", "DePIN layer". Redosled: investitori
+privatno, pa javna anketa kroz Superteam.
+
+Predlog poruke (engleski, Nemanjin glas):
+
+    Many people ask us about indoor hives. We will not do that.
+
+    But here is something we want to try.
+
+    People say beekeeping is bad for wild bees. New research says they are
+    right. We are beekeepers, so we want to measure it ourselves.
+
+    The idea is simple. Small houses for wild bees, with the same sensors we
+    already use in our hives. First ones go next to our own hives on the
+    farm. All data is public.
+
+    For us this means more devices in the network, with the same team and
+    same hardware. And a cheaper way for companies to join HiveBits.
+
+    Before we build anything, we want to know if people would host one. If
+    you would, or you know someone who would, answer this short survey.
