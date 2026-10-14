@@ -383,3 +383,20 @@ Predlog teksta (engleski, Nemanjin glas, zagrade popunjava Nemanja):
 
     Raise: [amount], through [platform], in $NECTAR, same terms as before.
     Link below.
+
+---
+
+## 12. Biznis model (14.10)
+
+| Model | Ko placa i za sta | Dokaz | Za nas |
+|---|---|---|---|
+| 1. Firme, ESG adopcija | Firma usvoji kucice, dobije izvestaj, pricu za zaposlene, ESG dokument; placa godisnje | 3Bee: min. 5 adopcija po firmi, 500+ brendova | Najjaci. Jeftinija ulaznica od korporativne kosnice, isti kupac. Senzor i javni podaci su razlika od 3Bee |
+| 2. Pojedinci, kucica + godisnji servis | Kupi kucicu, svake jeseni salje blok na ciscenje, dobija nove kokone; placa kucicu i servis | Wildbiene+Partner: CHF 120-200, 30.000 kupaca, 13 godina | Drugi korak, trazi logistiku i uzgoj kokona |
+| 3. Oprasivanje vocnjaka Osmiom | Vocar placa kucice sa kokonima u vreme cvetanja | W+P iznajmljuje pcele za 300 farmera; Osmia je komercijalni oprasivac za jabuku i badem | Prirodno uz nase farmere, ali sezonski servis, ne mreza |
+| 4. Prodaja podataka | Niko standardno | Nema dokaza; Plan Bee Labs obecao marketplace, nema proizvoda | Ne graditi na ovome. Podaci cine model 1 vrednijim, nisu proizvod |
+
+Model za nas: firma placa godisnje za kucice koje stoje kod nje ili kod
+ljudi iz zajednice, dobija zivi dashboard i izvestaj. Domacin ne placa,
+dobija $NECTAR za uptime. Mi drzimo kucice, servis i podatke. Prihod po
+firmi je godisnji i ponavlja se, svaka kucica je uredjaj u mrezi. Pojedinci
+(model 2) dolaze kad kucice vec stoje i ljudi ih vide.
