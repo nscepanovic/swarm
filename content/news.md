@@ -24,7 +24,9 @@ nisu izgovorena.
 ## 2026-10-14 · Smart Start (Pametni pocetak), rok 16.11.
 - Nemanja pitao za Smart Start u vezi sa kucicama za oprasivace. Program Fonda za inovacionu delatnost: do 5,4M RSD po projektu, do 90% budzeta, tim 2-5 clanova, prototip/MVP.
 - potvrdjeno (iz objave sestog poziva, biznis.rs): rok za prijavu 16.11.2026. u 12:00, registracija na portalu do 13.11, prijava na engleskom, info sesije 22.10, 5.11, 12.11.
-- Nemanja 14.10: HiveBits firma nije registrovana u Srbiji, pa prijava ide kao tim. Proveriti na sajtu Fonda da li tim posle dodele mora da registruje firmu u Srbiji (ranije jeste bio uslov).
+- Nemanja 14.10: HiveBits firma nije registrovana u Srbiji, pa prijava ide kao tim.
+- uslovi (prirucnik 5.0, avg 2025, i FAQ Fonda): tim 2-5, bar 51% rezidenti Srbije, bar 51% bez udela u drugoj srpskoj firmi, jedan covek u jednoj prijavi; posle dodele obavezno novo d.o.o. u Srbiji (2 clana: oba osnivaci, 3: bar dva, 4-5: bar tri); projekat 6-9 meseci; tim ulaze bar 10% u kesu; +600.000 RSD za mentorstvo. Predaje se: biografije, pojednostavljen budzet, video pitch do 3 min na engleskom, formulari Fonda neizmenjeni.
+- nije potvrdjeno: tabela kriterijuma ocenjivanja za Smart Start (sajt Fonda nedostupan iz cloud sesije). Prirucnik: https://www.inovacionifond.rs/cms/files//pametn-pocetak-dokumentacija/Smart_Start_Program_manual_5.0.pdf
 - materijal: content/strategy/pollinator-depin.md (sekcija 15 ima budzet prve serije)
 - status: novo, Nemanja nije rekao da se prijavljujemo
 
