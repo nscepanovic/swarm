@@ -429,3 +429,46 @@ ima pokrice u dolarima, ne samo u emisiji.
 
 Sta kupac ne dobija: med i proizvode; prihod od prodaje podataka
 pojedinacno; garanciju useljenja prve godine (zato idu kokoni).
+
+---
+
+## 14. Podaci: sta se prati i kome se prodaje (14.10)
+
+Sta se prati:
+
+| Spolja | Unutra | Izvedeno (to se prodaje) |
+|---|---|---|
+| temperatura, vlaga, pritisak | temperatura i vlaga u bloku | sati leta dnevno prema vremenu |
+| svetlo, UV | ulasci/izlasci (brojac) | prvi let, kraj sezone |
+| kisa, vetar (opciono) | slika cevcica dnevno (zauzetost, nova gnezda) | gnezda i nove pcele po sezoni |
+| | zvuk (kasnije) | vrste, paraziti |
+
+Meteo podaci objasnjavaju aktivnost, nisu proizvod.
+
+Zasto sami meteo podaci ne prolaze: WeatherXM, 9.000+ stanica, licenca za
+podatke 2025: jedini ponudjac WeatherXM sam, po minimumu; prihod od stanica
+i prikljucenja, ne od podataka
+(https://paragraph.xyz/@weatherxm/2025-data-license-winner). Nubila, 18.000
+stanica, bez imenovanog kupca
+(https://9o1hbtdj3x.depinhub.io/news/nubila-revolutionizing-real-time-weather-data-for-ai-applications-23641).
+
+Ko kupuje podatke o oprasivacima danas:
+1. Brendovi hrane i trgovci sa obavezama u lancu: M&S trogodisnja saradnja
+   sa AgriSound senzorima, Importaco test u vocnjacima badema
+   (https://www.freshplaza.com/europe/article/9829740/pollination-monitoring-trial-launched-in-spanish-and-portuguese-almond-orchards/).
+   Najblizi kupac.
+2. Vocari: da li je bilo dovoljno leta u nedelji cvetanja (BeeHero kupac).
+3. Agro kompanije sa programima za oprasivace: Syngenta Operation
+   Pollinator meri senzorima, Bayer placa razvoj senzora
+   (https://www.farminguk.com/news/three-year-research-project-looks-at-sensor-technology-for-improved-monitoring-of-insect-pests_45004.html).
+4. Firme za ESG (sekcija 12).
+5. Sertifikati i nature krediti, kasnije: Bee Better Certified trazi
+   gnezdilista i proverava godisnje
+   (https://xerces.org/blog/bee-better-certifiedtm-creating-better-places-for-bees);
+   EU testira nature kredite do kraja 2027.
+
+Model: ne prodaju se redovi iz baze nego "izvestaj o oprasivacima za mesto
+X", pretplata po lokaciji, godisnje, zivi prikaz + izvestaj na kraju sezone.
+Kupac: brend, vocar, firma. Kucice kod ljudi su mreza koja izvestaj pravi i
+dobija $NECTAR iz pretplate. Istrazivaci dobijaju podatke besplatno, to daje
+kredibilitet izvestaju.
