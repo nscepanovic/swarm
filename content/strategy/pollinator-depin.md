@@ -400,3 +400,32 @@ ljudi iz zajednice, dobija zivi dashboard i izvestaj. Domacin ne placa,
 dobija $NECTAR za uptime. Mi drzimo kucice, servis i podatke. Prihod po
 firmi je godisnji i ponavlja se, svaka kucica je uredjaj u mrezi. Pojedinci
 (model 2) dolaze kad kucice vec stoje i ljudi ih vide.
+
+---
+
+## 13. DePIN model: sta kupac dobija (14.10)
+
+Kupac je operater noda. Dobija stvar koju vidi, nagradu koju meri i status
+koji pokazuje. Covek i firma se razlikuju samo u trecem.
+
+Odmah:
+- kucica sa senzorima + prvi stanari (kokoni Osmie), da prva sezona ne bude prazna
+- kucica u app-u: temperatura, vlaga, vreme, ulasci/izlasci, slika cevcica (zatvorena cevcica = gnezdo)
+- identitet kucice na lancu: ime, lokacija, datum, vlasnik (kao kosnica u mrezi)
+
+Nedeljno i sezonski:
+- $NECTAR za uptime i podatke (kao Helium za pokrivenost); dodatak za useljenje i izleganje
+- poruke iz kucice ("prva pcela usla", "pet cevcica zatvoreno"), to je ono sto ljudi dele
+- kucica na mapi mreze pored nasih kosnica i tudjih kucica
+
+Godisnje:
+- servis: salje blok, dobija ocisceno + nove kokone; bez toga kucica postaje gnezdo parazita, i to je razlog da ostane u mrezi
+- firma dodatno: ESG izvestaj (kucice, gnezda, nove pcele, vrste), stranica za zaposlene sa zivim prikazom, "pollinator host" oznaka
+
+Odakle nagrade: firme placaju godisnje za izvestaj i adopciju; deo ide u
+pool iz kog se placaju kucice kod ljudi u blizini te firme. Covek u
+dvoristu zaradjuje jer firma u gradu placa za podatke iz tog grada. Nagrada
+ima pokrice u dolarima, ne samo u emisiji.
+
+Sta kupac ne dobija: med i proizvode; prihod od prodaje podataka
+pojedinacno; garanciju useljenja prve godine (zato idu kokoni).
