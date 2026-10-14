@@ -22,7 +22,6 @@ Elektronika:
 10. Inside sensor: temperature and humidity in the nesting block
 11. Outside weather sensor under the roof: temperature, humidity, pressure, light
 11a. Rain gauge (small tipping bucket) on top of the roof, open to the sky
-11a. Rain gauge (small tipping bucket) on top of the roof, open to the sky
 12. Main board with WiFi / LoRa, antenna
 13. Solar panel on the roof
 14. Battery in a sealed box (18650)
