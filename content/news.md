@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-14 · Smart Start (Pametni pocetak), rok 16.11.
+- Nemanja pitao za Smart Start u vezi sa kucicama za oprasivace. Program Fonda za inovacionu delatnost: do 5,4M RSD po projektu, do 90% budzeta, tim 2-5 clanova, prototip/MVP.
+- potvrdjeno (iz objave sestog poziva, biznis.rs): rok za prijavu 16.11.2026. u 12:00, registracija na portalu do 13.11, prijava na engleskom, info sesije 22.10, 5.11, 12.11.
+- nije potvrdjeno: da li firma sa zatvorenim rejzom ispunjava uslove, da li projekat moze biti nova linija postojece firme. Proveriti na sajtu Fonda.
+- materijal: content/strategy/pollinator-depin.md (sekcija 15 ima budzet prve serije)
+- status: novo, Nemanja nije rekao da se prijavljujemo
+
+---
+
 ## 2026-10-14 · ideja: kuce za divlje oprasivace sa senzorima (DePIN)
 - Nemanja: ljudi stalno pitaju za indoor kosnice, to ne radimo. Ideja: outdoor "kosnice" za druge oprasivace, sa senzorima i meteo stanicom, kao dodatni DePIN sloj koji pomaze da se oprasivaci razumeju i zastite. Povod: dosta ljudi se zali da pcelarstvo ugrozava druge oprasivace. Hoce da pita Superteam da poguraju anketu i vide koliko bi se ljudi prijavilo.
 - potvrdjeno: samo ideja i namera da se anketa uradi kroz Superteam. Nista nije odluceno, nista nije javno.
