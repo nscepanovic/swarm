@@ -350,37 +350,36 @@ na solaru, koliko puta domacin promeni WiFi lozinku.
 
 ---
 
-## 11. Kako se predstavlja investitorima (14.10)
+## 11. Kako se predstavlja investitorima (14.10, Nemanja: ovo je novi rejz)
 
-Okvir: jedna recenica koju svako razume, i trazi se ucesce, ne novac.
+Pet delova, svaki jedna do dve recenice:
+1. Problem: pcelarstvo steti divljim pcelama, nauka potvrdjuje, niko ne meri.
+2. Sta gradimo: kucice za divlje pcele sa senzorima, prvo pored nasih
+   kosnica, posle kod ljudi i firmi; podaci javni, uredjaji u HiveBits mrezi.
+3. Zasto mi: kosnice, senzori, tim i 150 ulagaca vec postoje; isti sistem u
+   manjoj kutiji.
+4. Sta novac radi: prva serija, postavljanje, app za domacina. Broj jedinica
+   i iznos daje Nemanja.
+5. Sta investitor dobija: kroz $NECTAR, kao u prvom rejzu, plus vise
+   uredjaja u mrezi.
 
-1. Problem koji vec znaju: pcelarstvo steti divljim oprasivacima, nauka to
-   potvrdjuje, mi smo pcelari.
-2. Sta radimo, bez tehnike: kucice za divlje pcele pored nasih kosnica, isti
-   senzori, javni podaci. Jedna slika: kosnica i kucica jedna pored druge.
-3. Zasto je dobro za njihov novac: vise uredjaja u mrezi za isti tim i
-   hardver; jeftiniji ulaz za firme nego cela kosnica; odgovor na najvecu
-   kritiku pcelarstva.
+Predlog teksta (engleski, Nemanjin glas, zagrade popunjava Nemanja):
 
-Trazi se: anketa, prijava za drzanje kucice, deljenje. Ne govore se rokovi,
-brojevi, cene, "data marketplace", "DePIN layer". Redosled: investitori
-privatno, pa javna anketa kroz Superteam.
-
-Predlog poruke (engleski, Nemanjin glas):
-
-    Many people ask us about indoor hives. We will not do that.
-
-    But here is something we want to try.
+    We are raising again. This time for wild bees.
 
     People say beekeeping is bad for wild bees. New research says they are
-    right. We are beekeepers, so we want to measure it ourselves.
+    right. We are beekeepers, so we decided to measure it, not argue about it.
 
-    The idea is simple. Small houses for wild bees, with the same sensors we
-    already use in our hives. First ones go next to our own hives on the
-    farm. All data is public.
+    We build small houses for wild bees with sensors inside. Same system as
+    our hives, smaller box. First ones go next to our own hives. Then to
+    people and companies who want one. All data is public and every house is
+    a device in the HiveBits network.
 
-    For us this means more devices in the network, with the same team and
-    same hardware. And a cheaper way for companies to join HiveBits.
+    We already have the farm, the sensors, the team and 150 people who funded
+    us. This is the next step, not a new company.
 
-    Before we build anything, we want to know if people would host one. If
-    you would, or you know someone who would, answer this short survey.
+    The money goes to the first [N] houses, installing them, and the app
+    where you see your house live.
+
+    Raise: [amount], through [platform], in $NECTAR, same terms as before.
+    Link below.
