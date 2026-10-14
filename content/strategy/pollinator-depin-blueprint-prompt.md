@@ -33,7 +33,7 @@ Elektronika:
     reference for the look of the wooden bee house. Start with a compact
     wooden house for solitary bees on a plain light background: wooden body,
     roof with overhang, a block of nesting tubes at the front, a small solar
-    panel on the roof. The camera slowly orbits to the side. The house opens
+    panel and a small rain gauge on the roof. The camera slowly orbits to the side. The house opens
     into an exploded view: the roof lifts, the nesting block slides out, the
     electronics box opens. Each part gets a thin leader line and a clean
     label, drawn like an engineering blueprint. Labels, in this order:
@@ -41,10 +41,11 @@ Elektronika:
     block, 6 to 10 mm channels; clear camera window; wire mesh bird guard;
     camera module with LED; infrared entrance counter; inside sensor,
     temperature and humidity; outside weather sensor, temperature, humidity,
-    pressure, light; rain gauge on the roof; main board with WiFi / LoRa and antenna; solar panel;
-    battery box, 18650; mounting bracket; ID plate with QR code. Muted
-    colors, thin lines, white or light grey background, no text other than
-    the labels, no logos. Slow, steady camera movement, 8 seconds.
+    pressure, light; rain gauge on the roof, open to the sky; main board
+    with WiFi / LoRa and antenna; solar panel; battery box, 18650; mounting
+    bracket; ID plate with QR code. Muted colors, thin lines, white or light
+    grey background, no text other than the labels, no logos. Slow, steady
+    camera movement, 8 seconds.
 
 ## Prompt za sliku (eksplodirani nacrt), engleski
 
