@@ -8,8 +8,8 @@ deljenje: https://claude.ai/artifact/PukfAedJnE3dKVEpVYKp6i
 ---
 
 Small houses for wild bees with sensors inside. Each one measures local
-biodiversity where it stands. Together they make a map. Built on the
-HiveBits network, next to our hives.
+biodiversity where it stands. Together they make a map. Anyone, anywhere,
+can put one up, and it joins the HiveBits network.
 
 ## Where this comes from
 
