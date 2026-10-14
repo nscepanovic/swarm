@@ -21,6 +21,8 @@ Elektronika:
 9. Entrance counter, infrared beam at the front
 10. Inside sensor: temperature and humidity in the nesting block
 11. Outside weather sensor under the roof: temperature, humidity, pressure, light
+11a. Rain gauge (small tipping bucket) on top of the roof, open to the sky
+11a. Rain gauge (small tipping bucket) on top of the roof, open to the sky
 12. Main board with WiFi / LoRa, antenna
 13. Solar panel on the roof
 14. Battery in a sealed box (18650)
@@ -40,7 +42,7 @@ Elektronika:
     block, 6 to 10 mm channels; clear camera window; wire mesh bird guard;
     camera module with LED; infrared entrance counter; inside sensor,
     temperature and humidity; outside weather sensor, temperature, humidity,
-    pressure, light; main board with WiFi / LoRa and antenna; solar panel;
+    pressure, light; rain gauge on the roof; main board with WiFi / LoRa and antenna; solar panel;
     battery box, 18650; mounting bracket; ID plate with QR code. Muted
     colors, thin lines, white or light grey background, no text other than
     the labels, no logos. Slow, steady camera movement, 8 seconds.
@@ -54,7 +56,7 @@ Elektronika:
     6 to 10 mm channels; clear camera window; wire mesh bird guard; camera
     module with LED; infrared entrance counter; inside temperature and
     humidity sensor; outside weather sensor (temperature, humidity,
-    pressure, light); main board with WiFi / LoRa and antenna; solar panel;
+    pressure, light); rain gauge on the roof; main board with WiFi / LoRa and antenna; solar panel;
     battery box (18650); mounting bracket; ID plate with QR code. Clean
     engineering style, light background, muted wood and dark grey
     electronics, no logos, no extra text.

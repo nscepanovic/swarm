@@ -47,6 +47,12 @@ For HiveBits this means: more devices in the network, a farm that can show
 it is pollinator positive with data, and a product for people who cannot
 keep bees.
 
+## What it measures
+
+Inside the house: temperature, humidity, a counter at the entrance, a daily
+photo of the nesting tubes. Outside: temperature, humidity, pressure,
+light, rainfall.
+
 ## What a host gets
 
 - The house with sensors and the first bees (cocoons), so year one is not empty.

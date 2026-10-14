@@ -440,7 +440,8 @@ Sta se prati:
 |---|---|---|
 | temperatura, vlaga, pritisak | temperatura i vlaga u bloku | sati leta dnevno prema vremenu |
 | svetlo, UV | ulasci/izlasci (brojac) | prvi let, kraj sezone |
-| kisa, vetar (opciono) | slika cevcica dnevno (zauzetost, nova gnezda) | gnezda i nove pcele po sezoni |
+| kisa (tipping bucket na krovu, Nemanja 14.10) | slika cevcica dnevno (zauzetost, nova gnezda) | gnezda i nove pcele po sezoni |
+| vetar (opciono) | | kisni dani bez leta, uporedjenje lokacija |
 | | zvuk (kasnije) | vrste, paraziti |
 
 Meteo podaci objasnjavaju aktivnost, nisu proizvod.
