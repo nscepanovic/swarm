@@ -576,3 +576,116 @@ Rok 16.11.2026 12:00, prijava gotova do 10.11. Uslovi u news.md (14.10).
    put do domacina; 10% kes unapred; mentorstvo za biologa.
 7. Video 3 min na farmi: problem ispred kosnica, kucica u ruci, tim i cilj.
    Engleski, prost, bez slajdova.
+
+---
+
+## 17. 3Bee i solitarne pcele: sta rade, kako zaradjuju, koliko je trziste (15.10)
+
+Izvori: 3Bee stranice (kroz pretragu, sajt je blokiran iz cloud sesije),
+italijanski registri bilansa (agregatori, ne originalni bilans), stampa.
+Gde je brojka iz jednog izvora, tako i pise.
+
+### Sta rade sa solitarnim pcelama
+
+- **Polly** je drvena kucica za Osmia bicornis. Razvijana "5 godina" sa
+  socijalnom zadrugom Andirivieni, koja sklapa kucice i 3D stampa krov.
+  PEFC drvo, oko 25 kokona uz kucicu, "20 stanara". Kaci se na drvo, zid,
+  balkon ([3Bee adopt a bee](https://www.3bee.com/en/adopt-a-bee/),
+  [Polly mission](https://www.mypolly.it/mission)).
+- **Polly X** je ista kucica sa senzorom kvaliteta vazduha: PM10, PM2.5,
+  11 velicina, podaci idu na 3Bee platformu. Prodaje se firmama kao
+  "biomonitoring" ([3Bee company shelters](https://www.3bee.com/en/esg/company-shelters/)).
+  Bitno: senzor meri vazduh, ne pcele. Ne broje ulaske, ne slikaju
+  cevcice. Pcele su "bioindikator" u tekstu, ne u podacima.
+- **Javna tvrdnja:** "+100k protected solitary bees". Nije jasno da li su
+  to pcele, kokoni ili kucice. Procena: 100.000 kokona / 25 po kucici je
+  oko 4.000 kucica ukupno, ako je brojka o kokonima.
+- **Podaci o zauzetosti kucica:** nisu objavljeni. Nijedan javni izvor ne
+  kaze koliko Polly kucica se stvarno useli. Nauka za slicne kucice: 3 do
+  11,5% rupa zauzeto godisnje u jednoj studiji u Mejnu
+  ([Conservation Evidence](https://conservationevidencejournal.com/individual-study/1937)).
+  To je rupa u njihovoj prici i nas ulaz: mi bismo imali broj.
+
+### Kako zaradjuju
+
+| Linija | Kupac | Cena | Izvor |
+|---|---|---|---|
+| Polly, pojedinac | poklon, privatni | €59-62 | 3Bee adopt a bee |
+| Polly, firma | ESG, "1 Polly po adopciji, min. 5" | €595 po adopciji (jedan izvor, nije potvrdjeno; za 5 je €2.975) | pretraga, snippet |
+| Adotta un alveare, pojedinac | poklon | box €14,90 / €24,90 / €41,85; adopcija kosnice sa 500 g meda | [3Bee box](https://www.3bee.com/box/adottatori/) |
+| Adotta un alveare, firma | ESG, zaposleni | nije javno; Ferrero 10 kosnica (2020) | [MilanoFinanza](https://www.milanofinanza.it/news/pollinate-the-planet-il-programma-della-startup-3bee-che-ha-protetto-gia-70-milioni-di-api-202010291305236041) |
+| Oasi della Biodiversità, firma | kosnice + drvece + Polly + senzori + dani sadnje za zaposlene + izvestaj; 1-3 godine, 20 godina za sumu | nije javno; ugovor ima "set-up" i "gestione" trosak ([uslovi XNatura](https://www.xnatura.com/documents/en/termini-condizioni-aziende.pdf)) | MetLife, Fiditalia, Cherry Bank, Autoingros |
+| Hive-Tech senzori za pcelare | pcelar | nekad glavni proizvod, sad sporedan | [Maddyness](https://www.maddyness.com/2023/03/09/pollinisateurs-3bee/) |
+| XNatura (od marta 2025) | firme, opstine, parkovi; "nature intelligence", rizik i uticaj na prirodu | po projektu | [PR Newswire](https://prnewswire.co.uk/news-releases/on-the-occasion-of-world-wildlife-day-3bee-launches-xnatura-the-nature-intelligence-division-dedicated-to-monitoring-risks-and-impacts-on-nature-biodiversity-and-climate-302386690.html) |
+
+Istorija modela: poceli 2017 kao senzor za pcelare (Hive-Tech), presli na
+sponzorstvo i adopciju jer pcelar ne placa dovoljno. Danas: firma placa
+Oasi, pcelar dobija senzor i prodaje med kroz njih, pojedinac kupuje
+poklon. Polly je nastao kao jeftiniji proizvod za firme koje ne mogu
+kosnicu (nema pcelara, nema uboda).
+
+**Brojke firme (3BEE S.r.l., iz registara, ne iz originalnog bilansa):**
+
+| Godina | Prihod | Napomena |
+|---|---|---|
+| 2020 | oko €2,1M | |
+| 2021 | oko €2,4M | |
+| 2022 | oko €2,3M | Series A €5M u decembru |
+| 2023 | €3,34M | |
+| 2024 | €3,41M, dobit €244K | +2% ([Quotidiano Top Aziende](https://www.quotidiano.net/topaziende/lombardia/milano/fatturato-3bee-s-r-l)) |
+| 2025 | €3,13M | jedan izvor, -8%, nije potvrdjeno ([fatturatoitalia](https://www.fatturatoitalia.it/3bee-srl-09711590969)) |
+
+Ostalo: 500+ brendova, 10.000 pcelara u mrezi, "preko 100 Oasi", 10.000+
+IoT uredjaja, 2M fotografija, 6.000 vrsta popisano, tim 50+ ljudi, Italija
++ Francuska + Nemacka ([Renewable Matter](https://www.renewablematter.eu/biodiversita-rigenerazione-3bee-celebra-dieci-anni-guarda-futuro)).
+Cilj za 5 godina: duplirati broj Oasi.
+
+**Sta to znaci:** 3Bee je posle €5M Series A ostao na €3,4M prihoda,
+ravno tri godine, sa 500 firmi. Prosek po firmi je ispod €7.000 godisnje.
+Korporativna adopcija prirode u Italiji je trziste od nekoliko miliona
+evra za lidera, ne desetina. Zato su 2025. otvorili XNatura: prodaja
+podataka i rizika opstinama i parkovima, jer je ESG adopcija dosla do
+plafona.
+
+### Koliko je trziste
+
+Nema cistog broja za "firme placaju kucice i kosnice za biodiverzitet".
+Sta se moze pokazati:
+
+| Signal | Brojka | Izvor |
+|---|---|---|
+| Lider u Italiji (3Bee) | €3,4M godisnje, ravno | registri |
+| Lider u Severnoj Americi (Alvéole, korporativne kosnice) | prihod u rangu $50-100M, 2.000 kosnica, 73 grada | revenue-streams.md, Bloomberg mart 2026 |
+| Kuce za Osmiu, pojedinci (Wildbiene+Partner) | 30.000 kupaca za 5 godina do 2018, €98-139 po kuci | sekcija 15 |
+| Firme sa TNFD izvestajem | 1.000+ u 2026, duplo od 2025 | Carbon Pulse |
+| CSRD posle Omnibusa (mart 2026) | obaveza pala sa oko 50.000 na oko 1.000 firmi (1.000+ zaposlenih i €450M+ prihoda); biodiverzitet (E4) prve dve godine dobrovoljan | [insightsoftware](https://insightsoftware.com/blog/faqs-preparing-for-the-eu-csrd-directive-and-esrs-standards/), jedan izvor |
+| Dobrovoljni biodiversity krediti | prodaja oko $3,5M u 2026 (naslov, mozda greska u jedinici) | Carbon Pulse |
+| Javno finansiranje biodiverziteta, EU cilj | €20 milijardi godisnje | EU strategija 2030 |
+| Komercijalna Osmia za oprasivanje | "mala industrija" (USDA SARE); francuski Osmia oko 1.000 ha | [SARE](https://projects.sare.org/sare_project/ow24-004/), [Connexion](https://connexionfrance.com/news/start-up-rents-pollination-bees-to-boost-fruit-farms/459192) |
+
+Zakljucak o trzistu, iskreno:
+1. **Firme koje placaju prirodu za ugled i zaposlene** su realno trziste
+   danas: Alvéole do $100M u Americi, 3Bee €3,4M u Italiji. U Evropi je to
+   desetine miliona godisnje ukupno, podeljeno na vise malih igraca.
+   Raste sa TNFD, ali regulatorni pritisak je pao kad je Omnibus skratio
+   CSRD na 1.000 firmi.
+2. **Pojedinci** kupuju kucu za Osmiu kao poklon i hobi: W+P i 3Bee
+   zajedno su prodali desetine hiljada. Cena €60-140, jednom.
+3. **Podaci o oprasivacima** jos nemaju trziste (sekcija 14). 3Bee to
+   resava tako sto senzorom meri vazduh, a ne pcele, jer vazduh firma
+   razume.
+4. **Prostor koji 3Bee ne pokriva:** kucica koja stvarno meri pcele
+   (zauzetost, ulasci, slika) i javno pokazuje da li radi. Oni to nemaju
+   ni posle 5 godina Polly-ja i 10.000 IoT uredjaja. To je razlika koju
+   prodajemo, firmi i pojedincu.
+
+### Sta iz ovoga sledi za nas
+
+- Ne takmicimo se sa 3Bee u Italiji. Radimo isto na trzistu gde njih nema
+  (Balkan, Solana zajednica) i sa jednom stvari koju nemaju: podatak o
+  pcelama u kucici.
+- Cena firmi iz sekcije 15 (€400-600 po kucici godisnje) je ispod
+  3Bee-ovih €595 po adopciji, ako je ta brojka tacna, sa vise podataka.
+- Plafon na €3,4M je upozorenje: sama korporativna adopcija ne nosi firmu.
+  Zato kucica mora da bude i proizvod za pojedinca i uredjaj u mrezi, ne
+  samo ESG paket.
