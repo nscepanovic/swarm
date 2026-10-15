@@ -39,6 +39,10 @@ posta.
 
 ## PRE OBJAVE
 
+- **Stanje 12.10 (Nemanja):** ide u sredu ili cetvrtak, jos cekamo jednu
+  ponudu. Brojke u tekstu i govoru gore su od 02.10, Nemanja daje nove pre
+  objave.
+
 - **"Iduce nedelje" ne ide ni u govor ni u tekst.** Taj rok drze kompanije,
   ne mi. Ako jedna zakasni, to je nase neispunjeno obecanje. "We are waiting
   for two more" kaze isto bez roka.

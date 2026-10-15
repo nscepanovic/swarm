@@ -204,8 +204,31 @@ Ispravka u chatu resava jedan run, upisano pravilo resava sve sledece.
 
 Verifikacija pre tvrdnje. Brojka koja se ne moze pokazati se ne pise.
 
+Kad Nemanja trazi izmenu u tekstu (post, slajd, skripta za pitch), menja se
+samo to sto je rekao, nista vise. Jedna rec znaci jedna rec. Ne dodaju se
+nove recenice, ne preformulise se ostatak. Ako u izmeni vidim problem
+(npr. brojka vise ne stoji), to kazem u jednoj recenici ISPOD teksta, a
+tekst ostaje kako je trazio. (Pogresio sam 12.10: trazio je da "beekeeper"
+bude "farmer" na slajdu 3, a ja sam prepisao pola pasusa.)
+
+Posle svake izmene u skripti za pitch (ili drugom tekstu koji Nemanja cita
+u komadu) u odgovor ide CEO tekst, ne samo izmenjeni deo. On ne sklapa
+delove iz vise poruka. (Nemanja, 12.10.)
+
 Na konkretno pitanje ide konkretan odgovor, bez digresija. Ako se usput
 primeti nesto drugo (rok, propust, druga tema), to se ne kaci na odgovor.
 Ceka sledecu priliku ili ide u `content/news.md`. Nemanja pita jednu stvar i
 hoce odluku o toj stvari. (Pogresio sam 23.09: na pitanje "sta danas da
 objavimo" dodao sam pasus o Startit roku.)
+
+Pre predloga posta proveri sta je vec izaslo. Status u `content/posts/drafts/`
+nije pouzdan, draft moze da pise "draft" a da je post odavno objavljen. Prvo
+`git pull`, pa pogledaj datum poslednjeg unosa u `content/tracking.jsonl`.
+Ako su podaci stariji od par dana, to se kaze odmah i pita se sta je izaslo,
+pre prvog predloga. (Pogresio sam 12.10: predlozio sam redom vosak, LR
+kosnice i treci update. Prva dva su vec bila objavljena, treci nije bio
+spreman, a lokalni podaci su stajali na 24.09.)
+Proverava se i TEMA, ne samo draft: pretrazi `content/profiles/hivebits/posts.jsonl`
+i `content/profiles/nemanja/posts.jsonl` po kljucnoj reci pre predloga. (Pogresio
+sam 13.10: predlozio sam da @hivebits_io objavi pitch sa Solana Summit Serbia,
+a to je nalog vec objavio 31.08, i taj post sam imao pred sobom.)

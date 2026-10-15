@@ -2,7 +2,7 @@
 date: "2026-10-05"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "dropped"
 media: "jedan od neiskoriscenih dji_mimo snimaka voska od 19.09 (Drive, vidi materials/index.md). Nemanja bira koji, nisu pregledani."
 tweet_id: ""
 title: "Vosak, ne samo med"

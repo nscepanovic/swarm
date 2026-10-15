@@ -255,6 +255,54 @@ tim, ask. Pitch video (`pitch-video.md`) prati istih sest koraka.
 Proveri pre izvestaja: da li svaki korak logicno vodi u sledeci, i da li
 svaka mana iz koraka 2 ima odgovor u koraku 4.
 
+## Dizajn: YC "How to design a better pitch deck" (OBAVEZNO)
+
+Nemanja (2026-10-12): dizajn slajdova prati
+https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck
+(Kevin Hale). Stranica se ne cita preko WebFetch-a, povuci je sa curl.
+Tri pravila, i slajd koji padne na jednom se popravlja pre izvestaja:
+
+1. **Citljivo.** Krupan tekst, bold, prost font, jak kontrast. Glavna
+   poruka je na vrhu slajda. Test: cita se iz zadnjeg reda. Sitan tekst
+   (izvori, fusnote, opisi u tabeli) ide u beleske govornika, ne na slajd.
+2. **Prosto.** Jedan slajd, jedna ideja. Ceo deck nosi 5 do 7 ideja koje
+   investitor treba da zapamti. Nijanse i sve sto "takodje vazi" ne idu na
+   slajd.
+3. **Ocigledno.** Slajd se razume na prvi pogled. Zakljucak se napise
+   recima u naslovu (ne "grafik rasta" nego sta grafik kaze). Test: stranac
+   pogleda slajd i odmah kaze ideju.
+
+Sta clanak izricito izbacuje: previse teksta, objasnjenja i ograde na
+slajdu, dijagrami koji se moraju proucavati, logo na svakom slajdu,
+fotografije bez naslova, animacije, tranzicije, sale. Slajd ne sme da
+odvlaci od onoga sto Nemanja govori.
+
+Ograde zbog tacnosti (sta je uradjeno, sta se gradi) se kazu u govoru i u
+beleskama, na slajdu najvise jednom u celom decku.
+
+## Provera posle SVAKE verzije (OBAVEZNO)
+
+Pogresio sam 12.10: od v11 do v15 sam doterivao recenice i dizajn, a nisam
+nijednom ponovo ocenio deck po kriterijumima zirija. Usput su sa slajdova i
+iz govora ispali poverenje, Solana i razlog zasto farmer dolazi, a Nemanja
+je svaki morao sam da uhvati.
+
+Pre nego sto javis da je verzija gotova:
+1. Oceni je kao investitor koji gleda STARTAP, ne kao sudija hakatona:
+   tim, uvid, trziste i vizija, traction, model zarade, zasto Solana.
+   Colosseum je startup takmicenje (Nemanja, 28.09 i ponovo 12.10). Ne
+   ocenjuj i ne savetuj po "sta je napravljeno tokom hakatona", "repo",
+   "demo koji radi do roka". Uporedi sa ocenom prethodne verzije; ako je
+   neka ocena pala, reci to.
+2. Proveri da nista od ovoga nije ispalo ni sa slajda ni iz govora:
+   poverenje ("farmers you can trust"), sta je on-chain na Solani (rejz i
+   token; novac kupca zakljucan u stablecoinu do isporuke), zasto farmer
+   dolazi (renta unapred), vizija posle meda sa brojkom, zasto akcelerator.
+3. Kratkoca i dizajn ne smeju da skinu sustinu. Kad se nesto skracuje,
+   napisi sta je izbaceno i pitaj.
+4. Pre ocenjivanja procitaj memoriju o Colosseum-u
+   (feedback-colosseum-startup-competition) i primeni je.
+
 ## Google Slides
 
 Deck se gradi u **Google Slides na Drive-u** (Nemanja, 2026-09-22). Svi

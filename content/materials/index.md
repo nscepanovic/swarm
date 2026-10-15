@@ -55,6 +55,7 @@ Ovo popunjava rupu koju indeks ispod navodi: **prvi snimak sa terena, ne
 govorna glava.** Uz `playbook-personal.md`: samostalan post + video, ili
 pocetak threada + video, licni nalog.
 [iskorisceno: 2026-09-19 jedan video, koji tacno nije zavedeno, https://x.com/0xBeeSmart/status/2101283383095484532] Ostali klipovi i fotka nisu iskoriseni.
+**ZATVORENO (Nemanja, 12.10): Sinisa i vosak je vec izasao i vise ne ide.** Ne predlagati ponovo, ni ostale klipove ni fotku.
 
 ---
 

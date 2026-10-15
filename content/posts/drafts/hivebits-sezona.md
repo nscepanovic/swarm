@@ -2,9 +2,9 @@
 date: "2026-09-23"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "published"
 media: "Nemanja Clip #8 (livestream, 1m14s) - content/materials/inbox/HiveBits Superteam Livestream/Clips/Nemanja Clip #8.mp4"
-tweet_id: ""
+tweet_id: "2102789839921819661"
 title: "Zasto radimo sad: sezona"
 ---
 

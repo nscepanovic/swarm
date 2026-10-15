@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-12 · koristicemo LR kosnice
+- Nemanja: post o LR kosnicama je otisao danas na @hivebits_io.
+- potvrdjeno: na farmi koristimo LR (Langstroth-Root) kosnice. Tekst posta: "We will use LR hives on our farm. LR means Langstroth-Root. This is how one looks."
+- nije potvrdjeno: broj kosnica, kad se kupuju, od koga. Kontejneri nisu zavrseni, update o njima ide posebno.
+- materijal: slika LR kosnice (Nemanja dodao rucno, nije na Drive-u)
+- status: objavljeno 12.10, tweet_id nije upisan (content/posts/drafts/hivebits-lr-kosnice.md). Kad kosnice stignu, ovaj post se quote-uje.
+
+---
+
 ## 2026-10-10 · brojke rejza sa MetaDAO stranice (screenshot)
 - Nemanja je poslao screenshot HiveBits stranice na MetaDAO launchpadu, status COMPLETE.
 - potvrdjeno (pise na screenshotu): cilj $140k, ponudjeno $243k, 173%, 150 ulagaca (funders), ICO cena $0.014, FDV $181K, supply 12.9M, token $NECTAR.
@@ -64,6 +73,7 @@ nisu izgovorena.
 - potvrdjeno: cetiri kompanije su bile na terenu. Dve ponude su stigle. Cekaju se jos dve.
 - nije potvrdjeno: sta te kompanije rade (pretpostavka iz klipa 10: vendori za kontejnere, nije receno), imena kompanija, ko je covek u kontejneru i da li je ok da mu se vidi lice, iznosi ponuda. "Iduce nedelje" je rok koji zavisi od drugih, ne ide u post ni u govor bez izricite potvrde.
 - materijal: jos nije snimljeno, nije na Drive-u
+- Nemanja (12.10): treci update ne ide u utorak, ide u sredu ili cetvrtak. Jos cekamo jednu ponudu. Brojke u draftu (dve ponude, cekamo dve) su od 02.10 i vise ne stoje, novo stanje daje Nemanja pre objave. "Sreda/cetvrtak" je namera, ne ide u post.
 - status: u draftu (content/posts/drafts/hivebits-update-3.md)
 
 ---

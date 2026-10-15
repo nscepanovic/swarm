@@ -362,3 +362,181 @@ na stoku i mleko kao vizija. Zamenjuje v9 (samo marketplace).
   futard.io, hivebits.io).
 - Najslabiji: slajd 5 (Drenio neproveren) i 7 (dva trzista bez vrednosti,
   SAM/SOM bez brojke). Oboje posteno, brief to dozvoljava.
+
+## v11 - 2026-10-12
+
+Fajl: `content/colosseum/Colosseum 2026 - v11 - 2026-10-12.pptx`, pravi
+ga `infra/deck_build_v11.py`. `deck.md` i `pitch-video.md` uskladjeni.
+v10 fajlovi nisu dirani (pptx i `deck_build_v10.py` ostaju).
+
+Nemanja (12.10): nov brief od cetiri recenice (rejz $140K kroz $NECTAR na
+Futardu za prvu tokenizovanu farmu u vlasnistvu zajednice; marketplace za
+nase proizvode pa druge pcelare i mlekare; renta cele kosnice ili krave
+ili samo kupovina, 5% od svake prodaje; buducnost su nove farme koje
+finansira zajednica i druge grane odrzive poljoprivrede preko istog
+marketplace-a). Posle provere v10 preko Colosseum Copilot-a odobrio je
+nov raspored: v10 je sa tri stuba i oznakama DONE ONCE / PLANNED /
+BUILDING izgledao kao tri polugotova proizvoda.
+
+- Model je jedna masina: slajd 5 je krug od pet koraka umesto tri stuba.
+  Kljucna recenica: ljudi koji uloze su i prvi kupci, pa svaki rejz
+  dovodi ponudu i traznju.
+- Deck se otvara dokazom. Rejz je slajd 2 (u v10 slajd 6). Naslov je
+  Nemanjina formulacija "We raised $140K", ne "Target: $140,000".
+  Izbaceno "It is not the marketplace's traction".
+- Jasno pise sta je on-chain: rejz i token, na Solani (slajd 2). Za
+  marketplace se ne tvrdi nista on-chain jer nije potvrdjeno.
+- Naslovna: "HiveBits builds community-owned farms and sells what they
+  produce." Dijagram People -> Farms -> Products skinut.
+- "First tokenized farm owned by the community" je sad na slajdu bez
+  ograde (Nemanja 12.10; zatvara #41, #43, #55).
+- Problem (slajd 3): tekst slajda isti kao v10 slajd 2, promenjen samo
+  govor (prelaz sa dokaza).
+- Marketplace (slajd 4): renta ili kupovina, ko prodaje, 5% od svake
+  prodaje, poverenje. Ograda o senzoru skracena na jednu recenicu.
+  "Reserve part of a future harvest" iz v10 izbacen (nema ga u brief-u
+  od 12.10).
+- Trziste (slajd 6): samo Teksas i EU. Montreal i Brazil su u beleskama u
+  deck.md. Izbaceno "data missing", "not estimated yet", "We do not
+  operate there yet". Sirenje oznaceno jednom recju "Vision".
+- Konkurencija (slajd 7): poruka "svako drzi jedan deo kruga, niko ceo".
+  Jedna ograda, u naslovu. Drenio skinut (i 12.10 neproverljiv), ostalo
+  pet imena. Izbaceno "That is a hypothesis we have to prove, not a
+  claim".
+- Tim i sta sledi (slajd 8): pet koraka iz brief-a od 12.10, bez rokova i
+  iznosa. Milestone "repeat purchases in more than one market" i "four
+  markets" iz v10 izbaceni. Ranije prijave: "Since then: the raise, the
+  farm, and now the marketplace."
+- Status se kaze dva puta obicnom recenicom (naslov slajda 4, dno slajda
+  5) i jednom legendom u matrici (slajd 7), bez etiketa po elementu.
+- Scenario videa: 413 reci, 2:45 do 2:57. Tesno uz granicu od 3:00;
+  redosled skracivanja je u pitch-video.md.
+- Najslabiji: slajd 5. Od pet koraka kruga desio se jedan, a "ulagaci su
+  prvi kupci" jos nema prodaju iza sebe.
+
+## v12 (2026-10-12), tri Nemanjine izmene na v11
+
+Fajl: `Colosseum 2026 - v12 - 2026-10-12.pptx`, skripta
+`infra/deck_build_v12.py`. Sve ostalo je isto kao v11.
+
+- Slajd 1: one-liner u pet reci, "Community-owned farms. No middlemen."
+  $140K skinut sa naslovne (stoji na slajdu 2). Ispod: "The first farm is
+  already funded."
+- Slajd 3: "shortens the distance" zamenjeno sa "HiveBits removes the
+  middleman between the farmer and the buyer. Crypto was built for that."
+  Osnova: Nemanja 12.10, infrastruktura marketplace-a je na kriptu,
+  primaju se i kartice, sve se poravnava u stablecoin-ima.
+- Slajd 5: "The people who fund a farm are also its first buyers. Every
+  raise brings supply and demand." zamenjeno sa "The community we are
+  building is our first buyer." Nemanja: ko ulozi ne mora i da kupuje.
+- Govor: ista dva mesta (slajd 3 i 5). Govor na naslovnoj nije menjan.
+- Govor, slajd 2 i 3 (Nemanja 12.10): "Why do we start from the farm?"
+  izbaceno, jer farma nije pocela zbog cene. Na slajd 2 dodato "We started
+  the farm with one idea: let anyone invest in beekeeping." Slajd 3
+  pocinje sa "Now the problem. The farmer does not set his price." Tekst
+  na slajdovima nije menjan.
+- Govor, Nemanjine izmene 12.10 (tekst na slajdovima nije menjan):
+  slajd 1 "Nemanja, founder of HiveBits", bez "The first farm is already
+  funded"; slajd 2 kraj "we are building in public"; slajd 4 krava
+  prebacena u buducnost, dodato da se renta placa unapred pa farmer zna
+  da je rod prodat; slajd 7 bez imena konkurenata, samo sta rade.
+
+## v13 (2026-10-12), dizajn po YC clanku
+
+Fajl: `Colosseum 2026 - v13 - 2026-10-12.pptx`, skripta
+`infra/deck_build_v13.py`. Osnova: "How to design a better pitch deck"
+(YC, Kevin Hale): citljivo, prosto, ocigledno. Govor je isti kao v12.
+
+- Slajd 1: samo "HiveBits" i one-liner, bez slike i podnaslova.
+- Slajd 2: bez screenshota i fotografije, tri velike brojke.
+- Slajd 3: naslov je zakljucak, "A beekeeper gets $2.45 a pound. Selling
+  direct, $7.15." Stari naslov, podnaslov i izvor skinuti sa slajda.
+- Slajd 4: tri kutije (RENT, BUY, 5%). Ko prodaje, poverenje i senzori su
+  samo u govoru. Krava skinuta sa slajda (u govoru je kao buducnost).
+- Slajd 6: dve velike brojke ($71M, EUR 2.6 to 5.2B) i jedna recenica
+  vizije. Racun i izvori su u beleskama govornika.
+- Slajd 7: cetiri reda umesto matrice, bez legende. HiveBits red kaze
+  "Building the whole loop".
+- Slajdovi 5 i 8 nisu menjani, a i oni nose vise ideja (dijagram sa pet
+  kutija; tim, sledece i ranije prijave).
+- Animirana verzija postoji samo za v12 (`deck_animate_v12.py`); clanak
+  navodi animacije kao smetnju, pa za v13 nije pravljena.
+- Slajd 6 (Nemanja 12.10): Teksas zamenjen sa SAD, $839M (46.2M
+  domacinstava x $18.15, NielsenIQ 2024). Deck vise nema segment o cetiri
+  ciljna trzista, pa Teksas nema razlog. Govor: "In the US, households
+  buy about 840 million dollars of honey a year."
+- Slajd 6 (Nemanja 12.10, "obe brojke isto racunaj"): SAD i EU su sad
+  racunati isto, sav pojeden med x cena na polici. SAD $4.4B (688.6M lb x
+  $6.39/lb), EU EUR 2.6 do 5.2B. Natpis: "Honey eaten per year, at shelf
+  price". To je gornja granica; $839M (stvarna kupovina domacinstava) je
+  u beleskama.
+- Govor, slajd 8 (Nemanja 12.10): pocetak je "We are two engineers and
+  beekeepers", na kraju dodato "We are building all of it in public."
+  Tekst na slajdu nije menjan (Sinisa: "Manages the farm").
+- Govor, slajd 8 (Nemanja 12.10): dodat razlog za akcelerator, "We want
+  the accelerator to help us expand faster into other kinds of
+  agriculture and to scale this model." Da stane u 3:00, iz govora na
+  slajdu 4 izbacena recenica o kravi.
+- Govor (Nemanja 12.10, skripta je bila teska za citanje): slajd 2
+  skracen na njegov tekst ("on MetaDAO", bez recenica o Solani i Bosni;
+  one ostaju na slajdu). Slajd 3: umesto $2.45 i $7.15 izgovara se "about
+  one third" (2.45 / 7.15 = 34%), "packer" je u govoru "middleman".
+
+## v14 (2026-10-12), cista brojka trzista i prosta skripta
+
+Fajl: `Colosseum 2026 - v14 - 2026-10-12.pptx`, skripta
+`infra/deck_build_v14.py`. Animirana verzija: `infra/deck_animate_v13.py`
+nad v14 fajlom (slajd 5 nije menjan).
+
+- Slajd 6: samo "United States: $1.1B", natpis "Honey sold in stores per
+  year". Stvarna maloprodaja, $1,075,019,546 (NielsenIQ za NHB, 52 ned.
+  do 2.11.2024), procitano na izvoru 12.10. EU red skinut: uporediva
+  brojka ne postoji (research 12.10). $4.4B i EUR 2.6 do 5.2B izbaceni.
+- Govor: cela skripta zamenjena prostom verzijom od 12.10 (269 reci,
+  kratke recenice). Nemanja: stara je bila teska za citanje i izgovor.
+  Slajd 3 u govoru kaze "one third" umesto cifara.
+- Nije uslo, ceka Nemanju: recenica "Any farmer can sell on it" na
+  slajdu 4; $3.3B direktne prodaje hrane sa farmi (nije provereno na
+  izvoru).
+
+## v15 (2026-10-12), poverenje vraceno na slajd 4
+
+Fajl: `Colosseum 2026 - v15 - 2026-10-12.pptx`, skripta
+`infra/deck_build_v15.py`. Ostalo isto kao v14.
+
+- Poverenje je ispalo korak po korak (v11 spajanje slajdova, v13 "jedna
+  ideja po slajdu", prosta skripta) i u v14 ga nije bilo ni na slajdu ni u
+  govoru. Nemanja 12.10: sustina marketplace-a je trust, ne moze bilo ko
+  da prodaje.
+- Slajd 4: naslov "A marketplace of farmers you can trust." Tri kutije
+  ostaju. Ispod: "First: farmers we know. Then: new farmers join with our
+  sensors."
+- Govor na slajdu 4: Nemanjina dva pitanja ("Do you know what you eat? Do
+  you know what you buy?"), "only from farmers you can trust", pa farmeri
+  koje znamo, pa novi sa senzorima.
+- Pouka za sledece verzije: poverenje ("farmers you can trust") se ne
+  skida sa slajda o marketplace-u radi kratkoce.
+- Govor (Nemanja 12.10): sa slajda 8 izbaceno "Now we have the money and
+  we are building the farm." (zvuci kao da nam akcelerator ne treba); sa
+  slajda 3 izbaceno "When he sells direct, he gets the full price." (vec
+  sledi iz prethodne recenice).
+- Govor (Nemanja 12.10): slajd 4 dobija razlog zasto farmeri dolaze,
+  "The rent is paid before the season, so the farmer knows his harvest is
+  sold. That is why farmers come to us." Slajd 6: "After honey, we go to
+  milk and other farm products."
+- Govor, slajd 5 (Nemanja 12.10): dodato "Or a trusted farmer joins us."
+  posle "The community funds a farm.", da krug ne zvuci kao da drugih
+  farmera nema. Dijagram na slajdu nije menjan.
+- Govor, slajd 7 (Nemanja 12.10): "We did not find anyone who does all of
+  it." zamenjeno sa "We are closing the whole loop."
+- Slajd 6 (Nemanja 12.10, "sto nije globalna procena"): umesto "United
+  States: $1.1B" stoji "Global honey market, per year: $10B". Izvor:
+  cetiri procene za 2025 (Fortune BI $9.92B, IMARC $10.3B, Straits
+  $10.42B, Mordor $11.56B), placeni izvestaji, metoda nije proverena.
+  Govor: "The world buys about 10 billion dollars of honey every year."
+  "Europe eats even more" izbaceno, jer posle globalne brojke nema smisla.
+- Govor, slajd 4 (Nemanja 12.10): dodat prelaz "It is built on trust."
+  izmedju "So now we build a marketplace." i dva pitanja.
+- Govor, slajd 4 (Nemanja 12.10): pitanja idu sa uvodom, "The question
+  is: Do you know what you eat? And do you know what you buy?"
+

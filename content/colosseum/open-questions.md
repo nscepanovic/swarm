@@ -1,34 +1,46 @@
-# Treba od Nemanje (v10, 2026-10-11)
+# Treba od Nemanje (v11, 2026-10-12)
 
 Svako pitanje ima odgovor u jednoj recenici. Dok nema odgovora, na slajdu
 stoji placeholder u uglastim zagradama. Reseno je na dnu, radi traga.
 
-## Novo u v10 (drugi brief od 11.10: tri stuba, konkurencija, trziste)
+## Novo u v11 (brief od 12.10: jedna masina, krug)
 
-52. Drenio (drenio.rs): sajt je blokiran iz cloud sesije i web pretraga ne
-    nalazi nista o njemu. Na slajdu 5 stoji samo "local farmers to
-    consumers" iz tvog brief-a. Sta Drenio danas tacno nudi (samo
-    prodaja, ili i rezervacija ili pretplata)? Jedna recenica, ili link
-    koji ti vidis.
-53. Trziste (slajd 7): brojke su ukupna traznja kategorije po trzistu.
-    SAM i SOM nisu racunati jer brief kaze da se ne izmisljaju. Hoces li
-    pretpostavku za dostupan udeo (npr. koliko tegli godisnje po pcelaru
-    koga znamo, puta broj pcelara), da iz toga izvedemo SOM, ili slajd
-    ostaje "set after first sales"?
-54. Montreal: broj stanovnika CMA (4.29M, 2021) je sa sekundarnog sajta
+58. v12: recenica je zamenjena sa "The community we are building is our
+    first buyer" (Nemanja 12.10). Pitanje o prvom kupcu i dalje vazi.
+    Staro: Slajd 5 kaze "The people who fund a farm are also its first buyers".
+    Prodaje jos nema, pa je to model, ne rezultat. Da li je iko od 150
+    ulagaca vec rekao da hoce da kupi ili zakupi (poruka, komentar)? Jedan
+    primer bi tu recenicu pretvorio u dokaz.
+59. DELOM RESENO 12.10 (Nemanja): infrastruktura je na kriptu, primaju se
+    i kartice, sve se poravnava u stablecoin-ima. Na slajdu 3 od v12.
+    Ostaje: koji stablecoin i da li je renta token.
+    Staro pitanje: Sta ce u marketplace-u biti on-chain (placanje, renta kao token,
+    nista)? Deck sad kaze samo da su rejz i token na Solani. Zuri ce
+    pitati, treba jedna recenica.
+60. Slajd 8, "Next": pet koraka je izvedeno iz tvog brief-a od 12.10
+    (zavrsiti farmu, pustiti marketplace sa nasim proizvodima, pozvati
+    prve pcelare i mlekare, otvoriti rentu kosnice, finansirati sledecu
+    farmu sa zajednicom). Da li je redosled dobar?
+61. Slajd 8 naslov "We run real hives. Now we build the marketplace." i
+    slajd 6 naslov "We start with honey. The loop is built for other
+    farms too." su moji predlozi (raspored nije dao naslove). Ostaju?
+62. Mlekari: postoji li bar jedan mlekar sa kojim je bilo razgovora, ili
+    je "dairy farmers" za sad samo pravac? Na slajdu pise da cemo ih
+    pozvati, ne da ih imamo.
+52. Drenio: skinut sa slajda 7 u v11. drenio.rs se ne ucitava ni 12.10 i
+    pretraga ne nalazi nista. Ako hoces da se vrati, treba link koji ti
+    vidis i jedna recenica sta nudi.
+53. Trziste (slajd 6): na slajdu su Teksas (~$71M) i EU (EUR 2.6 do
+    5.2B) kao velicina kategorije meda. SAM i SOM i dalje nisu racunati.
+    Ako zuri pita "koliko od toga je vase", koji je tvoj odgovor u jednoj
+    recenici?
+
+## Staro iz v10 (ostaje otvoreno)
+
+54. (Nije vise na slajdu od v11.) Montreal: broj stanovnika CMA (4.29M, 2021) je sa sekundarnog sajta
     koji citira Statistics Canada; broj domacinstava i maloprodajna cena
     meda u Kanadi iz primarnog izvora nisu nadjeni. Ako imas pcelara u
     Montrealu, njegova cena po tegli je bolji ulaz od statistike. Imas li je?
-55. Stub PARTICIPATE pise "Help fund real production", ne "own" ni
-    "invest", jer brief kaze da se prava i pravna struktura ne obecavaju.
-    Da li je "help fund" dobra rec za ono sto je 150 ljudi uradilo, ili
-    hoces drugu (backed, funded)?
-56. Stub RESERVE: "rent a hive or a cow for a season, or reserve part of a
-    future harvest". Da li je krava primer koji hoces na slajdu vec sad,
-    ili samo kosnica dok mleko ne bude bar u razgovoru?
-57. Slajd 6: Bosna je napisana jer je brief navodi kao potvrdjenu
-    cinjenicu. Potvrdi da sme na slajd i u video (CLAUDE.md pravilo o
-    mestima). Takodje: Futard screenshot dajes ti (brief).
 
 ## Za researcher-a (v10)
 
@@ -45,7 +57,8 @@ R6. Montreal CMA: broj privatnih domacinstava 2021 (StatCan Census
     ali i da se pravi interfejs potvrdi pre predaje. Postoji li stranica
     koja moze da se otvori i snimi (pcelar, proizvod, kupovina)? Ako ne,
     slajd 3 i scenario prelaze u "we are building". (slajd 3, demo)
-48. Fotografije: cloud sesija ne moze do Drive-a, futard.io ni
+48. (U v11 mesta su na slajdovima 1, 2, 4 i 8: kosnice, Futard
+    screenshot i farma, senzor, osnivaci.) Fotografije: cloud sesija ne moze do Drive-a, futard.io ni
     hivebits.io, pa su na slajdovima 1, 3, 5 i 7 obelezena mesta. Koje
     fotke idu: pcelinjak (slajd 1), screenshot Futard stranice i farma ili
     kosnice (slajd 5), osnivaci (slajd 7)? Mozes ih ubaciti sam u Slides-u
@@ -216,6 +229,25 @@ R2. Da li 3Bee, Honeyverse ili iko drugi prodaje kosnice sa zapisom na
     ovaj hakaton, ali Vukasin je pominjao)?
 
 ## Reseno (trag)
+
+- 43 i 41 (12.10): zatvoreno Nemanjinom izjavom. U brief-u od 12.10 sam
+  pise "1. tokenizovana farma u vlasnistvu komunitija", pa na slajdu 2
+  stoji "the first tokenized farm owned by the community", bez ograde.
+  Ako zuri pita "first u kom smislu", odgovor daje Nemanja.
+- 55 (12.10): stub PARTICIPATE vise ne postoji; rec je "we raised" i
+  "funds" (Nemanja 12.10).
+- 56 (12.10): krava ostaje kao primer rente (Nemanja 12.10: "renta
+  citava kosnica ili krava ili sta god"). "Reserve part of a future
+  harvest" je izbacen.
+- 57 (12.10): Bosna je u odobrenom rasporedu od 12.10 (slajd 2) i javna
+  je od posta 16.09. Futard screenshot i dalje daje Nemanja (#48).
+- 49 delimicno (12.10): $140K je na naslovnoj i slajdu 2 kao "we raised
+  $140K" (Nemanja 12.10). $243K ponudjeno i dalje nije na slajdu.
+- 52 (12.10): Drenio skinut sa slajda jer nije proverljiv; pitanje gore
+  ostaje samo ako Nemanja hoce da ga vrati.
+- Naknada na rejz novih farmi (#39), deo od rente (#40), prodaja
+  hardvera (12.10): nisu potvrdjeni i nisu u decku. Jedini prihod na
+  slajdu je 5% od svake prodaje.
 
 - Pravac (10.10): pravac 1, platforma gde ljudi poseduju farmu; rentanje i
   prodaja su korak 2 i 3, ne naslov.
