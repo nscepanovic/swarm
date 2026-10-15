@@ -555,3 +555,24 @@ pocinje na 500 kom i kod firmi.
    sertifikat, ili sopstveni uzgoj od druge godine).
 3. Da li se pojedincu uopste prodaje, ili se prve kucice daju domacinima
    besplatno, a placaju samo firme (sekcija 12, model 1).
+
+---
+
+## 16. Smart Start: plan za prijavu (15.10)
+
+Rok 16.11.2026 12:00, prijava gotova do 10.11. Uslovi u news.md (14.10).
+
+1. Tim do kraja oktobra: 2-5 ljudi, 51% rezidenti Srbije, 51% bez udela u
+   srpskoj firmi; hardver + softver + biologija.
+2. Prijava je jedan prototip: 20 kucica kod domacina, jedna sezona
+   podataka, app, 6-9 meseci. Bez DePIN i tokena u tekstu.
+3. Dokaz potraznje do prijave: anketa + 2-3 pisma namere (firma, opstina
+   ili skola).
+4. Nauka: MacIvor i Packer 2015, Pasquali 2025, Henry i Rodet 2018, po
+   jedna recenica.
+5. Sta vec imamo: farma, sopstveni senzori, 150 ulagaca, osnivac sa
+   profilom.
+6. Budzet po prirucniku: hardver 20 kom, firmware i app, kokoni, test,
+   put do domacina; 10% kes unapred; mentorstvo za biologa.
+7. Video 3 min na farmi: problem ispred kosnica, kucica u ruci, tim i cilj.
+   Engleski, prost, bez slajdova.
