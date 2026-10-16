@@ -2,8 +2,8 @@
 date: "2026-10-16"
 time: ""
 account: "hivebits_io"
-status: "draft"
-media: "nekoliko snimaka iz drona sa lokacija (planine, livade), bez kosnica. Jos nisu na Drive-u ni u materials/index.md."
+status: "objavljeno (Nemanja 16.10: izaslo, tweet_id nije zaveden)"
+media: "nekoliko snimaka iz drona sa lokacija (planine, livade), bez kosnica. Ne idu na Drive (Nemanja 16.10)."
 tweet_id: ""
 title: "Office"
 ---
@@ -14,9 +14,8 @@ Format: samostalan post + video iz drona. Sam po sebi zanimljiv, sala.
 
 ## POST
 
-HB team usually works from the office. It's a bit too big, but it's ours, what to do :D
+Poslednje dve varijante (koja je tacno izasla nije potvrdjeno):
 
-## Pre objave
+HiveBits team usually works from the office. It's a bit too big, but it's ours, what to do 🤷‍♂️
 
-- Snimke iz drona zavesti u materials/index.md kad stignu na Drive.
-- Bez imena mesta u postu, lokacije nisu pomenute.
+Our team usually works from the office. It's a bit too big, but it's ours, what to do 🤷‍♂️
