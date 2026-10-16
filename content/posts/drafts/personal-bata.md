@@ -2,7 +2,7 @@
 date: "2026-10-01"
 time: ""
 account: "0xbeesmart"
-status: "draft"
+status: "published"
 media: "api-toxin_therapy.mov (iseci 25-40s)"
 tweet_id: ""
 title: "Bata: operacija otkazana"

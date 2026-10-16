@@ -2,7 +2,7 @@
 date: "2026-10-13"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "published"
 media: "video obelezavanja matice (kod Nemanje, nije na Drive-u ni u materials/index.md)"
 tweet_id: ""
 title: "Obelezavanje matice i boje"

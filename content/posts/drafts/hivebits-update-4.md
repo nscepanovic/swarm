@@ -2,7 +2,7 @@
 date: "2026-10-14"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "published"
 media: "video 2 (update 4 ideo 2), Nemanja hoda i prica, 75s"
 tweet_id: ""
 title: "Cetvrti update: dve ponude za kontejnere, Colosseum, dobavljaci opreme"
