@@ -14,8 +14,6 @@ Format: samostalan post + video iz drona. Sam po sebi zanimljiv, sala.
 
 ## POST
 
-Poslednje dve varijante (koja je tacno izasla nije potvrdjeno):
+Our team usually works from the office.
 
-HiveBits team usually works from the office. It's a bit too big, but it's ours, what to do 🤷‍♂️
-
-Our team usually works from the office. It's a bit too big, but it's ours, what to do 🤷‍♂️
+It's a bit too big, but it's ours, what to do 🤷‍♂️
