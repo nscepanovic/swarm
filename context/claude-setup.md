@@ -114,3 +114,14 @@ Token je u `.env` (`COLOSSEUM_COPILOT_PAT`, `COLOSSEUM_COPILOT_API_BASE`),
 na oba mesta. Vazi oko 90 dana (izdat 2026-09-22), novi se pravi na
 https://colosseum.com/arena/copilot. Rezultati iz Copilota su izvor za
 konkurenciju, nikad za HiveBits brojke.
+
+## Telegram bot: kad ne odgovara
+
+Ulaz na server: `ssh ops@188.244.117.234`, pa `sudo -iu swarm` (sudo trazi
+lozinku, zato agent ne moze sam do sesije). Direktan SSH kao `swarm` ne radi.
+
+Pregled sesije: `sudo -iu swarm tmux attach -t swarm`, izlaz `Ctrl+b` pa `d`.
+
+Ako procesi rade (`ps aux | grep claude`) a bot cuti, problem je u samoj
+sesiji. 16.10 je uzrok bio model: Claude u sesiji nije mogao da radi sa
+izabranim modelom, a resenje je bio izbor drugog modela (`/model`).
