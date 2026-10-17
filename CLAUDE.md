@@ -52,6 +52,12 @@ nema smisla. (Pogresio sam 06.10 dva puta: iz klipa 7, koji je o tome zasto
 smo rejzovali, izvukao sam "vazduh iz kosnice", pa iz klipa 2 samo kraj sa
 "30% manje pcela".)
 
+**Glavni post na @hivebits_io je kako pravimo farmu.** Kontejneri,
+kosnice, ramovi, uredjaj, dobavljaci, update. Postovi o pcelama (kako pcele
+rade, sezona, zanimljivosti) ne prolaze dobro i idu samo kao sekundarni, drugi
+post u danu ili kad nema nicega sa farme. (Nemanja, 17.10. Pogresio sam:
+predlozio sam nedelju od cetiri posta o pcelama.)
+
 **Jezik: engleski.** Publika su investitori i medjunarodni Solana/RWA svet.
 
 **Marketplace se javno opisuje samo kroz "farmers you can trust".** Ne
