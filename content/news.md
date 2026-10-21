@@ -21,6 +21,15 @@ nisu izgovorena.
 
 ---
 
+## 2026-10-21 · Sinisa iskuvava staru opremu u kausticnoj sodi
+- Nemanja: Sinisa je poslao video kako iskuvava staru opremu u kausticnoj sodi. Post za danas: beekeeping nije uvek cist posao, stara oprema mora da se iskuva u NaOH da se spreci bolest.
+- potvrdjeno: stara oprema se iskuvava u kausticnoj sodi (NaOH), zbog bolesti.
+- nije potvrdjeno: koja oprema, gde, koliko.
+- materijal: video kod Nemanje (Sinisa poslao), nije na Drive-u
+- status: u draftu (content/posts/drafts/hivebits-kaustik-soda.md)
+
+---
+
 ## 2026-10-12 · koristicemo LR kosnice
 - Nemanja: post o LR kosnicama je otisao danas na @hivebits_io.
 - potvrdjeno: na farmi koristimo LR (Langstroth-Root) kosnice. Tekst posta: "We will use LR hives on our farm. LR means Langstroth-Root. This is how one looks."
