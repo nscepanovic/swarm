@@ -14,4 +14,4 @@ Tekst je Nemanjin, ispravljena samo gramatika. "formula kausticne sode" = NaOH.
 
 ## POST
 
-Beekeeping is not always clean work. Old equipment must be cooked in NaOH to prevent diseases.
+Beekeeping is not always clean work. Used equipment must be cooked in NaOH to prevent diseases.
