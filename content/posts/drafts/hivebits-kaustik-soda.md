@@ -14,4 +14,4 @@ Nemanja izabrao varijantu 4 i dodao "to clean and disinfect". "formula kausticne
 
 ## POST
 
-Beekeeping is not only honey and nice photos. Used equipment must be cooked in NaOH to clean and disinfect it and prevent diseases.
+Beekeeping is not only honey. Used equipment must be cooked in NaOH to clean and disinfect it and prevent diseases.
