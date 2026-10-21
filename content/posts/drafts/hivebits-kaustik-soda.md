@@ -10,8 +10,8 @@ title: "Iskuvavanje stare opreme u NaOH"
 
 # @hivebits_io, sreda 21.10
 
-Tekst je Nemanjin, ispravljena samo gramatika. "formula kausticne sode" = NaOH.
+Nemanja izabrao varijantu 4 i dodao "to clean and disinfect". "formula kausticne sode" = NaOH.
 
 ## POST
 
-Beekeeping is not always clean work. Used equipment must be cooked in NaOH to prevent diseases.
+Beekeeping is not only honey and nice photos. Used equipment must be cooked in NaOH to clean and disinfect it and prevent diseases.
