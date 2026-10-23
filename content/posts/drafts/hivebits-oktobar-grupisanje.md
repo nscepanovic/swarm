@@ -14,4 +14,6 @@ Tekst je Nemanjin, ispravljena samo gramatika. Sekundarni post (pcele).
 
 ## POST
 
-October is coming to an end. Bee activity is going down, they are getting ready for winter.
+October is coming to an end. Bee activity is going down, they are getting ready for winter. This leaves our team time to handle new equipment and prepare.
+
+Otvoreno: "prepare" za sta, Nemanja nije rekao. Pitano 23.10.
