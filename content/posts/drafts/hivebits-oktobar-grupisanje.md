@@ -3,20 +3,15 @@ date: "2026-10-23"
 time: ""
 account: "hivebits_io"
 status: "draft"
-media: "nije receno"
+media: "snimak ~5 sekundi, par kosnica, pcele uleću, nema ih mnogo (kod Nemanje, nije na Drive-u)"
 tweet_id: ""
-title: "Kraj oktobra, pcele se grupisu"
+title: "Kraj oktobra, pcele manje aktivne"
 ---
 
 # @hivebits_io, petak 23.10
 
-Nemanjina ideja: "oktobar se primice kraju, pcele se grupisu". Sekundarni post (pcele).
-Bez tvrdnje da merimo temperaturu na nasim kosnicama, nije potvrdjeno.
+Tekst je Nemanjin, ispravljena samo gramatika. Sekundarni post (pcele).
 
-## POST, varijanta 1
+## POST
 
-October is almost over. The bees start to group together in the hive to stay warm.
-
-## POST, varijanta 2
-
-October is almost over. The bees start to group together around the queen. Like this they keep the heat and nobody freezes.
+October is coming to an end. Bee activity is going down, they are getting ready for winter.
