@@ -2,7 +2,7 @@
 date: "2026-10-23"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "snimak ~5 sekundi, par kosnica, pcele uleću, nema ih mnogo (kod Nemanje, nije na Drive-u)"
 tweet_id: ""
 title: "Kraj oktobra, pcele manje aktivne"

@@ -2,7 +2,7 @@
 date: "2026-09-25"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "quote-tweet originalnog @EcosystemCall posta (Nemanja bira ovo umesto upload-a fajla; ceka link)"
 tweet_id: ""
 title: "Ecosystem Call shoutout #2 (drugi update)"

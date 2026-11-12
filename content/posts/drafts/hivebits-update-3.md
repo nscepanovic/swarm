@@ -2,7 +2,7 @@
 date: "2026-10-02"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "video, Nemanja u kadru + 10s covek u kontejneru + 10s rad sa pcelama (jos nije snimljeno)"
 tweet_id: ""
 title: "Treci update: cetiri kompanije na terenu, dve ponude"

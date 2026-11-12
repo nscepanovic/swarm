@@ -2,7 +2,7 @@
 date: "2026-10-16"
 time: ""
 account: "0xbeesmart"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "Nemanja Clip #1 sa livestreama (52s), ceo klip"
 tweet_id: ""
 title: "Zasto HiveBits: tri stvari u jednoj"

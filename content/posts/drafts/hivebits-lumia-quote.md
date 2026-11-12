@@ -2,7 +2,7 @@
 date: "2026-10-07"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "quote posta foundera Lumie (link ceka, post jos nije objavljen)"
 tweet_id: ""
 title: "Lumia: igra o pcelarstvu (quote)"

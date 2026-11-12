@@ -2,7 +2,7 @@
 date: "2026-10-13"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "video o ramovima i razmaku izmedju njih, Nemanja snima (ideja 12.10, jos nije snimljeno)"
 tweet_id: ""
 title: "Kako radi LR kosnica: pcelinji razmak"

@@ -2,7 +2,7 @@
 date: "2026-10-21"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "video: Sinisa iskuvava staru opremu u kausticnoj sodi (Sinisa poslao Nemanji, nije na Drive-u)"
 tweet_id: ""
 title: "Iskuvavanje stare opreme u NaOH"

@@ -2,7 +2,7 @@
 date: "2026-10-06"
 time: ""
 account: "hivebits_io"
-status: "draft"
+status: "objavljeno (Nemanja 12.11: sve iz drafts je izaslo, tweet_id nije zaveden)"
 media: "link kartica https://marketplace.hivebits.io/"
 tweet_id: ""
 title: "Ulazimo u Colosseum sa marketplace-om"
