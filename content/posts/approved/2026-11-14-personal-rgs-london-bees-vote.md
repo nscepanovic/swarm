@@ -1,8 +1,8 @@
 ---
-date: ""
+date: "2026-11-14"
 time: "18:00"
 account: "0xbeesmart"
-status: "draft"
+status: "approved"
 media: "fotka RGS table, Exhibition Road (Nemanja poslao u chatu 14.11, nije na Drive-u)"
 tweet_id: ""
 title: "London, RGS, publika glasala za pcele 2008"
@@ -24,7 +24,7 @@ zgradi RGS-a, novembar 2008, glasanje publike, pcele pobedile
 (https://www.all-creatures.org/articles/env-whybees.html). Ne dodavati
 "bez patogena" ni Ajnstajna, nemaju izvor.
 
-Danas (14.11) je subota, vikend pauza. Predlog objave: ponedeljak 16.11.
+Nemanja 14.11: ide danas, u Londonu je (izuzetak od vikend pauze).
 
 Quote sa @hivebits_io, isti dan posle:
 
