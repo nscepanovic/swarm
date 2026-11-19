@@ -12,11 +12,9 @@ A few days at Breakpoint in London. Many interesting people and a lot to learn. 
 
 ---
 
-Quote sa @hivebits_io (Nemanja bira):
+Quote sa @hivebits_io (Nemanjin tekst 19.11, samo gramatika):
 
-    Amazing few days in London for our founder.
-
-    Amazing to see bees at Breakpoint.
+    Amazing talks with current and future partners. Even more energy to build.
 
 Nemanja 19.11: slika sa BP i slika Big Bena, "par dana na BP", hivebits
-repost. Bez imena ljudi i dogovora koje nije rekao.
+repost. Bez imena partnera i dogovora koje nije rekao.
